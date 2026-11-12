@@ -1,0 +1,20 @@
+name: Validate English drama workflow
+on:
+  push:
+  pull_request:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install local media test tools
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg tesseract-ocr tesseract-ocr-eng
+      - name: Unit tests
+        run: python3 -m unittest discover -s tests -p 'test_*.py'
+      - name: Validate example
+        run: python3 tools/check_story.py examples/story.example.json --no-files
+      - name: Fake-provider production regression
+        run: python3 -u tests/test_workflow.py

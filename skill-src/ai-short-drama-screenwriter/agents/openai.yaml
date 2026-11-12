@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI Short-Drama Screenwriter"
+  short_description: "Develop short-drama premises, characters, dialogue, twists and scripts"
+  default_prompt: "Use $ai-short-drama-screenwriter to develop my premise into a filmable short-drama script in my requested language."
+policy:
+  allow_implicit_invocation: true
