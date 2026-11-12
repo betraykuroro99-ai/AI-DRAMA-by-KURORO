@@ -1,6 +1,6 @@
 # Episode 3 plan and estimate
 
-Status: draft for review; no paid requests authorized or submitted.
+Status: Episode 3 script and separate $6 cap approved by user: “comntimnue.”
 
 ## Cast and sound
 
@@ -29,3 +29,7 @@ Fetch fresh model quotes before submission. Reserve each request in a separate E
 ## Delivery and review
 
 Portrait 480 × 854, H.264/AAC, Tagalog captions, moving translucent Kuro Dorama logo, and a smaller download copy. Preserve clean sources. Check the sender identity, recording date, historical missed-call UI, silence during listening, mother/daughter voice distinction, restrained expressions, continuity, all exact dialogue, readable captions and video playback. No claim of human listening or perfect lip synchronization.
+
+## Actual delivery
+
+Final measured edit: 43.21 seconds. The full 24.56-second mother recording and all three Lea replies are preserved at original speed, without padding to the preliminary duration estimate. Five video units were generated, and a silent Nestor reaction was reused. Tracked conservative ceiling: $3.33 of the separately approved $6 cap. No Episode 4 paid requests were submitted.

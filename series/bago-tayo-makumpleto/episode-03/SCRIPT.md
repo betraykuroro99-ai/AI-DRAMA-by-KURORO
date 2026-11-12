@@ -1,6 +1,6 @@
 # Episode 3 — Hindi Naipadala
 
-Draft for review. Target: approximately 55–70 seconds after measuring dialogue. Portrait 9:16, 480p; established 2D illustrated style and moving Kuro Dorama logo. No paid production authorization has been recorded for Episode 3.
+Approved by user: “comntimnue” after script and $6 cap request. Target: approximately 55–70 seconds after measuring dialogue. Portrait 9:16, 480p; established 2D illustrated style and moving Kuro Dorama logo. Episode 3 production authorized up to $6, separately from previous episodes.
 
 ## 1. INT. LEA'S OVERSEAS ROOM — NIGHT
 

@@ -1,0 +1,226 @@
+{
+  "duration_seconds": 43.208333333333336,
+  "picture_segments": [
+    {
+      "shot": "phone",
+      "source_in": 0.0,
+      "source_out": 2.0,
+      "mode": "forwarded",
+      "crop": false,
+      "timeline_in": 0,
+      "timeline_out": 2.0
+    },
+    {
+      "shot": "lea-ma",
+      "source_in": 0.25,
+      "source_out": 2.0,
+      "mode": null,
+      "crop": true,
+      "timeline_in": 2.0,
+      "timeline_out": 3.75
+    },
+    {
+      "shot": "lea-listening-a",
+      "source_in": 0.0,
+      "source_out": 3.0,
+      "mode": null,
+      "crop": true,
+      "timeline_in": 3.75,
+      "timeline_out": 6.75
+    },
+    {
+      "shot": "phone",
+      "source_in": 0.0,
+      "source_out": 2.0,
+      "mode": "forwarded",
+      "crop": false,
+      "timeline_in": 6.75,
+      "timeline_out": 8.75
+    },
+    {
+      "shot": "lea-listening-a",
+      "source_in": 8.0,
+      "source_out": 12.5,
+      "mode": null,
+      "crop": true,
+      "timeline_in": 8.75,
+      "timeline_out": 13.25
+    },
+    {
+      "shot": "elena-memory",
+      "source_in": 0.0,
+      "source_out": 6.291666666666667,
+      "mode": null,
+      "crop": false,
+      "timeline_in": 13.25,
+      "timeline_out": 19.541666666666668
+    },
+    {
+      "shot": "lea-listening-b",
+      "source_in": 0.0,
+      "source_out": 6.75,
+      "mode": null,
+      "crop": false,
+      "timeline_in": 19.541666666666668,
+      "timeline_out": 26.291666666666668
+    },
+    {
+      "shot": "lea-listening-b",
+      "source_in": 6.75,
+      "source_out": 7.75,
+      "mode": null,
+      "crop": false,
+      "timeline_in": 26.291666666666668,
+      "timeline_out": 27.291666666666668
+    },
+    {
+      "shot": "lea-response",
+      "source_in": 0.2916666666666667,
+      "source_out": 5.541666666666667,
+      "mode": null,
+      "crop": false,
+      "timeline_in": 27.291666666666668,
+      "timeline_out": 32.54166666666667
+    },
+    {
+      "shot": "phone",
+      "source_in": 0.0,
+      "source_out": 3.5,
+      "mode": "history",
+      "crop": false,
+      "timeline_in": 32.54166666666667,
+      "timeline_out": 36.04166666666667
+    },
+    {
+      "shot": "lea-response",
+      "source_in": 5.833333333333333,
+      "source_out": 8.0,
+      "mode": null,
+      "crop": false,
+      "timeline_in": 36.04166666666667,
+      "timeline_out": 38.208333333333336
+    },
+    {
+      "shot": "nestor-reused",
+      "source_in": 0.0,
+      "source_out": 5.0,
+      "mode": null,
+      "crop": false,
+      "timeline_in": 38.208333333333336,
+      "timeline_out": 43.208333333333336
+    }
+  ],
+  "audio_placements": [
+    {
+      "id": "L01-intro",
+      "file": "L01.wav",
+      "source_in": 0,
+      "source_out": 2,
+      "timeline_start": 0
+    },
+    {
+      "id": "L01-rest",
+      "file": "L01.wav",
+      "source_in": 2,
+      "source_out": 24.56,
+      "timeline_start": 3.75
+    },
+    {
+      "id": "L02",
+      "file": "L02.wav",
+      "source_in": 0,
+      "source_out": 1.2,
+      "timeline_start": 2.25
+    },
+    {
+      "id": "L03",
+      "file": "L03.wav",
+      "source_in": 0,
+      "source_out": 4.44,
+      "timeline_start": 27.67
+    },
+    {
+      "id": "L04",
+      "file": "L04.wav",
+      "source_in": 0,
+      "source_out": 5.8,
+      "timeline_start": 36.41833333333332
+    }
+  ],
+  "dialogue_captions": [
+    {
+      "speaker": "Elena",
+      "text": "Lea, anak.",
+      "start": 0.21,
+      "end": 1.9
+    },
+    {
+      "speaker": "Lea",
+      "text": "Ma?",
+      "start": 2.25,
+      "end": 3.45
+    },
+    {
+      "speaker": "Elena",
+      "text": "Nakuha namin 'yung pinadala mo.",
+      "start": 3.81,
+      "end": 6.3
+    },
+    {
+      "speaker": "Elena",
+      "text": "Salamat, anak.",
+      "start": 6.85,
+      "end": 8.1
+    },
+    {
+      "speaker": "Elena",
+      "text": "Pero magtira ka rin para sa sarili mo, ha?",
+      "start": 8.74,
+      "end": 11.46
+    },
+    {
+      "speaker": "Elena",
+      "text": "Kung hindi ka makauwi ngayong Pasko,",
+      "start": 12.43,
+      "end": 14.76
+    },
+    {
+      "speaker": "Elena",
+      "text": "huwag kang mahiyang tumawag.",
+      "start": 15.28,
+      "end": 17.03
+    },
+    {
+      "speaker": "Elena",
+      "text": "Kahit wala kang padala.",
+      "start": 17.5,
+      "end": 19.23
+    },
+    {
+      "speaker": "Elena",
+      "text": "Anak pa rin kita, kahit malayo ka.",
+      "start": 19.72,
+      "end": 22.0
+    },
+    {
+      "speaker": "Elena",
+      "text": "Pag-uwi mo, may plato ka pa rin dito.",
+      "start": 22.99,
+      "end": 25.99
+    },
+    {
+      "speaker": "Lea",
+      "text": "Ma... bakit ngayon ko lang 'to narinig?",
+      "start": 27.67,
+      "end": 32.11
+    },
+    {
+      "speaker": "Lea",
+      "text": "Pa, noong tumawag si Mama... ano'ng sinabi niya?",
+      "start": 36.41833333333332,
+      "end": 42.21833333333332
+    }
+  ],
+  "approved_dialogue_blocks_preserved": 7,
+  "note": "Mother message is one complete recording split once at a silent boundary; all three Lea recordings included once at original speed."
+}

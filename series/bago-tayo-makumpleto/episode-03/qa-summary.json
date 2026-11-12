@@ -1,0 +1,11 @@
+{
+  "duration_seconds": 43.208333,
+  "mother_recording_complete_seconds": 24.56,
+  "lea_replies_preserved_once": 3,
+  "approved_dialogue_blocks": 7,
+  "picture": "480x854 H.264, 24 fps",
+  "audio": "48 kHz stereo AAC",
+  "max_sample_peak_db": -2.8,
+  "sustained_black_frames_detected": false,
+  "review": "Source and generated speaking-shot transcriptions checked; contact sheets and final caption frame visually inspected. Silent listening and clearly marked past memory. No claim of human listening or perfect lip sync."
+}
