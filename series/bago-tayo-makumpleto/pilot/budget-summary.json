@@ -1,0 +1,11 @@
+{
+  "approved_cap_usd": 2,
+  "tracked_conservative_ceiling_usd": 0.87,
+  "remaining_usd": 1.13,
+  "notes": [
+    "Includes the failed scene-line request at its full reserved ceiling; whether that rejected request was actually charged is unconfirmed.",
+    "Image reference generated in-chat, with zero Venice image requests.",
+    "TTS reservations include prompt characters and a safety margin; this is not a provider invoice.",
+    "No music or episode generation was submitted."
+  ]
+}
