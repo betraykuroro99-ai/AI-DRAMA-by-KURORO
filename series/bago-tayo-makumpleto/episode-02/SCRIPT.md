@@ -1,6 +1,6 @@
 # Episode 2 — ’Yung Naiwan
 
-Draft for review. Target: 65–80 seconds; portrait 9:16, 480p. Dialogue remains Tagalog. Continue directly from Episode 1, with the same clothes, phone and evening light. No new paid generation is authorized by this document.
+Approved by user: “Continue” after the script and $7 cap request. Target: 65–80 seconds; portrait 9:16, 480p. Dialogue remains Tagalog. Continue directly from Episode 1, with the same clothes, phone and evening light. Episode 2 production authorized up to $7, separately from Episode 1.
 
 ## 1. INT. MARCO'S BEDROOM — NIGHT
 

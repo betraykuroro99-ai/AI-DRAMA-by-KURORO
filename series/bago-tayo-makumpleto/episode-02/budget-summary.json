@@ -1,0 +1,22 @@
+{
+  "scope": "Episode 2 only",
+  "approved_cap_usd": 7,
+  "tracked_conservative_ceiling_usd": 4.36,
+  "remaining_authorization_usd": 2.64,
+  "video_model": "minimax-h3-max-reference-to-video",
+  "voice_model": "tts-gemini-3-1-flash",
+  "voices": {
+    "Nestor": "Algenib",
+    "Marco": "Orus"
+  },
+  "venice_image_requests": 0,
+  "new_music_requests": 0,
+  "notes": [
+    "This is a conservative reservation ledger, not a Venice invoice.",
+    "All failed/rejected requests retain their full reservations.",
+    "Includes two pronunciation clarification recordings and transcript checks.",
+    "Nestor saying Marco is reused from Episode 1 after a new one-word request was rejected.",
+    "Images generated in ChatGPT; existing instrumental score and Kuro Dorama logo reused.",
+    "No Episode 3 paid calls have been submitted."
+  ]
+}

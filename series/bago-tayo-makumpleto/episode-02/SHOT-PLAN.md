@@ -1,6 +1,6 @@
 # Episode 2 production plan
 
-Status: draft; awaiting script and new spending approval. Episode 1's $8 cap does not authorize Episode 2. Preparation so far uses no paid calls.
+Status: Episode 2 script and $7 cap approved by user: “Continue.” This is a new separate budget; Episode 1 remains unchanged.
 
 ## Picture and audio
 
@@ -28,3 +28,7 @@ Images generated in ChatGPT and local editing do not consume Venice credits. No 
 ## Review before delivery
 
 Check all exact lines, adult faces and voices, phone ownership and case color, closed mouths outside speech, readable recorder UI, the ordinary saved-file explanation, subtitle placement, logo movement, codec and duration. Preserve unwatermarked source and supply a small download version. No claim of perfect lip synchronization or human listening.
+
+## Actual delivery
+
+The measured performances produced a 57.29-second final edit, with all 12 approved dialogue lines preserved once at original speed. Six video units were generated. Tracked conservative ceiling: $4.36 of the separately approved $7 cap, including rejected requests and pronunciation corrections. The moving transparent Kuro Dorama logo is included. No Episode 3 generation has been submitted.
