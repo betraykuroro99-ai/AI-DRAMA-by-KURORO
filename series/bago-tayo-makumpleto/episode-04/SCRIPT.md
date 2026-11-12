@@ -1,6 +1,6 @@
 # Episode 4 — Ang Huling Tawag
 
-Draft for review. Target: approximately 45–60 seconds after measuring performances. Portrait 9:16, 480p, established 2D illustrated style and moving Kuro Dorama logo. No Episode 4 paid authorization recorded.
+Approved by user: “continue” after script and separate $6 cap request. Target: approximately 45–60 seconds after measuring performances. Portrait 9:16, 480p, established 2D illustrated style and moving Kuro Dorama logo. Episode 4 production authorized up to $6, separately from earlier episodes.
 
 ## 1. EXT. FAMILY VERANDA — NIGHT
 

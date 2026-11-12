@@ -1,6 +1,6 @@
 # Episode 4 plan and estimate
 
-Status: draft; no paid requests authorized or submitted.
+Status: script and separate $6 Episode 4 cap approved by user: “continue.”
 
 ## Cast, style and sound
 
@@ -29,3 +29,7 @@ Fresh quotes must be fetched before paid submissions. Record reservations in an 
 ## Review and delivery
 
 Check exact words, distinct consistent voices, small speaking-only mouth movement, continuity, one physically natural spoonful, old versus current phone entries, readable Marco message, captions, moving logo and playback. Deliver captioned video, smaller download, clean source and optional SRT. Do not claim perfect lip synchronization or human listening.
+
+## Actual delivery
+
+The measured final edit is 48.04 seconds, with all ten approved dialogue lines included once at original recorded speed. Six video units were generated, including a new silent reaction to Marco's message. Tracked conservative ceiling: $3.79 of the separately approved $6 cap. No Episode 5 paid requests were submitted.

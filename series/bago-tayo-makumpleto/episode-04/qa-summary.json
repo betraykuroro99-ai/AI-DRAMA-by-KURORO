@@ -1,0 +1,9 @@
+{
+  "duration_seconds": 48.041667,
+  "approved_dialogue_lines_preserved_once": 10,
+  "picture": "480x854 H.264, 24 fps",
+  "audio": "48 kHz stereo AAC",
+  "max_sample_peak_db": -1.6,
+  "sustained_black_frames_detected": false,
+  "review": "Source wording checked with Whisper and Scribe; generated speaking-shot timing checked. Contact sheets and final caption, eating and message frames visually inspected. No claim of human listening or perfect lip sync."
+}

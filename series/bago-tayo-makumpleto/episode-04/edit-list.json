@@ -1,0 +1,198 @@
+{
+  "duration_seconds": 48.04166666666666,
+  "segments": [
+    {
+      "shot": "nestor-a",
+      "source_in": 0.2916666666666667,
+      "source_out": 2.5416666666666665,
+      "lines": [
+        "L01"
+      ],
+      "punch": false,
+      "timeline_in": 0,
+      "timeline_out": 2.25
+    },
+    {
+      "shot": "lea-a",
+      "source_in": 0.2916666666666667,
+      "source_out": 3.7916666666666665,
+      "lines": [
+        "L02"
+      ],
+      "punch": false,
+      "timeline_in": 2.25,
+      "timeline_out": 5.75
+    },
+    {
+      "shot": "nestor-a",
+      "source_in": 2.875,
+      "source_out": 7.875,
+      "lines": [
+        "L03"
+      ],
+      "punch": false,
+      "timeline_in": 5.75,
+      "timeline_out": 10.75
+    },
+    {
+      "shot": "lea-a",
+      "source_in": 4.166666666666667,
+      "source_out": 7.208333333333333,
+      "lines": [
+        "L04"
+      ],
+      "punch": false,
+      "timeline_in": 10.75,
+      "timeline_out": 13.791666666666666
+    },
+    {
+      "shot": "nestor-a",
+      "source_in": 8.208333333333334,
+      "source_out": 10.0,
+      "lines": [
+        "L05"
+      ],
+      "punch": false,
+      "timeline_in": 13.791666666666666,
+      "timeline_out": 15.583333333333332
+    },
+    {
+      "shot": "nestor-b",
+      "source_in": 0.2916666666666667,
+      "source_out": 8.791666666666666,
+      "lines": [
+        "L06",
+        "L07"
+      ],
+      "punch": true,
+      "timeline_in": 15.583333333333332,
+      "timeline_out": 24.083333333333332
+    },
+    {
+      "shot": "lea-b",
+      "source_in": 0.2916666666666667,
+      "source_out": 3.5,
+      "lines": [
+        "L08"
+      ],
+      "punch": false,
+      "timeline_in": 24.083333333333332,
+      "timeline_out": 27.291666666666664
+    },
+    {
+      "shot": "nestor-b",
+      "source_in": 8.666666666666666,
+      "source_out": 12.833333333333334,
+      "lines": [
+        "L09"
+      ],
+      "punch": false,
+      "timeline_in": 27.291666666666664,
+      "timeline_out": 31.458333333333332
+    },
+    {
+      "shot": "lea-eating",
+      "source_in": 0.0,
+      "source_out": 5.0,
+      "lines": [],
+      "punch": false,
+      "timeline_in": 31.458333333333332,
+      "timeline_out": 36.45833333333333
+    },
+    {
+      "shot": "lea-b",
+      "source_in": 4.041666666666667,
+      "source_out": 8.333333333333334,
+      "lines": [
+        "L10"
+      ],
+      "punch": false,
+      "timeline_in": 36.45833333333333,
+      "timeline_out": 40.74999999999999
+    },
+    {
+      "shot": "phone",
+      "source_in": 0.0,
+      "source_out": 4.0,
+      "lines": [],
+      "punch": false,
+      "timeline_in": 40.74999999999999,
+      "timeline_out": 44.74999999999999
+    },
+    {
+      "shot": "lea-message-reaction",
+      "source_in": 1.2083333333333333,
+      "source_out": 4.5,
+      "lines": [],
+      "punch": false,
+      "timeline_in": 44.74999999999999,
+      "timeline_out": 48.04166666666666
+    }
+  ],
+  "dialogue": [
+    {
+      "line": "L01",
+      "text": "Kumain ka na raw ba?",
+      "start": 0.25833333333333336,
+      "end": 1.9383333333333332
+    },
+    {
+      "line": "L02",
+      "text": "Ano, Pa?",
+      "start": 2.5083333333333333,
+      "end": 5.468333333333333
+    },
+    {
+      "line": "L03",
+      "text": "'Yun ang tanong ni Mama. Bago kami umalis papuntang ospital.",
+      "start": 6.004999999999999,
+      "end": 10.445
+    },
+    {
+      "line": "L04",
+      "text": "Nasa trabaho ako noon.",
+      "start": 10.993333333333332,
+      "end": 13.473333333333333
+    },
+    {
+      "line": "L05",
+      "text": "Alam niya.",
+      "start": 14.053333333333333,
+      "end": 15.293333333333331
+    },
+    {
+      "line": "L06",
+      "text": "Sabi ko, mamaya na kayo mag-usap.",
+      "start": 15.841666666666667,
+      "end": 19.121666666666666
+    },
+    {
+      "line": "L07",
+      "text": "Akala ko, may mamaya pa.",
+      "start": 20.021666666666665,
+      "end": 23.321666666666662
+    },
+    {
+      "line": "L08",
+      "text": "Pa... sorry.",
+      "start": 24.341666666666665,
+      "end": 26.901666666666664
+    },
+    {
+      "line": "L09",
+      "text": "Kumain ka muna, anak. Dito lang ako.",
+      "start": 27.555,
+      "end": 30.955
+    },
+    {
+      "line": "L10",
+      "text": "Pa, maghahanap na ako ng flight.",
+      "start": 36.72666666666667,
+      "end": 40.406666666666666
+    }
+  ],
+  "notes": [
+    "All ten final selected dialogue waveforms included once at original speed.",
+    "L07 uses the original natural take with only an unrequested trailing filler removed, guided by word timestamps."
+  ]
+}
