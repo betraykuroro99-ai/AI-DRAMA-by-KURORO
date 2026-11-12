@@ -1,0 +1,23 @@
+{
+  "Nestor": {
+    "model": "tts-gemini-3-1-flash",
+    "voice": "Algenib",
+    "status": "approved",
+    "approval": "User: B",
+    "direction": "Mature Filipino father, around 62. Warm slightly weathered male voice. Quiet conversational Tagalog, restrained emotion, natural breaths. Never theatrical or excessively slow. Recite only the input text; no added sighs or filler.",
+    "mouth_animation": "Existing speaking-test animation approved by user.",
+    "reference_audio": "pilot/audio/nestor-algenib.wav"
+  },
+  "Lea": {
+    "voice": "Leda",
+    "status": "candidate"
+  },
+  "Marco": {
+    "voice": "Orus",
+    "status": "candidate"
+  },
+  "Elena": {
+    "voice": "Sulafat",
+    "status": "candidate"
+  }
+}
