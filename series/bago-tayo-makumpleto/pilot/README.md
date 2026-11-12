@@ -1,3 +1,17 @@
+# Nestor casting correction — latest review
+
+Gacrux was incorrectly cast as Nestor; Google lists that preset as female. The original Nestor/Gacrux auditions below are superseded for this character. Other characters are unchanged.
+
+- Nestor-male-voice-comparison.mp4: A is Charon, B is Algenib; both are male presets.
+- Each preview uses the SAME approved animation. No new video generation and no mouth-animation edits were performed.
+- For this comparison only, the new audio was tempo-fitted (pitch preserved) to the original 5.44-second waveform duration and placed at 0.75s. This is a casting preview, not a claim of frame-perfect phoneme synchronization. Raw unretimed WAV files are retained locally.
+- Current tracked pilot ceiling is $1.00 of the approved $2, including the previous rejected request reservation. No episode generation has started.
+- Final male-voice choice awaits the user; Gacrux is no longer a valid Nestor candidate in the casting configuration.
+
+Verified voice genders: https://docs.cloud.google.com/text-to-speech/docs/gemini-tts
+
+---
+
 # Bago Tayo Makumpleto — voice and speaking test
 
 This is a pilot audition, not a finished episode. No episode or season generation has started.

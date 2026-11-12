@@ -1,0 +1,23 @@
+{
+  "reason": "Gacrux is a female preset and was incorrectly cast as Nestor. Replaced in these audition previews by verified male presets; final choice awaits user.",
+  "source": "https://docs.cloud.google.com/text-to-speech/docs/gemini-tts",
+  "fits": [
+    {
+      "voice": "Charon",
+      "raw_seconds": 6.52,
+      "tempo_factor": 1.1985294117647056,
+      "target_waveform_seconds": 5.44,
+      "picture": "Same approved animation; no mouth editing or new video generation"
+    },
+    {
+      "voice": "Algenib",
+      "raw_seconds": 6.32,
+      "tempo_factor": 1.1617647058823528,
+      "target_waveform_seconds": 5.44,
+      "picture": "Same approved animation; no mouth editing or new video generation"
+    }
+  ],
+  "pilot_cap_usd": 2,
+  "conservative_total_usd": 1.0,
+  "additional_video_generation_usd": 0
+}
