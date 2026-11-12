@@ -1,0 +1,15 @@
+{
+  "scope": "Episodes 5\u20136 combined approved budget",
+  "episode": 6,
+  "episode_title": "Kumpleto, Kahit Kulang",
+  "episode_conservative_reservations_usd": 4.24,
+  "combined_approved_cap_usd": 12,
+  "combined_conservative_ceiling_usd": 8.08,
+  "unused_combined_authorization_usd": 3.92,
+  "notes": [
+    "Conservative reservations, not a Venice invoice.",
+    "Rejected request retains full reservation; no task ID was returned.",
+    "Images generated in ChatGPT, zero Venice image requests.",
+    "Existing music and Kuro Dorama logo reused."
+  ]
+}

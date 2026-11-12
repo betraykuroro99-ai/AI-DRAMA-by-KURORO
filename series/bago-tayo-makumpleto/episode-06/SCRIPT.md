@@ -1,6 +1,6 @@
 # Episode 6 — Kumpleto, Kahit Kulang
 
-Draft finale for review. Target approximately 50–70 seconds after measuring speech and action. Portrait 9:16, 480p; established 2D illustrated style and moving Kuro Dorama logo. No paid Episode 6 authorization recorded.
+Approved finale as part of the final-two-episode batch. Target approximately 50–70 seconds after measuring speech and action. Portrait 9:16, 480p; established 2D illustrated style and moving Kuro Dorama logo. Production authorized under the shared $12 maximum for Episodes 5 and 6 together; user: conmtinue.
 
 ## 1. EXT. FAMILY VERANDA — EARLY EVENING
 
@@ -22,7 +22,7 @@ Marco, now in his olive T-shirt without the delivery jacket, hangs the old warm-
 
 ## 3. INT. FAMILY DINING ROOM — EVENING
 
-The three living family members prepare a simple meal. Exactly four wooden chairs and four clean white plates. Elena's far-head chair by the window remains empty. Nestor is near the front end, Lea at the left side, Marco at the right. Use deliberate composition references for the room and faces.
+The three living family members prepare a simple meal. Exactly four wooden chairs and four clean white plates. Elena's far-head chair by the window remains empty. In the accepted portrait composition, Nestor sits at the left-far place, Lea at the left-near place, and Marco at the right; Elena's far-head chair by the window stays empty. Use deliberate composition references for the room and faces.
 
 MARCO
 Ate, sa iyo ang hugasin.

@@ -1,6 +1,6 @@
 # Episodes 5–6: production and complete-series delivery plan
 
-Status: scripts and estimate prepared for review. No paid Episode 5 or Episode 6 request has been submitted. Previous per-episode spending approvals do not authorize this batch.
+Status: both scripts and the shared $12 total cap approved by user: conmtinue. Finish both episodes and the complete-series package without another routine approval.
 
 ## Shared settings
 

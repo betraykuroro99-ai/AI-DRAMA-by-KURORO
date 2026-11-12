@@ -1,0 +1,11 @@
+{
+  "scope": "Final two episodes only",
+  "approved_combined_cap_usd": 12,
+  "tracked_conservative_ceiling_usd": 8.08,
+  "unused_authorization_usd": 3.92,
+  "episode_5_usd": 3.84,
+  "episode_6_usd": 4.24,
+  "venice_image_requests": 0,
+  "new_music_requests": 0,
+  "note": "Conservative reservations, not an invoice; includes a rejected HTTP 401 video request at its full $0.30 reservation. Existing queued tasks were retrieved by ID. Cover art and bundling use no Venice generation credits."
+}

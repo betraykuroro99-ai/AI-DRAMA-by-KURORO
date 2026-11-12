@@ -1,6 +1,6 @@
 # Episode 5 — ’Yung Hindi Sinabi
 
-Draft for review. Target approximately 50–65 seconds after measuring performances. Portrait 9:16, 480p; established 2D illustrated style and moving Kuro Dorama logo. No paid Episode 5 authorization recorded.
+Approved by user as part of the final-two-episode batch. Target approximately 50–65 seconds after measuring performances. Portrait 9:16, 480p; established 2D illustrated style and moving Kuro Dorama logo. Production authorized under the shared $12 maximum for Episodes 5 and 6 together; user: conmtinue.
 
 ## 1. INT. LEA'S OVERSEAS ROOM — NIGHT
 

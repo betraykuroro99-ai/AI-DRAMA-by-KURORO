@@ -1,0 +1,207 @@
+{
+  "duration_seconds": 43.958333333333336,
+  "segments": [
+    {
+      "shot": "lea-a",
+      "source_in": 0.2916666666666667,
+      "source_out": 3.0,
+      "lines": [
+        "L01"
+      ],
+      "punch": false,
+      "timeline_in": 0,
+      "timeline_out": 2.7083333333333335
+    },
+    {
+      "shot": "marco",
+      "source_in": 0.2916666666666667,
+      "source_out": 2.6666666666666665,
+      "lines": [
+        "L02"
+      ],
+      "punch": false,
+      "timeline_in": 2.7083333333333335,
+      "timeline_out": 5.083333333333334
+    },
+    {
+      "shot": "lea-a",
+      "source_in": 3.375,
+      "source_out": 5.708333333333333,
+      "lines": [
+        "L03"
+      ],
+      "punch": false,
+      "timeline_in": 5.083333333333334,
+      "timeline_out": 7.416666666666667
+    },
+    {
+      "shot": "marco",
+      "source_in": 3.0,
+      "source_out": 5.958333333333333,
+      "lines": [
+        "L04"
+      ],
+      "punch": false,
+      "timeline_in": 7.416666666666667,
+      "timeline_out": 10.375
+    },
+    {
+      "shot": "nestor-a",
+      "source_in": 0.2916666666666667,
+      "source_out": 4.958333333333333,
+      "lines": [
+        "L05"
+      ],
+      "punch": false,
+      "timeline_in": 10.375,
+      "timeline_out": 15.041666666666666
+    },
+    {
+      "shot": "marco",
+      "source_in": 6.291666666666667,
+      "source_out": 8.791666666666666,
+      "lines": [
+        "L06"
+      ],
+      "punch": false,
+      "timeline_in": 15.041666666666666,
+      "timeline_out": 17.541666666666664
+    },
+    {
+      "shot": "nestor-a",
+      "source_in": 5.333333333333333,
+      "source_out": 12.25,
+      "lines": [
+        "L07"
+      ],
+      "punch": true,
+      "timeline_in": 17.541666666666664,
+      "timeline_out": 24.458333333333332
+    },
+    {
+      "shot": "lea-b",
+      "source_in": 0.2916666666666667,
+      "source_out": 4.75,
+      "lines": [
+        "L08"
+      ],
+      "punch": false,
+      "timeline_in": 24.458333333333332,
+      "timeline_out": 28.916666666666664
+    },
+    {
+      "shot": "nestor-b",
+      "source_in": 0.2916666666666667,
+      "source_out": 5.833333333333333,
+      "lines": [
+        "L09"
+      ],
+      "punch": false,
+      "timeline_in": 28.916666666666664,
+      "timeline_out": 34.45833333333333
+    },
+    {
+      "shot": "marco",
+      "source_in": 9.166666666666666,
+      "source_out": 11.333333333333334,
+      "lines": [
+        "L10"
+      ],
+      "punch": false,
+      "timeline_in": 34.45833333333333,
+      "timeline_out": 36.625
+    },
+    {
+      "shot": "lea-b",
+      "source_in": 5.083333333333333,
+      "source_out": 7.666666666666667,
+      "lines": [
+        "L11"
+      ],
+      "punch": false,
+      "timeline_in": 36.625,
+      "timeline_out": 39.208333333333336
+    },
+    {
+      "shot": "parol-box",
+      "source_in": 0.0,
+      "source_out": 4.75,
+      "lines": [],
+      "punch": false,
+      "timeline_in": 39.208333333333336,
+      "timeline_out": 43.958333333333336
+    }
+  ],
+  "dialogue": [
+    {
+      "line": "L01",
+      "text": "Bakit hindi mo sinabi sa akin?",
+      "start": 0.25833333333333336,
+      "end": 2.4183333333333334
+    },
+    {
+      "line": "L02",
+      "text": "Alam na ni Papa.",
+      "start": 2.9666666666666672,
+      "end": 4.766666666666667
+    },
+    {
+      "line": "L03",
+      "text": "Paano si Papa?",
+      "start": 5.318333333333333,
+      "end": 7.118333333333334
+    },
+    {
+      "line": "L04",
+      "text": "Ate, gusto ko rin namang may marating.",
+      "start": 7.666666666666668,
+      "end": 10.066666666666666
+    },
+    {
+      "line": "L05",
+      "text": "Alam ko, anak. Salamat sa pag-aalaga kay Mama.",
+      "start": 10.633333333333335,
+      "end": 14.753333333333334
+    },
+    {
+      "line": "L06",
+      "text": "Ngayon ko lang narinig 'yan, Pa.",
+      "start": 15.299999999999997,
+      "end": 17.259999999999998
+    },
+    {
+      "line": "L07",
+      "text": "Pasensya na. Nakalimutan kong ikaw rin, nawalan ng mama.",
+      "start": 17.778333333333332,
+      "end": 23.808333333333334
+    },
+    {
+      "line": "L08",
+      "text": "Pa, naayos ko na 'yung leave. May flight na ako.",
+      "start": 24.716666666666665,
+      "end": 28.596666666666664
+    },
+    {
+      "line": "L09",
+      "text": "Bago ka umalis, Marco... isang hapunan lang. Sama-sama tayo.",
+      "start": 29.174999999999997,
+      "end": 34.175
+    },
+    {
+      "line": "L10",
+      "text": "Ako na ang magluluto.",
+      "start": 34.70166666666666,
+      "end": 36.34166666666666
+    },
+    {
+      "line": "L11",
+      "text": "Ako naman sa hugasin.",
+      "start": 36.87166666666666,
+      "end": 38.91166666666666
+    }
+  ],
+  "notes": [
+    "All eleven final selected dialogue waveforms included once at original speed.",
+    "L07 has an unrequested leading sigh removed; all approved words retained."
+  ]
+}

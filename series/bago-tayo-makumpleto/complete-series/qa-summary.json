@@ -1,0 +1,15 @@
+{
+  "duration_seconds": 309.461,
+  "chapter_count": 6,
+  "episode_count": 6,
+  "resolution": "480x854 portrait",
+  "video": "H.264, 24 fps",
+  "audio": "AAC stereo 48 kHz",
+  "zip_crc_verified": true,
+  "zip_movie_count": 6,
+  "zip_srt_count": 6,
+  "branding_files": 3,
+  "decode_check": "Complete compilation decoded successfully",
+  "final_two_episodes_conservative_ceiling_usd": 8.08,
+  "approved_cap_usd": 12
+}

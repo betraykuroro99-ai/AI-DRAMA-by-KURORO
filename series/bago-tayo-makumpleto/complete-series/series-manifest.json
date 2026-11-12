@@ -1,0 +1,49 @@
+{
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Apat na Plato",
+      "filename": "01-Apat-na-Plato.mp4",
+      "duration_seconds": 67.712,
+      "combined_start_seconds": 0
+    },
+    {
+      "episode": 2,
+      "title": "Yung Naiwan",
+      "filename": "02-Yung-Naiwan.mp4",
+      "duration_seconds": 57.291667,
+      "combined_start_seconds": 68.712
+    },
+    {
+      "episode": 3,
+      "title": "Hindi Naipadala",
+      "filename": "03-Hindi-Naipadala.mp4",
+      "duration_seconds": 43.208333,
+      "combined_start_seconds": 127.00366700000001
+    },
+    {
+      "episode": 4,
+      "title": "Ang Huling Tawag",
+      "filename": "04-Ang-Huling-Tawag.mp4",
+      "duration_seconds": 48.041667,
+      "combined_start_seconds": 171.21200000000002
+    },
+    {
+      "episode": 5,
+      "title": "Yung Hindi Sinabi",
+      "filename": "05-Yung-Hindi-Sinabi.mp4",
+      "duration_seconds": 43.958333,
+      "combined_start_seconds": 220.253667
+    },
+    {
+      "episode": 6,
+      "title": "Kumpleto, Kahit Kulang",
+      "filename": "06-Kumpleto-Kahit-Kulang.mp4",
+      "duration_seconds": 44.166667,
+      "combined_start_seconds": 265.212
+    }
+  ],
+  "expected_combined_runtime_seconds": 309.378667,
+  "chapter_separator_seconds": 1,
+  "episode_count": 6
+}
