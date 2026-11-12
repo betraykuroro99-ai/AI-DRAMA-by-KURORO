@@ -1,0 +1,23 @@
+{
+  "approved_total_cap_usd": 8,
+  "pilot_included_usd": 1,
+  "additional_tracked_reservations_usd": 5.07,
+  "tracked_conservative_ceiling_usd": 6.07,
+  "unused_authorization_usd": 1.93,
+  "video_model": "minimax-h3-max-reference-to-video",
+  "voice_model": "tts-gemini-3-1-flash",
+  "voices": {
+    "Nestor": "Algenib",
+    "Lea": "Leda",
+    "Marco": "Orus"
+  },
+  "venice_image_requests": 0,
+  "notes": [
+    "This is a conservative reservation ledger, not the Venice invoice.",
+    "Includes full reservations for rejected requests, including an unsupported video audio-configuration field.",
+    "Includes one replacement emotional close-up; original take retained locally.",
+    "Selected Nestor pilot picture and Algenib performance reused; prior female-voice audio excluded.",
+    "Images generated in ChatGPT; original instrumental score reused without a new music request.",
+    "No additional episodes have been generated."
+  ]
+}

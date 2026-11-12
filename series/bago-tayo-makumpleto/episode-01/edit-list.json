@@ -1,0 +1,255 @@
+{
+  "duration_seconds": 67.70833333333331,
+  "segments": [
+    {
+      "shot": "plates",
+      "source_in": 0.0,
+      "source_out": 3.5,
+      "audio": null,
+      "delay": 0,
+      "lines": [],
+      "label": null,
+      "timeline_in": 0,
+      "timeline_out": 3.5
+    },
+    {
+      "shot": "pilot",
+      "source_in": 0.25,
+      "source_out": 7.25,
+      "audio": "L01",
+      "delay": 0.75,
+      "lines": [
+        "L01"
+      ],
+      "label": null,
+      "timeline_in": 3.5,
+      "timeline_out": 10.5
+    },
+    {
+      "shot": "reaction",
+      "source_in": 0.5833333333333334,
+      "source_out": 5.0,
+      "audio": null,
+      "delay": 0,
+      "lines": [],
+      "label": null,
+      "timeline_in": 10.5,
+      "timeline_out": 14.916666666666666
+    },
+    {
+      "shot": "cooking",
+      "source_in": 0.0,
+      "source_out": 6.0,
+      "audio": null,
+      "delay": 0,
+      "lines": [],
+      "label": null,
+      "timeline_in": 14.916666666666666,
+      "timeline_out": 20.916666666666664
+    },
+    {
+      "shot": "lea-call",
+      "source_in": 0.4166666666666667,
+      "source_out": 5.041666666666667,
+      "audio": "lea-call-track",
+      "delay": 0,
+      "lines": [
+        "L02"
+      ],
+      "label": null,
+      "timeline_in": 20.916666666666664,
+      "timeline_out": 25.541666666666664
+    },
+    {
+      "shot": "nestor-call",
+      "source_in": 1.0,
+      "source_out": 3.5416666666666665,
+      "audio": "nestor-call-track",
+      "delay": 0.6,
+      "lines": [
+        "L03"
+      ],
+      "label": null,
+      "timeline_in": 25.541666666666664,
+      "timeline_out": 28.083333333333332
+    },
+    {
+      "shot": "lea-call",
+      "source_in": 5.458333333333333,
+      "source_out": 8.458333333333334,
+      "audio": "lea-call-track",
+      "delay": 0,
+      "lines": [
+        "L04"
+      ],
+      "label": null,
+      "timeline_in": 28.083333333333332,
+      "timeline_out": 31.083333333333332
+    },
+    {
+      "shot": "nestor-call",
+      "source_in": 3.8333333333333335,
+      "source_out": 5.75,
+      "audio": "nestor-call-track",
+      "delay": 0.6,
+      "lines": [
+        "L05"
+      ],
+      "label": null,
+      "timeline_in": 31.083333333333332,
+      "timeline_out": 32.99999999999999
+    },
+    {
+      "shot": "marco-call",
+      "source_in": 0.4583333333333333,
+      "source_out": 4.083333333333333,
+      "audio": "marco-call-track",
+      "delay": 0.2,
+      "lines": [
+        "L06"
+      ],
+      "label": null,
+      "timeline_in": 32.99999999999999,
+      "timeline_out": 36.62499999999999
+    },
+    {
+      "shot": "nestor-call",
+      "source_in": 6.333333333333333,
+      "source_out": 9.416666666666666,
+      "audio": "nestor-call-track",
+      "delay": 0.6,
+      "lines": [
+        "L07"
+      ],
+      "label": null,
+      "timeline_in": 36.62499999999999,
+      "timeline_out": 39.70833333333332
+    },
+    {
+      "shot": "lea-call",
+      "source_in": 8.833333333333334,
+      "source_out": 12.0,
+      "audio": "lea-call-track",
+      "delay": 0,
+      "lines": [
+        "L08"
+      ],
+      "label": null,
+      "timeline_in": 39.70833333333332,
+      "timeline_out": 42.874999999999986
+    },
+    {
+      "shot": "nestor-call",
+      "source_in": 9.416666666666666,
+      "source_out": 10.0,
+      "audio": null,
+      "delay": 0,
+      "lines": [],
+      "label": null,
+      "timeline_in": 42.874999999999986,
+      "timeline_out": 43.45833333333332
+    },
+    {
+      "shot": "bedroom",
+      "source_in": 0.0,
+      "source_out": 6.0,
+      "audio": null,
+      "delay": 0,
+      "lines": [],
+      "label": null,
+      "timeline_in": 43.45833333333332,
+      "timeline_out": 49.45833333333332
+    },
+    {
+      "shot": "veranda-final",
+      "source_in": 0.0,
+      "source_out": 8.0,
+      "audio": "veranda-track",
+      "delay": 0,
+      "lines": [
+        "L09"
+      ],
+      "label": null,
+      "timeline_in": 49.45833333333332,
+      "timeline_out": 57.45833333333332
+    },
+    {
+      "shot": "marco-room",
+      "source_in": 0.0,
+      "source_out": 7.0,
+      "audio": null,
+      "delay": 0,
+      "lines": [],
+      "label": null,
+      "timeline_in": 57.45833333333332,
+      "timeline_out": 64.45833333333331
+    },
+    {
+      "shot": "phone",
+      "source_in": 0.0,
+      "source_out": 3.25,
+      "audio": null,
+      "delay": 0,
+      "lines": [],
+      "label": null,
+      "timeline_in": 64.45833333333331,
+      "timeline_out": 67.70833333333331
+    }
+  ],
+  "dialogue": [
+    {
+      "line": "L01",
+      "text": "Mga anak, sa bahay tayo ngayong Pasko. Kumpleto tayo.",
+      "start": 4.75,
+      "end": 10.190000000000001
+    },
+    {
+      "line": "L02",
+      "text": "Pa, magpapadala ako sa Biyernes. Para sa handa.",
+      "start": 21.149999999999995,
+      "end": 25.309999999999995
+    },
+    {
+      "line": "L03",
+      "text": "Hindi yon ang tinatanong ko.",
+      "start": 25.791666666666664,
+      "end": 27.871666666666663
+    },
+    {
+      "line": "L04",
+      "text": "Titingnan ko yung flight mamaya.",
+      "start": 28.334999999999997,
+      "end": 30.815
+    },
+    {
+      "line": "L05",
+      "text": "Marco?",
+      "start": 31.48,
+      "end": 32.879999999999995
+    },
+    {
+      "line": "L06",
+      "text": "Baka may biyahe ako sa bente-kuwatro.",
+      "start": 33.39166666666666,
+      "end": 35.99166666666666
+    },
+    {
+      "line": "L07",
+      "text": "Kahit hapunan lang.",
+      "start": 36.82166666666666,
+      "end": 39.22166666666666
+    },
+    {
+      "line": "L08",
+      "text": "Sige, Pa. Message kami.",
+      "start": 39.96499999999998,
+      "end": 42.24499999999998
+    },
+    {
+      "line": "L09",
+      "text": "Paano ko sila pauuwiin nang hindi nag-aaway?",
+      "start": 50.95833333333332,
+      "end": 55.63833333333332
+    }
+  ]
+}
