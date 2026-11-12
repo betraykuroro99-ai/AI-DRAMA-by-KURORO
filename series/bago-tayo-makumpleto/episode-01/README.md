@@ -6,6 +6,9 @@ Runtime: 67.71 seconds. Portrait 480 × 854, 24 fps, H.264 video and stereo AAC 
 
 ## Files
 
+- `Bago-Tayo-Makumpleto-E01-Apat-na-Plato-logo.mp4`: captioned video with the moving transparent Kuro Dorama logo.
+- `Bago-Tayo-Makumpleto-E01-Apat-na-Plato-logo-small.mp4`: smaller moving-logo video.
+
 Watermarked versions add a slowly moving `Kuro Dorama` credit at 28% opacity, above the dialogue caption area. This local edit used no generation credits.
 
 - `Bago-Tayo-Makumpleto-E01-Apat-na-Plato-watermarked.mp4`: captioned video with moving watermark.
