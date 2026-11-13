@@ -6,8 +6,9 @@ Episode duration: 2 minutes 52 seconds. Portrait 480 x 854, 24 fps, H.264 video 
 FILES
 - Beauty-and-Bagwis-E01-Ang-Nagbalik.mp4: higher-quality Facebook upload.
 - Beauty-and-Bagwis-E01-Ang-Nagbalik-small.mp4: smaller download of the same complete episode.
-- Beauty-and-Bagwis-E01-Facebook-Video-Cover.mp4: 9-second promotional video made from the finished episode; no ending reveal.
-- Beauty-and-Bagwis-E01-Facebook-Thumbnail.png: matching static video thumbnail. Use this where Facebook requests an image cover.
+- Beauty-and-Bagwis-E01-Facebook-Video-Cover.mp4: optional 9-second promotional clip, not the Reel cover; no ending reveal.
+- Beauty-and-Bagwis-E01-Facebook-Thumbnail.png: static Reel cover displaying the drama title, episode number, and episode title.
+- Beauty-and-Bagwis-E01-Reel-Cover.png: the requested static cover, with BEAUTY AND BAGWIS / EPISODE 1 / ANG NAGBALIK.
 - Tagalog.srt: separate caption archive. The two episode videos already have visible captions.
 - Facebook-Caption.txt: optional Tagalog post copy; nothing has been posted to Facebook.
 

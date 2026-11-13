@@ -24,12 +24,16 @@
       "sha256": "5877601688249b5e3ebabbd29d2372f8aba1e009606a4c8f300ea6fd06badbfe"
     },
     "Beauty-and-Bagwis-E01-Facebook-Thumbnail.png": {
-      "bytes": 732702,
-      "sha256": "0002105697b837b93bf7d5ed874474d798e2a1af917a7dd6b3d756afc2d067e8"
+      "bytes": 2666901,
+      "sha256": "5c7636791167367372ffdbbf1553c1226f163a553c5442b4b7f9267f2d9e1f50"
     },
     "Beauty-and-Bagwis-E01-Facebook-Video-Cover.mp4": {
       "bytes": 2130990,
       "sha256": "272481851d2a7726120b4c5b595b2ea174916d50a9eb389fec877f8f92da133f"
+    },
+    "Beauty-and-Bagwis-E01-Reel-Cover.png": {
+      "bytes": 2666901,
+      "sha256": "5c7636791167367372ffdbbf1553c1226f163a553c5442b4b7f9267f2d9e1f50"
     },
     "Budget-Summary.json": {
       "bytes": 324,
@@ -40,8 +44,8 @@
       "sha256": "b148955dcc2ffb626872669b72e1fece972aea12174d8484679bb9a44946cbe9"
     },
     "READ-ME.txt": {
-      "bytes": 1609,
-      "sha256": "1a833651d004176c3220df9236c4e248c59779b791efd77904985c21587dfe8b"
+      "bytes": 1724,
+      "sha256": "78ac47bff723d82342bfaf558a71da61f66c335e17fd12e84f7f7bf50b428ddb"
     }
   }
 }
