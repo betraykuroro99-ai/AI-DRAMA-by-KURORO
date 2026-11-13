@@ -1,19 +1,20 @@
 BEAUTY AND BAGWIS — EPISODE 1: ANG NAGBALIK
-Kuro Dorama
+Kuro Dorama — revised v2 edit
 
-Episode duration: 2 minutes 52 seconds. Portrait 480 x 854, 24 fps, H.264 video and AAC audio. Tagalog dialogue and burned-in captions. Moving translucent Kuro Dorama logo.
+Duration: 2 minutes 52 seconds. Portrait 480 x 854 at 24 fps, H.264 video and AAC audio. Tagalog dialogue and captions, moving translucent Kuro Dorama logo.
+
+REVISION
+Calmer listener reactions and action details replace many extended speaking close-ups. The gate conversation has a new closed-mouth reaction shot. Faces were reviewed in sampled dialogue and head-turn frames, with enlarged face crops. This is an editorial correction, not a face-morphing filter. The original dialogue/audio is bit-identical to the verified first edit: all 64 lines, unchanged speed. No story footage is looped or slowed.
 
 FILES
-- Beauty-and-Bagwis-E01-Ang-Nagbalik.mp4: higher-quality Facebook upload.
-- Beauty-and-Bagwis-E01-Ang-Nagbalik-small.mp4: smaller download of the same complete episode.
-- Beauty-and-Bagwis-E01-Facebook-Video-Cover.mp4: optional 9-second promotional clip, not the Reel cover; no ending reveal.
-- Beauty-and-Bagwis-E01-Facebook-Thumbnail.png: static Reel cover displaying the drama title, episode number, and episode title.
-- Beauty-and-Bagwis-E01-Reel-Cover.png: the requested static cover, with BEAUTY AND BAGWIS / EPISODE 1 / ANG NAGBALIK.
-- Tagalog.srt: separate caption archive. The two episode videos already have visible captions.
-- Facebook-Caption.txt: optional Tagalog post copy; nothing has been posted to Facebook.
+- Ang-Nagbalik.mp4: higher-quality episode upload.
+- Ang-Nagbalik-small.mp4: smaller download of the complete revised episode.
+- Reel-Cover.png: the requested static Reel cover, showing BEAUTY AND BAGWIS / EPISODE 1 / ANG NAGBALIK.
+- Facebook-Thumbnail.png: same static Reel cover under the earlier filename.
+- Facebook-Video-Cover.mp4: optional 9-second promo clip updated from the revised episode. This is not the requested static Reel cover.
+- Tagalog.srt: caption archive; both episode videos already have visible captions.
+- Facebook-Caption.txt: optional post copy. Nothing has been posted to Facebook.
 
-All 64 source dialogue recordings are included once, in script order. Original speech speed retained. No slow-motion padding or repeated story footage. The episode contains meaningful added scenes for the supporting couple and the leads' practical skills.
+Conservative production accounting: USD 17.03 against the approved USD 20 maximum. This includes failed-request reservations and safety margins and is not an invoice total. The new reaction take cost USD 0.30. Cover/promo editing incurred no additional paid generation.
 
-Conservative production accounting: USD 16.73 against the approved USD 20 maximum, including failed-request reservations and safety margins. This is not an invoice total. The promotional cover and thumbnail incurred no additional paid generation. Images were generated in ChatGPT; video and source speech were generated through Venice. Original local instrumental accompaniment and nonverbal sound cues were assembled locally.
-
-No later episode scripts or private continuity/reveal notes are included.
+Images were generated in ChatGPT. Video and source voices were generated through Venice. Music, sound cues and editorial processing were assembled locally. Future episode scripts and private reveal notes are excluded.
