@@ -1,7 +1,8 @@
 # Episode 1 restart — Batch 01 review
 
-Anime characters over detailed 2D painterly environments. MiniMax H3 Max Reference, 480 × 854 portrait. This 25-second editorial preview uses 28 generated seconds, trimmed to remove an awkward transition rather than pad the review. Natural source speech is not sped up or slowed. Captions and moving translucent Kuro Dorama logo included.
+Current revision: v2, 27 seconds. The suitcase accident now uses a close view of a wheel catching on uneven paving, with Beauty keeping hold of the handle and reaching to steady the case. Original dialogue takes retained at natural speed. Anime characters with detailed painterly environments, portrait 480 × 854, captions and moving translucent Kuro Dorama logo.
 
-Awaiting user approval before any next batch. This is not the final episode and does not include the final ABANGAN card. The earlier completed Episode 1 remains unchanged.
+- [Revised sample](Beauty-and-Bagwis-Restart-E01-Batch01-v2.mp4)
+- [Smaller revised sample](Beauty-and-Bagwis-Restart-E01-Batch01-v2-small.mp4)
 
-Conservative restart accounting: USD 1.97 / USD 20, including three dialogue recordings, source transcription check and three video clips. No future scripts or private provider responses included.
+Awaiting user review before generating Batch 02. First version retained for comparison. Conservative restart accounting: USD 2.33 / USD 20, including USD 0.36 for the revised accident. No future scripts or private provider data included.
