@@ -24,3 +24,7 @@ If only a script is requested, do not add camera-by-camera storyboards or video-
 ## Deliverables
 
 Creation: necessary assumptions, requested creative work, and short quality notes only when useful. Review: findings ordered by impact, evidence from the supplied text, and actionable changes. Rewrite only when requested or when it directly demonstrates a correction.
+
+## Serial episode pacing
+
+For Kuro Dorama, structure each episode as an immediate hook, consequential story progression and a cliffhanger, followed by an ABANGAN fade in post-production. Every scene must change information, choices, relationships, danger or emotional stakes. Remove filler and repetitive reactions. Add meaningful story beats rather than slowing dialogue or movement to reach a duration target. Ending cards do not count toward minimum story length. Use the ai-drama-directing, ai-drama-visual-qa and ai-drama-ending-delivery skills for the production handoff.

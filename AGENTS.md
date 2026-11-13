@@ -22,3 +22,7 @@ Never print, log or commit API keys, `.env`, private production outputs, or prov
 ## Changes to this repository
 
 Keep documentation, comments, examples and tool output in English. Multilingual user-authored dialogue is allowed. Preserve third-party MIT notices. Run unit tests and the fake-provider workflow regression after changing production logic. Do not treat historical upstream validation claims as fresh tests of this fork.
+
+## Kuro Dorama production skills
+
+Apply `skill-src/ai-drama-directing/SKILL.md` for coverage and pacing, `skill-src/ai-drama-visual-qa/SKILL.md` for artifact review and repairs, and `skill-src/ai-drama-ending-delivery/SKILL.md` for final exports. The standing episode structure is hook, story progression, cliffhanger, then ABANGAN with a dramatic fade. Avoid filler, slowed dialogue, face warping, incorrect hand anatomy and exaggerated mouth lip sync. These rules supplement SPEC.md; preserve the user's existing budget and authorization.
