@@ -1,5 +1,5 @@
 {
-  "revision": "v3 corrected father hand anatomy",
+  "revision": "v4 ABANGAN dramatic fade, hand repair retained",
   "episode": 1,
   "title": "Beauty and Bagwis \u2014 Ang Nagbalik",
   "story_seconds": 172.208333,
@@ -11,7 +11,9 @@
   ],
   "source_speech_speed": 1.0,
   "minimum_story_seconds_passed": true,
-  "source_audio_bit_identical_to_verified_first_edit": true,
+  "source_audio_bit_identical_to_verified_first_edit": false,
+  "ending_card_seconds": 3,
+  "export_seconds": 175.208333,
   "face_review_sampled_frames": 1192,
   "files": {
     "Beauty-and-Bagwis-E01-Ang-Nagbalik-Tagalog.srt": {
@@ -19,12 +21,12 @@
       "sha256": "1ab854fe748354bb3aef57b679cb138cbdd204054233bd8a9f2e40422a324e3f"
     },
     "Beauty-and-Bagwis-E01-Ang-Nagbalik-small.mp4": {
-      "bytes": 15909974,
-      "sha256": "5706409f95ce2f0ca873d7f876207305e21acd7631a2643bb0d7342909bdb9cf"
+      "bytes": 15905823,
+      "sha256": "bf5415559e7ff2df11518a5092354fcc623ab00c90c6741bcf7ef583b5282442"
     },
     "Beauty-and-Bagwis-E01-Ang-Nagbalik.mp4": {
-      "bytes": 42135845,
-      "sha256": "960ddb151455d34d7b3b3a3f5ee044fabccb9e65bb5c2a4c619f0afd7de8a93e"
+      "bytes": 39351317,
+      "sha256": "fc233510bf98b8ff7d214133ffb8226dbd089b5158154e58412ea1dbbf12fd0b"
     },
     "Beauty-and-Bagwis-E01-Facebook-Thumbnail.png": {
       "bytes": 2666901,
@@ -47,8 +49,8 @@
       "sha256": "b148955dcc2ffb626872669b72e1fece972aea12174d8484679bb9a44946cbe9"
     },
     "READ-ME.txt": {
-      "bytes": 2027,
-      "sha256": "d8d2c642e27a9fd6cefab9497cae393d8857b44d7189c01248c5ea8b7ca09466"
+      "bytes": 2280,
+      "sha256": "9e9bd41016c02589f41fda437df1653bc3dd4d7407915d3188efd28c62b0e47f"
     }
   }
 }
