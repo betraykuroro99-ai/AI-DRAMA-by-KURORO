@@ -1,10 +1,11 @@
 {
   "approved_cap_usd": 20,
-  "conservative_accounted_usd": 17.03,
+  "conservative_accounted_usd": 17.45,
   "basis": "Includes failed/uncertain reservations and safety margins; not an invoice total.",
   "speech_allowance_and_reservations_usd": 4.62,
-  "video_quotes_usd": 12.3,
+  "video_quotes_usd": 12.72,
   "transcription_reservations_usd": 0.11,
   "additional_cover_generation_usd": 0,
-  "additional_v2_reaction_shot_usd": 0.3
+  "additional_v2_reaction_shot_usd": 0.3,
+  "additional_v3_hand_repair_usd": 0.42
 }

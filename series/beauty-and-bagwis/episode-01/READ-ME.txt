@@ -1,9 +1,11 @@
 BEAUTY AND BAGWIS — EPISODE 1: ANG NAGBALIK
-Kuro Dorama — revised v2 edit
+Kuro Dorama — revised v3 edit
 
 Duration: 2 minutes 52 seconds. Portrait 480 x 854 at 24 fps, H.264 video and AAC audio. Tagalog dialogue and captions, moving translucent Kuro Dorama logo.
 
 REVISION
+The father's hand anatomy at 2:10-2:31 is corrected with a new overhead injury insert and tighter coverage. His injured left hand and right hand are distinct. Dialogue and timing remain unchanged.
+
 Calmer listener reactions and action details replace many extended speaking close-ups. The gate conversation has a new closed-mouth reaction shot. Faces were reviewed in sampled dialogue and head-turn frames, with enlarged face crops. This is an editorial correction, not a face-morphing filter. The original dialogue/audio is bit-identical to the verified first edit: all 64 lines, unchanged speed. No story footage is looped or slowed.
 
 FILES
@@ -15,6 +17,6 @@ FILES
 - Tagalog.srt: caption archive; both episode videos already have visible captions.
 - Facebook-Caption.txt: optional post copy. Nothing has been posted to Facebook.
 
-Conservative production accounting: USD 17.03 against the approved USD 20 maximum. This includes failed-request reservations and safety margins and is not an invoice total. The new reaction take cost USD 0.30. Cover/promo editing incurred no additional paid generation.
+Conservative production accounting: USD 17.45 against the approved USD 20 maximum. This includes failed-request reservations and safety margins and is not an invoice total. The earlier reaction take cost USD 0.30; the hand correction cost USD 0.42. Cover/promo editing incurred no additional paid generation.
 
 Images were generated in ChatGPT. Video and source voices were generated through Venice. Music, sound cues and editorial processing were assembled locally. Future episode scripts and private reveal notes are excluded.

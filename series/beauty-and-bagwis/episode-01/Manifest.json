@@ -1,5 +1,5 @@
 {
-  "revision": "v2 restrained reaction edit",
+  "revision": "v3 corrected father hand anatomy",
   "episode": 1,
   "title": "Beauty and Bagwis \u2014 Ang Nagbalik",
   "story_seconds": 172.208333,
@@ -19,12 +19,12 @@
       "sha256": "1ab854fe748354bb3aef57b679cb138cbdd204054233bd8a9f2e40422a324e3f"
     },
     "Beauty-and-Bagwis-E01-Ang-Nagbalik-small.mp4": {
-      "bytes": 15895047,
-      "sha256": "a22382dcf38370974dc178985e8f157f3c61bc57605b6499d528d3faa90245f2"
+      "bytes": 15909974,
+      "sha256": "5706409f95ce2f0ca873d7f876207305e21acd7631a2643bb0d7342909bdb9cf"
     },
     "Beauty-and-Bagwis-E01-Ang-Nagbalik.mp4": {
-      "bytes": 42653999,
-      "sha256": "faf86a56ddaa98838af9dc6983b0f638825da8b988c86c8b11d47ad47c49d50d"
+      "bytes": 42135845,
+      "sha256": "960ddb151455d34d7b3b3a3f5ee044fabccb9e65bb5c2a4c619f0afd7de8a93e"
     },
     "Beauty-and-Bagwis-E01-Facebook-Thumbnail.png": {
       "bytes": 2666901,
@@ -39,16 +39,16 @@
       "sha256": "5c7636791167367372ffdbbf1553c1226f163a553c5442b4b7f9267f2d9e1f50"
     },
     "Budget-Summary.json": {
-      "bytes": 364,
-      "sha256": "17977274978fb1bfd0a2cfdd644b8f8ce3a93e43c231d28a3eb0f9b2647bb31b"
+      "bytes": 406,
+      "sha256": "bb1eb100599232261da68c9ffaf7bcc60a044ff6e009623081f28e65088dbd66"
     },
     "Facebook-Caption.txt": {
       "bytes": 410,
       "sha256": "b148955dcc2ffb626872669b72e1fece972aea12174d8484679bb9a44946cbe9"
     },
     "READ-ME.txt": {
-      "bytes": 1790,
-      "sha256": "dbddd158c98fecda6d85edd660d4ae9264b34e744a0c5466091e53bbf82c19ee"
+      "bytes": 2027,
+      "sha256": "d8d2c642e27a9fd6cefab9497cae393d8857b44d7189c01248c5ea8b7ca09466"
     }
   }
 }
