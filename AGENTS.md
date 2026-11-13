@@ -26,3 +26,5 @@ Keep documentation, comments, examples and tool output in English. Multilingual 
 ## Kuro Dorama production skills
 
 Apply `skill-src/ai-drama-directing/SKILL.md` for coverage and pacing, `skill-src/ai-drama-visual-qa/SKILL.md` for artifact review and repairs, and `skill-src/ai-drama-ending-delivery/SKILL.md` for final exports. The standing episode structure is hook, story progression, cliffhanger, then ABANGAN with a dramatic fade. Avoid filler, slowed dialogue, face warping, incorrect hand anatomy and exaggerated mouth lip sync. These rules supplement SPEC.md; preserve the user's existing budget and authorization.
+
+For serial generation, apply `skill-src/ai-drama-batch-review/SKILL.md`: assemble approximately thirty-second review batches and stop for actual user approval before generating the next batch. Respect the chosen model’s per-clip duration limits and the episode cap. Natural performance takes priority over an exact thirty-second boundary.
