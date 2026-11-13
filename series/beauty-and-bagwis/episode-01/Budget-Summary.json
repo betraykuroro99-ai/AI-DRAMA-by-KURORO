@@ -1,0 +1,9 @@
+{
+  "approved_cap_usd": 20,
+  "conservative_accounted_usd": 16.73,
+  "basis": "Includes failed/uncertain reservations and per-call margins; not an invoice total.",
+  "speech_allowance_and_reservations_usd": 4.62,
+  "video_quotes_usd": 12.0,
+  "transcription_reservations_usd": 0.11,
+  "additional_cover_generation_usd": 0
+}

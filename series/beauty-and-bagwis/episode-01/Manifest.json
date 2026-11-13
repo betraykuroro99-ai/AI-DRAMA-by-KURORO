@@ -1,0 +1,47 @@
+{
+  "episode": 1,
+  "title": "Beauty and Bagwis \u2014 Ang Nagbalik",
+  "story_seconds": 172.208333,
+  "source_dialogue_lines": 64,
+  "aspect_ratio": "9:16",
+  "dimensions": [
+    480,
+    854
+  ],
+  "source_speech_speed": 1.0,
+  "minimum_story_seconds_passed": true,
+  "files": {
+    "Beauty-and-Bagwis-E01-Ang-Nagbalik-Tagalog.srt": {
+      "bytes": 3959,
+      "sha256": "1ab854fe748354bb3aef57b679cb138cbdd204054233bd8a9f2e40422a324e3f"
+    },
+    "Beauty-and-Bagwis-E01-Ang-Nagbalik-small.mp4": {
+      "bytes": 15842613,
+      "sha256": "4305a2ac7d6056cd2bb4de79cd98f091133a6b9fce4f10eaec939ae0815f5211"
+    },
+    "Beauty-and-Bagwis-E01-Ang-Nagbalik.mp4": {
+      "bytes": 46158043,
+      "sha256": "5877601688249b5e3ebabbd29d2372f8aba1e009606a4c8f300ea6fd06badbfe"
+    },
+    "Beauty-and-Bagwis-E01-Facebook-Thumbnail.png": {
+      "bytes": 732702,
+      "sha256": "0002105697b837b93bf7d5ed874474d798e2a1af917a7dd6b3d756afc2d067e8"
+    },
+    "Beauty-and-Bagwis-E01-Facebook-Video-Cover.mp4": {
+      "bytes": 2130990,
+      "sha256": "272481851d2a7726120b4c5b595b2ea174916d50a9eb389fec877f8f92da133f"
+    },
+    "Budget-Summary.json": {
+      "bytes": 324,
+      "sha256": "ca4657c62b553db7171d16077afb517b4b7c5f1d682e3576aa98cbaa020417fa"
+    },
+    "Facebook-Caption.txt": {
+      "bytes": 410,
+      "sha256": "b148955dcc2ffb626872669b72e1fece972aea12174d8484679bb9a44946cbe9"
+    },
+    "READ-ME.txt": {
+      "bytes": 1609,
+      "sha256": "1a833651d004176c3220df9236c4e248c59779b791efd77904985c21587dfe8b"
+    }
+  }
+}
