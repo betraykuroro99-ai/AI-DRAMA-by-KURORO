@@ -29,3 +29,11 @@ Create a vertical 9:16 illustration of a modest Filipino veranda beside a sari-s
 For reusable character anchors, generate separate neutral full-body identity images on a light-gray background, empty hands and flat light. Keep the illustration style consistent. Use the combined scene image for setting/composition and neutral identities for stronger character control when the interface supports multiple references.
 
 No user images or generated private film assets are bundled in the repository. Add your approved references under your ignored project folder.
+
+## Venice Wan 3.0 voice references
+
+For Venice `wan-3-0-reference-to-video`, distinguish the single `audio_url` field from the separate R2V `reference_audio_urls` list. A catalog `audio_input: false` flag does not by itself establish that R2V voice references are unsupported. Consult the model-specific request documentation. Venice’s published video skill lists Wan 3.0 R2V reference audio separately: up to five clips, with at most fifteen seconds combined. Two five-second character samples fit this limit.
+
+Supply the actual files in `reference_audio_urls`, name their roles in the prompt (`@Audio1` for the first voice, `@Audio2` for the second), and enable native audio when the model supports `audio: true`. State the exact new Tagalog dialogue separately and instruct the model not to recite the reference samples. Voice conditioning is not exact copying of the supplied performance or a guarantee of cross-shot voice identity. Review the generated speech and mouths together; do not silently replace native speech with dubbing when the user selected native generation.
+
+In this project, a fifteen-second native Wan request with two five-second voice references was accepted on 2026-11-14. Queue acceptance establishes request validation, not final output quality. Quote success alone does not validate reference fields. Use the previous accepted actual frame as an image reference for continuity; do not claim it is an exact first-frame lock unless the selected endpoint explicitly supports that mode.

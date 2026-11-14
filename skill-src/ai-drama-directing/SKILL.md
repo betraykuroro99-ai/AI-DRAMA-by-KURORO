@@ -20,3 +20,7 @@ Use natural conversational speed and restrained expressions. Prompt small jaw op
 Use short, single-purpose actions with limited simultaneous movement. Identify left/right anatomy from the character's perspective. Specify screen position separately. Keep faces stable during turns; avoid unnecessary extreme head rotations and competing actions. Negative prompts are guidance, not proof of quality; review the actual output with the visual QA skill.
 
 For Beauty and Bagwis: Tagalog dialogue, portrait 9:16 at 480p, established illustrated character identities, two-minute minimum story duration excluding covers/ending cards. Keep English production instructions. These project choices are defaults for this series, not universal restrictions.
+
+## Native dialogue with voice references
+
+When the user chooses native generated speech, use neutral character voice samples for identity and exact script text for the new performance. Avoid a separate lip-sync or dubbing stage unless requested. On Venice, check `reference_audio_urls` support independently of the catalog’s single-field `audio_input` flag; see `docs/tagalog-and-wan-reference.md`. Preserve the user’s actual accepted editing and last-frame prop state. Do not overwrite their zooms, muted sections or character design with earlier project references.
