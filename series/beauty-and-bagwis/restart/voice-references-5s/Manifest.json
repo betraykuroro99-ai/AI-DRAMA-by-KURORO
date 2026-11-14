@@ -1,0 +1,52 @@
+[
+  {
+    "character": "Beauty",
+    "wav": "Beauty-Voice-Reference-5s.wav",
+    "mp3": "Beauty-Voice-Reference-5s.mp3",
+    "seconds": 5,
+    "source_start": 0.2,
+    "source_end": 4.5,
+    "source_speed": 1.0,
+    "processing": "Complete phrase/clause ending in detected quiet interval; unchanged speech speed; trailing silence to5s."
+  },
+  {
+    "character": "Bagwis",
+    "wav": "Bagwis-Voice-Reference-5s.wav",
+    "mp3": "Bagwis-Voice-Reference-5s.mp3",
+    "seconds": 5,
+    "source_start": 0.2,
+    "source_end": 4.1,
+    "source_speed": 1.0,
+    "processing": "Complete phrase/clause ending in detected quiet interval; unchanged speech speed; trailing silence to5s."
+  },
+  {
+    "character": "Tomas",
+    "wav": "Tomas-Voice-Reference-5s.wav",
+    "mp3": "Tomas-Voice-Reference-5s.mp3",
+    "seconds": 5,
+    "source_start": 3.0,
+    "source_end": 6.65,
+    "source_speed": 1.0,
+    "processing": "Complete phrase/clause ending in detected quiet interval; unchanged speech speed; trailing silence to5s."
+  },
+  {
+    "character": "Moy",
+    "wav": "Moy-Voice-Reference-5s.wav",
+    "mp3": "Moy-Voice-Reference-5s.mp3",
+    "seconds": 5,
+    "source_start": 0.15,
+    "source_end": 4.95,
+    "source_speed": 1.0,
+    "processing": "Complete phrase/clause ending in detected quiet interval; unchanged speech speed; trailing silence to5s."
+  },
+  {
+    "character": "Ning",
+    "wav": "Ning-Voice-Reference-5s.wav",
+    "mp3": "Ning-Voice-Reference-5s.mp3",
+    "seconds": 5,
+    "source_start": 0.15,
+    "source_end": 4.1,
+    "source_speed": 1.0,
+    "processing": "Complete phrase/clause ending in detected quiet interval; unchanged speech speed; trailing silence to5s."
+  }
+]
