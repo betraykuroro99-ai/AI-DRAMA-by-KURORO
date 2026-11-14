@@ -1,0 +1,62 @@
+[
+  {
+    "character": "Beauty",
+    "voice": "Leda",
+    "model": "tts-gemini-3-1-flash",
+    "transcript": "Ang sarap bumalik dito. Pareho pa rin ang hangin, pero parang ang dami nang nagbago. Sandali, may gusto lang akong itanong sa iyo.",
+    "voice_direction": "23-year-old Filipina, natural warm clear young adult female voice, confident and gentle, not breathy or elderly.",
+    "source_seconds": 10.24,
+    "delivered_wav_seconds": 15,
+    "processing": "Speech at unchanged speed; trailing silence to15s; loudness normalized for consistent audition volume.",
+    "wav": "Beauty-Voice-Reference-15s.wav",
+    "mp3": "Beauty-Voice-Reference-15s.mp3"
+  },
+  {
+    "character": "Bagwis",
+    "voice": "Orus",
+    "model": "tts-gemini-3-1-flash",
+    "transcript": "Magandang umaga. Tahimik ang paligid ngayon. May mga taong dumadaan sa palengke, at nagsisimula nang magbukas ang maliliit na tindahan sa kanto.",
+    "voice_direction": "25-year-old Filipino man, natural warm mid-low male voice, grounded and understated, not theatrical or gravelly.",
+    "source_seconds": 11.36,
+    "delivered_wav_seconds": 15,
+    "processing": "Speech at unchanged speed; trailing silence to15s; loudness normalized for consistent audition volume.",
+    "wav": "Bagwis-Voice-Reference-15s.wav",
+    "mp3": "Bagwis-Voice-Reference-15s.mp3"
+  },
+  {
+    "character": "Tomas",
+    "voice": "Algenib",
+    "model": "tts-gemini-3-1-flash",
+    "transcript": "Kumain ka muna habang mainit pa. Pagkatapos, saka natin pag-usapan ang gusto mong itanong. Nandito lang ako, anak. Nakikinig ako sa iyo.",
+    "voice_direction": "54-year-old Filipino father, clearly male warm low register, mature but steady, protective and restrained, not frail or elderly female.",
+    "source_seconds": 10.56,
+    "delivered_wav_seconds": 15,
+    "processing": "Speech at unchanged speed; trailing silence to15s; loudness normalized for consistent audition volume.",
+    "wav": "Tomas-Voice-Reference-15s.wav",
+    "mp3": "Tomas-Voice-Reference-15s.mp3"
+  },
+  {
+    "character": "Moy",
+    "voice": "Puck",
+    "model": "tts-gemini-3-1-flash",
+    "transcript": "Akala mo naman hindi ako marunong. Tingnan mo, maayos na ulit. O, bakit ka nakangiti? May sinabi ba akong nakakatawa, o natuwa ka lang?",
+    "voice_direction": "25-year-old Filipino man, naturally bright easygoing male voice, playful but not clownish, distinct from Bagwis, no forced laughter.",
+    "source_seconds": 12.36,
+    "delivered_wav_seconds": 15,
+    "processing": "Speech at unchanged speed; trailing silence to15s; loudness normalized for consistent audition volume.",
+    "wav": "Moy-Voice-Reference-15s.wav",
+    "mp3": "Moy-Voice-Reference-15s.mp3"
+  },
+  {
+    "character": "Ning",
+    "voice": "Aoede",
+    "model": "tts-gemini-3-1-flash",
+    "transcript": "May itinabi akong tinapay para sa iyo. Huwag kang masyadong kiligin, baka bukas wala na. Biro lang. Halika, ikuwento mo kung anong nangyari.",
+    "voice_direction": "23-year-old Filipina, clear lively confident warm female voice, lightly witty, distinct from Beauty, not childish or elderly.",
+    "source_seconds": 9.44,
+    "delivered_wav_seconds": 15,
+    "processing": "Speech at unchanged speed; trailing silence to15s; loudness normalized for consistent audition volume.",
+    "wav": "Ning-Voice-Reference-15s.wav",
+    "mp3": "Ning-Voice-Reference-15s.mp3"
+  }
+]

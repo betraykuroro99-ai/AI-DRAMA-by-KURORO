@@ -1,0 +1,118 @@
+{
+  "Budget-Summary.json": {
+    "bytes": 219,
+    "sha256": "fbc1528da21897cfcc7ef83d60a5d0aa1446ef5ae76209ac2b0f3637787fe486"
+  },
+  "READ-ME.md": {
+    "bytes": 4276,
+    "sha256": "72115f2ed166cbae50cf17f4622faf83448e5ce0554b1145c10bacc515f88816"
+  },
+  "WAN-PROMPTS.md": {
+    "bytes": 7482,
+    "sha256": "2768c146da669825197f8e332bba668f16f2c337ab8abc5ef34ed6b7fcc843f1"
+  },
+  "dialogue/Clip-01-Bell-and-Foley-10s.wav": {
+    "bytes": 480078,
+    "sha256": "6d28d6d62086884f50bdffef70ed2f9e79d5d344eeced0dd4a03a069a7a23645"
+  },
+  "dialogue/Clip-02-Exact-Dialogue-10s.wav": {
+    "bytes": 480044,
+    "sha256": "6d792f5bba8d662e5141d7032bae0793180750c865571502f610e172d2be3fae"
+  },
+  "dialogue/Clip-03-Exact-Dialogue-8s.wav": {
+    "bytes": 384044,
+    "sha256": "27385a7e0ca160deae3bac32dcbbea1773ca5fe4985cb523a6ef6e6853b08a6a"
+  },
+  "dialogue/Opening-Line-01.wav": {
+    "bytes": 111404,
+    "sha256": "12338fabc218b32ed20d28ef643cb37dce6bb74aee689ee8faf365c87fd389e1"
+  },
+  "dialogue/Opening-Line-02.wav": {
+    "bytes": 249644,
+    "sha256": "104db7ed4a03b973c2f58aebf72a9c75dbfd3a6ff796b2482101d93a0a76efd7"
+  },
+  "dialogue/Opening-Line-03.wav": {
+    "bytes": 209324,
+    "sha256": "085f0bc539c849538350622aae8a9b2088f01431db74f699166af6a21bdaaf90"
+  },
+  "prompts/01-Wan-Opening-Stone-10s.txt": {
+    "bytes": 2460,
+    "sha256": "7b741678bdcaae07b638ab7822160ee474d14cacd462139fd59cf49aef3542ec"
+  },
+  "prompts/02-Wan-First-Conversation-10s.txt": {
+    "bytes": 2509,
+    "sha256": "5dd75944f1811e1e49b31acbb7e3e0d7cbfd63c96e5cadff8fa672808e9be005"
+  },
+  "prompts/03-Wan-Biscuits-Joke-10s.txt": {
+    "bytes": 2125,
+    "sha256": "49c9a6533b89155443584ddfaa94c127a0fa415c35d5db81dab74483ba423169"
+  },
+  "references/01-Market-Opening-Stone.png": {
+    "bytes": 2937662,
+    "sha256": "87cd89c3657f5bd960bb4fafc90b2e774d3194ebc0d1bc48975edb63c4436a8d"
+  },
+  "references/02-Market-Dialogue.png": {
+    "bytes": 3025211,
+    "sha256": "4db4409663b2a0d1e743f602c35edc45830b2f8ecde074e73757ec620442e9fc"
+  },
+  "references/03-All-Characters-Anime-Board.png": {
+    "bytes": 2051434,
+    "sha256": "8b1a304a61cc473e94379206ba5e6ba8afcc4a3e3f0850d56128d57e23e2ec18"
+  },
+  "references/04-Empty-Market-Environment.png": {
+    "bytes": 3376237,
+    "sha256": "522a7126ece1601fa4dc4bc5581782a8bee6f00507050aa656f62a5e798fe283"
+  },
+  "upload-order.json": {
+    "bytes": 815,
+    "sha256": "27bfa86975e1dc58231010584556ea80c72824736f3302fb8202ad52b9f192e0"
+  },
+  "voice-file-checks.json": {
+    "bytes": 717,
+    "sha256": "69fdee09ec6b959f94cfa4f7199add60ec88df224f2de779f5b27955798c78c4"
+  },
+  "voice-manifest.json": {
+    "bytes": 3379,
+    "sha256": "ddc9287cd2872dc49127f9ce153f42739b2ee6928a94a6986bf1ce1b883ab13a"
+  },
+  "voices/Bagwis-Voice-Reference-15s.mp3": {
+    "bytes": 241196,
+    "sha256": "21ed79ff97047e726518651a19da21df4105d9a455e74363ed4ceead5dabfe20"
+  },
+  "voices/Bagwis-Voice-Reference-15s.wav": {
+    "bytes": 720078,
+    "sha256": "ff2a245e3f626565efe2b77e5b20a0b715609899833099744b405b3906210f4e"
+  },
+  "voices/Beauty-Voice-Reference-15s.mp3": {
+    "bytes": 241196,
+    "sha256": "fadadb00080b2091e377a898d8c29008098dbe7fe910f111ea5344b50d28a3a4"
+  },
+  "voices/Beauty-Voice-Reference-15s.wav": {
+    "bytes": 720078,
+    "sha256": "6f272c97d34dfaf83038ad74a323548b7ee57be47c5a1a9a9d82f9c4f03ae51e"
+  },
+  "voices/Moy-Voice-Reference-15s.mp3": {
+    "bytes": 241196,
+    "sha256": "9e29d7adc8fb09a279b8f1eaeb52786b76151891ea2eaf5f717a929ba572c10d"
+  },
+  "voices/Moy-Voice-Reference-15s.wav": {
+    "bytes": 720078,
+    "sha256": "b2e22b9a1c441a0297558a034d1eb52f3ebca0b7c725c14ffdedb4e7d0322b63"
+  },
+  "voices/Ning-Voice-Reference-15s.mp3": {
+    "bytes": 241196,
+    "sha256": "bb75270e453864198ff020e8464312384b027a721bf55bdd4844a2b7b7078677"
+  },
+  "voices/Ning-Voice-Reference-15s.wav": {
+    "bytes": 720078,
+    "sha256": "b8de62d42bb137dca325bd517f2da05ac19c5e49a8853f3a60da9b47a30c6d27"
+  },
+  "voices/Tomas-Voice-Reference-15s.mp3": {
+    "bytes": 241196,
+    "sha256": "24717078bd4dc710a55e59c4e802060cd76ae0e9902a56bd9e370c27b2c8b235"
+  },
+  "voices/Tomas-Voice-Reference-15s.wav": {
+    "bytes": 720078,
+    "sha256": "132e86ce19e9f08120528796596b7d19cfadc9e450415eadf459a1ee79dd64d0"
+  }
+}

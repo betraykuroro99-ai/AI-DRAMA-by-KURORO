@@ -1,0 +1,37 @@
+[
+  {
+    "file": "Bagwis-Voice-Reference-15s.wav",
+    "seconds": 15,
+    "sample_rate": 24000,
+    "peak": 0.7369,
+    "source_speed": 1.0
+  },
+  {
+    "file": "Beauty-Voice-Reference-15s.wav",
+    "seconds": 15,
+    "sample_rate": 24000,
+    "peak": 0.7628,
+    "source_speed": 1.0
+  },
+  {
+    "file": "Moy-Voice-Reference-15s.wav",
+    "seconds": 15,
+    "sample_rate": 24000,
+    "peak": 0.7931,
+    "source_speed": 1.0
+  },
+  {
+    "file": "Ning-Voice-Reference-15s.wav",
+    "seconds": 15,
+    "sample_rate": 24000,
+    "peak": 0.6854,
+    "source_speed": 1.0
+  },
+  {
+    "file": "Tomas-Voice-Reference-15s.wav",
+    "seconds": 15,
+    "sample_rate": 24000,
+    "peak": 0.7851,
+    "source_speed": 1.0
+  }
+]

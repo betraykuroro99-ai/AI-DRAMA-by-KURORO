@@ -1,0 +1,24 @@
+{
+  "model": "Wan3.0 Reference",
+  "ratio": "9:16",
+  "resolution": "480p",
+  "clips": [
+    {
+      "prompt": "01-Wan-Opening-Stone-10s.txt",
+      "image1": "references/01-Market-Opening-Stone.png",
+      "duration_seconds": 10
+    },
+    {
+      "prompt": "02-Wan-First-Conversation-10s.txt",
+      "image1": "references/02-Market-Dialogue.png",
+      "duration_seconds": 10
+    },
+    {
+      "prompt": "03-Wan-Biscuits-Joke-10s.txt",
+      "image1": "references/02-Market-Dialogue.png",
+      "duration_seconds": 10
+    }
+  ],
+  "optional_cast_board": "Reference/approval guide only; do not upload the entire board as the main scene image.",
+  "audio_reference_support": "Interface-dependent. Venice API Wan Reference currently marks audio input unsupported. Native audio generation is a different feature."
+}

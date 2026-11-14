@@ -1,0 +1,7 @@
+{
+  "cap_usd": 20,
+  "conservative_accounted_usd": 7.4,
+  "includes_failed_or_uncertain_reservations": true,
+  "new_video_jobs_for_manual_pack": 0,
+  "basis": "Conservative reservation accounting, not invoice total."
+}
