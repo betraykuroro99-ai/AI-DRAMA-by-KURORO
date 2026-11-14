@@ -1,0 +1,11 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, vertical 9:16 frame, smooth animation. Expressive but controlled reactions for light comedy; restrained dramatic expressions for tense scenes. Preserve the exact accepted character faces, hairstyles, clothing, skin tones and adult proportions from @image1. Detailed painterly 2D Filipino environments, consistent light and contact shadows. No photorealism or 3D.
+
+@image1 is the approved scene composition. Night GARDEN viewed DOWN from Beauty’s upstairs window. Actual Tomas stands INSIDE closed fence below, green shirt, LEFT forearm freshly bandaged, flashlight in RIGHT hand. Same garden, house trim and lamp. Do not place Tomas in street or behind bedroom door. Bagwis stays outside fence, offscreen in this framing.
+
+NO VOICE REFERENCES. NO dialogue, narration or mimed talking; use only the stated nonverbal sound cues.
+
+Negative: 3D render, Pixar style, photorealistic, text overlays, letters, captions, subtitles, watermark, name labels, character sheet layout, multiple panels, split screen, duplicate characters, extra limbs, deformed hands, distorted face, morphing, flickering, static frame, blurry.
+
+Generate natural movement and only stated sound effects. No music, speech or narration. Keep adult identities stable, mouths still, correct anatomy and ordinary real-time speed.
+
+The real Tomas raises his right-hand flashlight toward the roof and takes one small step within the garden. Keep his face clearly readable in practical light; no morphing, giant shadow, wings or creature. White bandage unmistakably on LEFT arm. No speech, narration, mimed dialogue or extra human figure. This is the contradiction: his voice was just heard behind the upstairs closed door while he is physically downstairs. Show the location clearly; no long pan or slow motion. End still looking at the roof. Keep clip silent except quiet night ambience.

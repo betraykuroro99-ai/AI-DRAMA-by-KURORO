@@ -1,0 +1,129 @@
+[
+  {
+    "clip": 5,
+    "seconds": 15,
+    "title": "Repair and names",
+    "voices": {
+      "Audio1": "Bagwis",
+      "Audio2": "Beauty"
+    },
+    "prompt_file": "prompts/05-Clip-05-15s.txt",
+    "image1_plan": "Accepted final frame of clip04: same busy market and both crouched, case OPEN. Beauty has just begun putting the closed notebook containing the photo into the case. The teal shirt is inside. A separate brown book remains on dry ground. Use that actual frame, not an earlier two-person board."
+  },
+  {
+    "clip": 6,
+    "seconds": 10,
+    "title": "Ning welcomes Beauty",
+    "voices": {
+      "Audio1": "Ning",
+      "Audio2": "Beauty"
+    },
+    "prompt_file": "prompts/06-Clip-06-10s.txt",
+    "image1_plan": "New bakery composition in the SAME market: Beauty and Ning near the counter, Bagwis just offscreen holding the closed tied case. Ning has two curly buns, turquoise blouse and rust-orange apron; Beauty keeps her accepted face, clothes and tan bag."
+  },
+  {
+    "clip": 7,
+    "seconds": 15,
+    "title": "Moy and Ning",
+    "voices": {
+      "Audio1": "Moy",
+      "Audio2": "Bagwis",
+      "Audio3": "Ning"
+    },
+    "prompt_file": "prompts/07-Clip-07-15s.txt",
+    "image1_plan": "Bakery composition matching clip06: Moy beside parked motorcycle, Bagwis holding the tiedcase, Ning behind counter. Beauty may stay at edge listening. Moy wears ochre overshirt/brick-red tee, long hair in ONE top knot. Ning retains TWO curly buns, no cat ears or tail."
+  },
+  {
+    "clip": 8,
+    "seconds": 15,
+    "title": "The surname clue",
+    "voices": {
+      "Audio1": "Bagwis",
+      "Audio2": "Beauty"
+    },
+    "prompt_file": "prompts/08-Clip-08-15s.txt",
+    "image1_plan": "Market-exit composition with Beauty and Bagwis; Bagwis carries the CLOSED tiedcase by side handle, Beauty wears crossbodybag. Across the lane, one unobtrusive middle-aged woman in a brown blouse, dark skirt and low hair bun holds a basket. She is NOT Ning."
+  },
+  {
+    "clip": 9,
+    "seconds": 10,
+    "title": "Homecoming and wound",
+    "voices": {
+      "Audio1": "Beauty",
+      "Audio2": "Tomas"
+    },
+    "prompt_file": "prompts/09-Clip-09-10s.txt",
+    "image1_plan": "New house garden composition using accepted house environment: cream lower walls, timber upper level, teal trim, low garden gate. Tomas inside garden, Beauty arriving through open gate; Bagwis stays outside with tiedcase. Tomas mature54, gray temples, neat mustache, forest-green shirt, brown trousers, white bandage on anatomical LEFT forearm."
+  },
+  {
+    "clip": 10,
+    "seconds": 20,
+    "title": "Dalisay and the gate",
+    "voices": {
+      "Audio1": "Tomas",
+      "Audio2": "Bagwis",
+      "Audio3": "Beauty"
+    },
+    "prompt_file": "prompts/10-Clip-10-20s.txt",
+    "image1_plan": "Same house/gate geography after clip09: Tomas and Beauty INSIDE garden; Bagwis OUTSIDE fence holding tiedcase. Gate initially open. Injury remains on Tomas’s anatomical LEFT forearm."
+  },
+  {
+    "clip": 11,
+    "seconds": 15,
+    "title": "The wound contradicts him",
+    "voices": {
+      "Audio1": "Beauty",
+      "Audio2": "Tomas"
+    },
+    "prompt_file": "prompts/11-Clip-11-15s.txt",
+    "image1_plan": "Dining room evening. Tomas LEFT at table, Beauty RIGHT. Warm pendant, plates of rice/fish, clean gauze tray and small maternal portrait nearby. His injured anatomical LEFT forearm rests toward center on white towel, RIGHT hand separate. Correct one left/one right hand, five digits each. Beauty’s crossbodybag is set aside."
+  },
+  {
+    "clip": 12,
+    "seconds": 15,
+    "title": "The question he avoids",
+    "voices": {
+      "Audio1": "Beauty",
+      "Audio2": "Tomas"
+    },
+    "prompt_file": "prompts/12-Clip-12-15s.txt",
+    "image1_plan": "Same accepted dining frame and seating, same partial dressing and maternal portrait. No new objects, wardrobe or side changes."
+  },
+  {
+    "clip": 13,
+    "seconds": 10,
+    "title": "Something on the roof",
+    "voices": {},
+    "prompt_file": "prompts/13-Clip-13-10s.txt",
+    "image1_plan": "Beauty alone in upstairs bedroom at NIGHT: hallway door LEFT closed, bed/case central, window RIGHT overlooking same garden/street. Open case rests safely on bed, bag set aside. Beauty holds the same childhood school photograph with handwritten reverse. Readable lamp/moonlight, no balcony."
+  },
+  {
+    "clip": 14,
+    "seconds": 10,
+    "title": "Bagwis warns her",
+    "voices": {
+      "Audio1": "Bagwis",
+      "Audio2": "Beauty"
+    },
+    "prompt_file": "prompts/14-Clip-14-10s.txt",
+    "image1_plan": "Night EXTERIOR from upstairs-window direction, looking DOWN toward street. Only Bagwis visible OUTSIDE closed fence under streetlamp, watching roof. Match same house/street layout and his indigo outfit. Beauty is OFFSCREEN upstairs, never beside him on street."
+  },
+  {
+    "clip": 15,
+    "seconds": 10,
+    "title": "The voice behind the door",
+    "voices": {
+      "Audio1": "Tomas"
+    },
+    "prompt_file": "prompts/15-Clip-15-10s.txt",
+    "image1_plan": "Bedroom angle consistent with clip13: Beauty inside alone, window RIGHT and CLOSED hallway door LEFT. Phone in her hand. No actual Tomas in this room. Tomas voice is an unseen mimic behind door; use Tomas voice sample naturally, without demonic processing."
+  },
+  {
+    "clip": 16,
+    "seconds": 5,
+    "title": "The real father below",
+    "voices": {},
+    "prompt_file": "prompts/16-Clip-16-5s.txt",
+    "image1_plan": "Night GARDEN viewed DOWN from Beauty’s upstairs window. Actual Tomas stands INSIDE closed fence below, green shirt, LEFT forearm freshly bandaged, flashlight in RIGHT hand. Same garden, house trim and lamp. Do not place Tomas in street or behind bedroom door. Bagwis stays outside fence, offscreen in this framing."
+  }
+]

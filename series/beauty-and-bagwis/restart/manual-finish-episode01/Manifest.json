@@ -1,0 +1,114 @@
+{
+  "README.md": {
+    "bytes": 1280,
+    "sha256": "31d28d8bf62158b3b5f4e3b4a118204ddd8cb9518f326bc01f3e69c1a920f311"
+  },
+  "REFERENCE-GUIDE.md": {
+    "bytes": 3910,
+    "sha256": "d7f40d6c662d0cff7b5db21be911433211ea04aaab5165cf452ba1e565a1b8d4"
+  },
+  "REMAINING-PROMPTS.md": {
+    "bytes": 38170,
+    "sha256": "b562447d65e936df6280039f7039dc2039e9b1d4b79c73ee009f64595ce3dbb5"
+  },
+  "clip-manifest.json": {
+    "bytes": 5766,
+    "sha256": "a5a5a6142dc73e734c5754b54aa964f23983fb2435ba708035142e473ca921ab"
+  },
+  "prompts/05-Clip-05-15s.txt": {
+    "bytes": 2864,
+    "sha256": "f7a34cda5f04c4ef182eb3c72cd3722e021aa377e5ca209f49c810c7defb2e9c"
+  },
+  "prompts/06-Clip-06-10s.txt": {
+    "bytes": 2352,
+    "sha256": "fb449852f0642abca9971856f60de1e7c991c5437ec7bb365424d5f971a9834b"
+  },
+  "prompts/07-Clip-07-15s.txt": {
+    "bytes": 2573,
+    "sha256": "10ad1270fb29da839b6aa768735457799e5b541227c6efb214d6f6352142a6d5"
+  },
+  "prompts/08-Clip-08-15s.txt": {
+    "bytes": 2558,
+    "sha256": "b0688825ca9a1db562be33848a0b03b5d1b58722a90800fbacb242a0f4812136"
+  },
+  "prompts/09-Clip-09-10s.txt": {
+    "bytes": 2503,
+    "sha256": "3701971cac69a0bdb82b10a5498de50906a87214112805f4e0be114470c515e2"
+  },
+  "prompts/10-Clip-10-20s.txt": {
+    "bytes": 2683,
+    "sha256": "cd7c1610dad2b0038228935e6d13489a4bd93a0e6a4cc6e544b7ac898e3242d4"
+  },
+  "prompts/11-Clip-11-15s.txt": {
+    "bytes": 2540,
+    "sha256": "c391f411a689ab6333af87b069d1fb32fb72645db6f4598a9c8eee1aef255e92"
+  },
+  "prompts/12-Clip-12-15s.txt": {
+    "bytes": 2433,
+    "sha256": "6033be43b0e7fe6a9388888913f7c082b9f8caf4c55d69edabe5dcbf22f40cfa"
+  },
+  "prompts/13-Clip-13-10s.txt": {
+    "bytes": 2236,
+    "sha256": "4f2ca0ea93521a6df33640f5570b37a4d59744ed20ba8f2b128fa8911c69500c"
+  },
+  "prompts/14-Clip-14-10s.txt": {
+    "bytes": 2452,
+    "sha256": "3510102902d9185a3c6e292845627af61ade304cc945c6c8c22a3132d0c44311"
+  },
+  "prompts/15-Clip-15-10s.txt": {
+    "bytes": 2765,
+    "sha256": "2834352a173dfe09f5d0fb1ef98dbc067ad3084ad945d0774d60bf66b3c925d6"
+  },
+  "prompts/16-Clip-16-5s.txt": {
+    "bytes": 1955,
+    "sha256": "33bd18a6ab0a6059f0143aa136000378a8ab511ed540dfb7a29a53e14c5ca922"
+  },
+  "references/Bedroom-Night.png": {
+    "bytes": 2544248,
+    "sha256": "cf547d8c901384b389b5959895b913c551f671cbd877f5e7cb6e34b5a4e2e4e0"
+  },
+  "references/Clip04-Actual-Ending.png": {
+    "bytes": 699322,
+    "sha256": "bb72601598b049d38c979839263b8255d78eae2793f3fe56dd18f4c3c7bbdce6"
+  },
+  "references/Dining-Evening.png": {
+    "bytes": 2424152,
+    "sha256": "90bfa1bd84bba8f31c41253bdcc77e816b4cc4511888ceed46b791d9c10e35ce"
+  },
+  "references/House-Day.png": {
+    "bytes": 3499143,
+    "sha256": "8183620727a739f14589e1055e6360e6ffcc0c21b7c4f5f71e7b50e2a065fed5"
+  },
+  "references/House-Night.png": {
+    "bytes": 3101693,
+    "sha256": "d4c85ae0d7b2a9e2e96e6dcdde8cab50c207d53c9b9e111f25201dc3515d21e2"
+  },
+  "references/Optional-Cast-Identity-Board.png": {
+    "bytes": 2051434,
+    "sha256": "8b1a304a61cc473e94379206ba5e6ba8afcc4a3e3f0850d56128d57e23e2ec18"
+  },
+  "references/User-Edited-Clip03-Ending.png": {
+    "bytes": 682290,
+    "sha256": "dcea544abea04d2b716b9d8ea9a1c4cce1717f5baae5d30483319dc225b01714"
+  },
+  "voices/Bagwis-Voice-Reference-5s.wav": {
+    "bytes": 240078,
+    "sha256": "f965d0e09d137b1d716bb424ec019437ee727a02df0b1510e0309bccc77b6e38"
+  },
+  "voices/Beauty-Voice-Reference-5s.wav": {
+    "bytes": 240078,
+    "sha256": "a4e72ded2fe0d165d8e0ea0b7a51418dc7162f654163702e6283992a21094383"
+  },
+  "voices/Moy-Voice-Reference-5s.wav": {
+    "bytes": 240078,
+    "sha256": "35796b64d308ce44c1fc2b78435502ec4f36d390901cabf78c0979a9f1fe86df"
+  },
+  "voices/Ning-Voice-Reference-5s.wav": {
+    "bytes": 240078,
+    "sha256": "3bf4c181e3b83946dd116389f40a29431ec1d77754ed3903249ffac0c6f3dc5d"
+  },
+  "voices/Tomas-Voice-Reference-5s.wav": {
+    "bytes": 240078,
+    "sha256": "a0a47853e201c4a193802264c464ea65efded12989295d0021c2f71f593242c6"
+  }
+}

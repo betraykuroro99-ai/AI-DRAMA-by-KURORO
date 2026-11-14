@@ -1,0 +1,17 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, vertical 9:16 frame, smooth animation. Expressive but controlled reactions for light comedy; restrained dramatic expressions for tense scenes. Preserve the exact accepted character faces, hairstyles, clothing, skin tones and adult proportions from @image1. Detailed painterly 2D Filipino environments, consistent light and contact shadows. No photorealism or 3D.
+
+@image1 is the approved scene composition. Accepted final frame of clip04: same busy market and both crouched, case OPEN. Beauty has just begun putting the closed notebook containing the photo into the case. The teal shirt is inside. A separate brown book remains on dry ground. Use that actual frame, not an earlier two-person board.
+
+@Audio1 is Bagwis’s five-second reference voice identity.
+@Audio2 is Beauty’s five-second reference voice identity.
+
+Negative: 3D render, Pixar style, photorealistic, text overlays, letters, captions, subtitles, watermark, name labels, character sheet layout, multiple panels, split screen, duplicate characters, extra limbs, deformed hands, distorted face, morphing, flickering, static frame, blurry.
+
+Generate native Tagalog speech and natural mouth movements together. Voice samples control VOICE IDENTITY ONLY; do not recite their sample transcripts. Speak only the quoted dialogue. Normal conversational syllables, brief listening pauses, no rushing, slow motion or artificially elongated words. Only the current speaker articulates; listeners close their mouths. Small natural jaw movement, no repeated broad O shapes, teeth-baring, lip flapping, chewing or repeated nodding. Quiet appropriate ambience, no music, narration or intelligible background speech. No separate dubbing or lip-sync stage. Preserve meaningful actions and actual ending states.
+
+0–3s: Beauty finishes putting the notebook safely inside the suitcase and retrieves the separate book from the dry ground, placing it with her belongings. Bagwis folds the lid shut without pressing on her fingers. Both remain crouched; do not stand and crouch repeatedly.
+3–5s: Beauty introduces herself warmly: "Beauty."
+5–7s: Bagwis answers: "Bagwis."
+7–10s: Beauty gives a small curious look: "Totoong pangalan?"
+10–13s: Bagwis replies with understated teasing: "Ikaw nga Beauty."
+During these exchanges he loops his spare tan cord around the CLOSED case to secure the failed fastening. Keep the knot simple, anatomically correct hands, no twisting fingers or rope multiplying. A slight meaningful glance instead of a long grin. After the reply he checks the cord with one small tug. End beginning to rise with the closed tied case by its SIDE carry handle, not pulling it on the damaged wheel. Beauty prepares to stand. Notebook/photo/biscuits now inside case. Do not walk away yet.

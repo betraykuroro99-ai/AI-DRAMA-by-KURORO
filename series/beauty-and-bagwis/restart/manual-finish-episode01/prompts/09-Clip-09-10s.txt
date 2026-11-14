@@ -1,0 +1,16 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, vertical 9:16 frame, smooth animation. Expressive but controlled reactions for light comedy; restrained dramatic expressions for tense scenes. Preserve the exact accepted character faces, hairstyles, clothing, skin tones and adult proportions from @image1. Detailed painterly 2D Filipino environments, consistent light and contact shadows. No photorealism or 3D.
+
+@image1 is the approved scene composition. New house garden composition using accepted house environment: cream lower walls, timber upper level, teal trim, low garden gate. Tomas inside garden, Beauty arriving through open gate; Bagwis stays outside with tiedcase. Tomas mature54, gray temples, neat mustache, forest-green shirt, brown trousers, white bandage on anatomical LEFT forearm.
+
+@Audio1 is Beauty’s five-second reference voice identity.
+@Audio2 is Tomas’s five-second reference voice identity.
+
+Negative: 3D render, Pixar style, photorealistic, text overlays, letters, captions, subtitles, watermark, name labels, character sheet layout, multiple panels, split screen, duplicate characters, extra limbs, deformed hands, distorted face, morphing, flickering, static frame, blurry.
+
+Generate native Tagalog speech and natural mouth movements together. Voice samples control VOICE IDENTITY ONLY; do not recite their sample transcripts. Speak only the quoted dialogue. Normal conversational syllables, brief listening pauses, no rushing, slow motion or artificially elongated words. Only the current speaker articulates; listeners close their mouths. Small natural jaw movement, no repeated broad O shapes, teeth-baring, lip flapping, chewing or repeated nodding. Quiet appropriate ambience, no music, narration or intelligible background speech. No separate dubbing or lip-sync stage. Preserve meaningful actions and actual ending states.
+
+0–2s: Beauty briefly embraces her father without squeezing his injured arm. She notices the bandage and steps back, concerned.
+2–4.5s: Beauty asks: "Pa… anong nangyari?"
+4.5–7s: Tomas answers, attempting casual reassurance: "Nadulas. Sa palaisdaan."
+7–10s: Beauty studies the dressing and says: "Ako na maglilinis mamaya."
+Tomas starts to straighten his sleeve with his uninjured RIGHT hand. Exactly one left and one right hand; correct thumb orientation. Bagwis remains outside, silent. End Tomas noticing Bagwis for the first time. No exaggerated crying, no embrace loop.

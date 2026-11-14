@@ -1,0 +1,17 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, vertical 9:16 frame, smooth animation. Expressive but controlled reactions for light comedy; restrained dramatic expressions for tense scenes. Preserve the exact accepted character faces, hairstyles, clothing, skin tones and adult proportions from @image1. Detailed painterly 2D Filipino environments, consistent light and contact shadows. No photorealism or 3D.
+
+@image1 is the approved scene composition. Bakery composition matching clip06: Moy beside parked motorcycle, Bagwis holding the tiedcase, Ning behind counter. Beauty may stay at edge listening. Moy wears ochre overshirt/brick-red tee, long hair in ONE top knot. Ning retains TWO curly buns, no cat ears or tail.
+
+@Audio1 is Moy’s five-second reference voice identity.
+@Audio2 is Bagwis’s five-second reference voice identity.
+@Audio3 is Ning’s five-second reference voice identity.
+
+Negative: 3D render, Pixar style, photorealistic, text overlays, letters, captions, subtitles, watermark, name labels, character sheet layout, multiple panels, split screen, duplicate characters, extra limbs, deformed hands, distorted face, morphing, flickering, static frame, blurry.
+
+Generate native Tagalog speech and natural mouth movements together. Voice samples control VOICE IDENTITY ONLY; do not recite their sample transcripts. Speak only the quoted dialogue. Normal conversational syllables, brief listening pauses, no rushing, slow motion or artificially elongated words. Only the current speaker articulates; listeners close their mouths. Small natural jaw movement, no repeated broad O shapes, teeth-baring, lip flapping, chewing or repeated nodding. Quiet appropriate ambience, no music, narration or intelligible background speech. No separate dubbing or lip-sync stage. Preserve meaningful actions and actual ending states.
+
+0–3.5s: Moy notices Bagwis carrying the case and offers one empty hand, teasing: "Ako, pinagbubuhat mo pa."
+3.5–6s: Bagwis keeps the handle, calmly answers: "May dalawang kamay ka."
+6–9s: Ning puts Moy’s usual bread into a paper bag while he leaves the correct coins. She asks: "Bukas ulit?"
+9–12s: Moy looks at her rather than at the bread: "Kung nandito ka."
+12–15s: A brief mutual smile, then Ning slides his paid bread toward him and resumes work. No exaggerated blush effects, laugh track, humiliating joke or long stare. One paper bag, correct payment, engine OFF. End Bagwis still carrying case, Moy with bread, Ning at counter. No romantic touching yet.
