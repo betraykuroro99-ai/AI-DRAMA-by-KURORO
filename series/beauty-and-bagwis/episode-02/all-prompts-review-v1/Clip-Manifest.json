@@ -1,0 +1,277 @@
+[
+  {
+    "clip": "04",
+    "title": "Bagwis identifies the direction",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "Existing Clip-14-Bagwis-Outside-Fence.png; Bagwis outside the CLOSED garden fence"
+    ],
+    "voice_order": [
+      "Bagwis"
+    ],
+    "setup": "Only Bagwis is visible, outside the closed green garden fence at night. Preserve indigo rolled-sleeve shirt, gray tee, charcoal trousers, short wavy black hair. Tomas is inside the garden and offscreen. No motorcycle. Hands lowered; no tool or new prop.",
+    "action": "0–1s: Bagwis hears a roof scrape and looks above the upstairs window. 1–4s: He calls to Tomas, firmly but without shouting: “Sa bubong. May gumagalaw.” Brief sentence pause. 4–7s: He follows one scrape from left to right with his eyes, head turn small and controlled. 7–10s: He steps once closer to the closed gate to see the roof; do not open it, climb it or show a creature.",
+    "end_state": "Bagwis outside closed gate, watching the roof, hands free. Quiet night, exact line and short overhead scrape only.",
+    "notes": ""
+  },
+  {
+    "clip": "05",
+    "title": "Something reaches under the door",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "NEW single-scene bedroom reference: same room, closed door left; Beauty beside bed away from latch; phone in left hand, no suitcase repositioning"
+    ],
+    "voice_order": [
+      "Beauty"
+    ],
+    "setup": "Only Beauty visible. Medium view includes bottom of closed door and Beauty beside bed. Phone recording in anatomical LEFT hand. Right hand clear of the door. A hair-thin dark tendril belongs to the unseen intruder, never to Beauty. Keep it separate from all body parts.",
+    "action": "0–2s: A thin dark tendril slides a few centimeters from beneath the closed door, staying against the floor. 2–4s: Beauty spots it and moves one step back beside the bed, phone still in left hand. 4–6.5s: She calls toward the window: “Pa, may pumapasok!” Alarmed but intelligible, no scream. 6.5–10s: She angles the already-recording phone toward the doorway; she never touches the tendril or door. Tendril remains short, not a giant tentacle.",
+    "end_state": "Beauty safely beside bed, recording the doorway; tendril near door gap. Single restrained effect; no monster reveal.",
+    "notes": "New reference must be created here and reviewed before submission. If the effect fails, do not write the next clip as though it succeeded."
+  },
+  {
+    "clip": "06",
+    "title": "The recording captures the imitation",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "Accepted Clip05 actual last frame or reviewed matching bedroom composition; Beauty by bed, phone recording in left hand"
+    ],
+    "voice_order": [
+      "Tomas"
+    ],
+    "setup": "Only Beauty visible. Unseen imitation speaks from behind the CLOSED door screen left in Tomas’s ordinary mature male voice. Real Tomas remains outside. Beauty does not speak or mouth any words. Phone is already recording; do not replay the start-recording tap.",
+    "action": "0–1s: Beauty steadies the phone toward the closed door. 1–4s: OFFSCREEN imitation says: “Anak. Papasukin mo ako.” Familiar tone, natural pause after Anak, no demonic filter. 4–5s: Beauty stays silent, making the choice not to answer. 5–8s: In the distant background, two short cracked bell rings followed by one longer ring. Beauty notices but keeps phone recording. 8–10s: A faint scrape behind the door; she holds her position, no additional speech.",
+    "end_state": "Recording now contains the imitation AND the bell rhythm. Tendril remains near the door; Beauty safely back beside bed.",
+    "notes": "Preserve this audio excerpt for bakery playback. Bell rhythm must be checked in output; a clean original bell effect may be added in editing if needed, never claimed generated correctly without checking."
+  },
+  {
+    "clip": "07",
+    "title": "Bagwis creates a distraction",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "NEW action reference matching closed garden gate: Bagwis outside, unobstructed metal gate panel within reach"
+    ],
+    "voice_order": [],
+    "setup": "Only Bagwis visible outside the closed metal garden gate. Right hand free, left hand relaxed away from moving gate. No weapons, stones, water drum or new props. Keep same night lighting and Bagwis identity.",
+    "action": "0–2s: Bagwis looks from the roof to the hollow metal gate panel. 2–4s: He strikes the flat metal panel ONCE with the heel of his RIGHT palm. One clear contact makes a loud hollow clang; correct wrist and hand ownership, no repeated blows. 4–6s: A heavy roof thump answers from offscreen. 6–8s: His palm withdraws and lowers. 8–10s: He watches above the house, listening rather than celebrating. No speech.",
+    "end_state": "Gate closed and intact; Bagwis outside with hands lowered. One clang, roof thump then quieter night. Danger is not declared over.",
+    "notes": "This replaces the old water-drum action because no drum is established in Episode 1. New action reference requires review."
+  },
+  {
+    "clip": "08",
+    "title": "Tomas reaches the hallway",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "NEW upstairs hallway reference consistent with bedroom door/staircase; Tomas same face and clothes, bandage on LEFT forearm"
+    ],
+    "voice_order": [
+      "Tomas"
+    ],
+    "setup": "Only real Tomas visible. He has come inside by the ground-floor entrance between shots. At opening he is already at top of stairs, not teleporting from the garden. Anatomical LEFT arm bandaged and lowered; RIGHT hand holds flashlight. Bedroom door ahead remains closed. Warm hallway light, moonlight through stair opening.",
+    "action": "0–2s: Tomas takes one final stair step onto landing and stops short of the bedroom door. 2–5.5s: He says gently but clearly: “Anak, nasa hagdan na ako.” No knock. 5.5–8s: He angles his flashlight downward so light reaches beneath the bedroom door. 8–10s: He stays back from the latch, giving Beauty room to decide. No door opening in this clip.",
+    "end_state": "Tomas at upstairs landing outside closed bedroom, flashlight downward, left bandage visible.",
+    "notes": "The unseen intruder has retreated after the clang; do not introduce a second Tomas. The brief transition inside needs no travel montage."
+  },
+  {
+    "clip": "09",
+    "title": "Beauty opens to the real father",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "NEW combined doorway reference: Beauty INSIDE left side of composition, Tomas in lit hallway right; same bedroom fixtures and costumes"
+    ],
+    "voice_order": [
+      "Beauty",
+      "Tomas"
+    ],
+    "setup": "Beauty is now close enough to see Tomas through the door as it opens; phone stays lowered in LEFT hand. Tomas holds flashlight in RIGHT, bandaged LEFT arm stays relaxed. No tendril remains in threshold. Do not treat appearance or memory questions as proof of a universal creature weakness.",
+    "action": "0–2s: Beauty opens door only a little using her RIGHT hand, sees real Tomas in the illuminated hallway and steps back. 2–4.8s: Beauty says: “May gumaya sa boses mo.” Restrained fear, no rushed words. 4.8–5.5s: Tomas listens, mouth closed. 5.5–7.5s: He answers: “Narinig ko.” 7.5–10s: He steps just inside, leaving door open. Beauty turns her gaze to something on the threshold. No hug, phone transfer or additional speech.",
+    "end_state": "Real Tomas just inside bedroom, open doorway behind; Beauty nearby with phone left, both looking toward threshold.",
+    "notes": "Simple door action must be reviewed. If anatomy/door geography fails, use separate doorway insert and reaction coverage under a revised approved prompt."
+  },
+  {
+    "clip": "10",
+    "title": "Evidence contradicts the wound story",
+    "duration_seconds": 15,
+    "reference_plan": [
+      "NEW combined threshold reference matching Clip09 end; small curved black sliver on floor beside gray dust; inverted clear glass ALREADY covering it"
+    ],
+    "voice_order": [
+      "Beauty",
+      "Tomas"
+    ],
+    "setup": "Beauty and Tomas beside open doorway. A small curved black splinter is ALREADY covered by an inverted clear drinking glass on a stiff card. No one touches the sliver. Phone stays in Beauty’s left hand. Tomas’s left bandage and right-hand flashlight unchanged. Match faces and clothes.",
+    "action": "0–2s: Beauty looks from covered sliver to the bandage. 2–8s: She asks, naturally with a pause at comma: “Kung yero lang ’yung sugat mo, bakit takot ka rito?” Tomas listens silently. 8–9s: He cannot meet her eyes. 9–12s: He replies: “Hindi kita gustong madamay.” 12–15s: Beauty holds his gaze, realizing his silence is a choice. Her recording phone stays visible and steady, no pleading gestures.",
+    "end_state": "Covered clue remains safely on card. Beauty has challenged Tomas; he acknowledges danger without naming creature or culprit.",
+    "notes": "Glass placed offscreen between shots, not a newly generated complex hand transfer. No graphic wound display. This dialogue is proposed for user review, not previously approved verbatim."
+  },
+  {
+    "clip": "11",
+    "title": "Beauty brings evidence to Ning",
+    "duration_seconds": 15,
+    "reference_plan": [
+      "NEW morning bakery counter composition: established Beauty and Ning, covered sliver on stiff card and phone already on counter; faint unfinished parol behind counter"
+    ],
+    "voice_order": [
+      "Beauty",
+      "Ning"
+    ],
+    "setup": "Morning, familiar provincial bakery. Beauty retains travel outfit for this immediate next-morning visit. Ning matches accepted Episode1 face, curly hair silhouette and clothes exactly; no visible cat ears/tail or redesign. Only these two visible. Phone and covered fragment already rest on counter; no carrying action. New morning light, no night beams.",
+    "action": "0–1s: Beauty looks toward the covered clue then Ning. 1–7.5s: Beauty says: “May gumaya sa boses ni Papa. Nasa labas siya, pero naririnig ko sa pinto.” Normal conversational delivery, sentence pause; no racing. 7.5–8.5s: Ning processes it. 8.5–10.5s: Ning says: “Na-record mo?” 10.5–12.5s: Beauty answers: “Pakinggan mo.” 12.5–15s: Beauty taps phone ONCE with right index finger. End ready for playback. No generated screen text or extra lines.",
+    "end_state": "Phone playback starts at cut. Covered sliver remains undisturbed; no touching. Beauty and Ning focus on phone.",
+    "notes": "If measured delivery needs more than15s, split into two approved takes instead of accelerating speech."
+  },
+  {
+    "clip": "12",
+    "title": "Moy and Ning, a little warmth",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "NEW bakery counter composition: Moy LEFT, Ning RIGHT; evidence at safe distance; Beauty outside frame"
+    ],
+    "voice_order": [
+      "Moy",
+      "Ning"
+    ],
+    "setup": "Moy matches established adult face, long dark hair tied in top knot, accepted clothes; never short-haired Bagwis duplicate. Ning retains accepted curly hairstyle and outfit. Covered sliver sits on card, out of hand reach. No visible cat features. Phone playback will be inserted from accepted Clip06 in editing; do not generate a second performance of that excerpt.",
+    "action": "0–1s: Moy leans a little toward covered clue without reaching. 1–3s: Ning says dryly: “Mata lang. Huwag kamay.” 3–4s: Moy straightens. 4–6.5s: He replies with a small smile: “Nag-aalala ka sa ’kin?” 6.5–7s: Ning gives him a short look. 7–9s: She answers: “Sa paninda ko.” 9–10s: Moy’s amused reaction ends when Ning turns her attention toward phone. Understated chemistry, no exaggerated laugh.",
+    "end_state": "Neither touches the clue. Ning listening toward phone; Moy’s joke has given way to concern. Quiet bakery background only.",
+    "notes": "Short banter develops the couple without a separate comedy detour. Add original Clip06 playback in edit across evidence/phone coverage, keeping new dialogue intelligible."
+  },
+  {
+    "clip": "13",
+    "title": "Ning hears what the others missed",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "Reviewed bakery Beauty/Ning composition; phone and glass-covered clue unchanged"
+    ],
+    "voice_order": [
+      "Ning",
+      "Beauty"
+    ],
+    "setup": "Only Beauty and Ning visible at bakery counter. Ning’s unusual hearing is a subtle clue, never transformed anatomy. Playback is editorially reused from accepted Clip06; do not make a fresh imitation voice here.",
+    "action": "0–1s: Ning focuses on the phone, stops smiling. 1–3s: Ning says: “Sandali. Lakasan mo.” 3–4s: Beauty makes ONE small volume tap on phone with right index finger. 4–7s: Both listen, lips closed; this interval is reserved for edited two-short-one-long bell excerpt from Clip06. 7–9s: Beauty asks: “Kampana?” 9–10s: Ning looks toward Moy outside the frame, seeking recognition.",
+    "end_state": "Bell rhythm is now an audible clue for the group, not an explanatory voice-over.",
+    "notes": "No intelligible background customers. Audio excerpt will be mixed in editing after the source take passes review."
+  },
+  {
+    "clip": "14",
+    "title": "The fishpond connection",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "NEW bakery Beauty/Moy two-shot at same counter; phone and covered clue remain on counter, Ning offscreen"
+    ],
+    "voice_order": [
+      "Moy",
+      "Beauty"
+    ],
+    "setup": "Moy with top knot and exact established clothes, Beauty unchanged. Both stand at bakery counter; no new prop transfers. Moy recognizes a place, not a proven monster species.",
+    "action": "0–1s: Moy glances from phone to Beauty. 1–5s: He says: “Sa lumang palaisdaan. Doon ’yung basag na kampana.” Natural sentence pause. 5–6s: Beauty connects the clue with her father’s explanation. 6–9s: She says: “Doon daw nasugatan si Papa.” 9–10s: She looks toward the exit with resolve. No new departure action or added words.",
+    "end_state": "Beauty has a reason to investigate fishpond. Covered sliver stays at bakery for later clips; do not put it in anyone’s pocket.",
+    "notes": ""
+  },
+  {
+    "clip": "15",
+    "title": "Bagwis knows where she is going",
+    "duration_seconds": 15,
+    "reference_plan": [
+      "NEW daylight path beside Bagwis repair shed; Beauty RIGHT and Bagwis LEFT, same identities/clothes; simple rope bench; no parked motorcycle unless supplied reference actually contains one"
+    ],
+    "voice_order": [
+      "Bagwis",
+      "Beauty"
+    ],
+    "setup": "Later that same day, before dusk. Beauty and Bagwis face each other beside his workbench. Moy and Ning accompanying Beauty remain just offscreen; not absent from trip. Bagwis never grabs or physically blocks her. No suitcase: it stayed in bedroom. Beauty now wears her same tan crossbody bag for the outing; phone inside, no covered clue.",
+    "action": "0–1s: Bagwis sees Beauty approaching the path toward fishpond. 1–5s: Bagwis says: “Hindi kayo puwedeng pumunta roon kapag dumilim.” 5–6s: Beauty holds his gaze. 6–9s: Beauty replies: “Alam mo pala kung saan kami pupunta.” 9–10s: Bagwis hesitates without looking away. 10–13.5s: Beauty adds: “May alam ka rin. Bakit ayaw mong sabihin?” 13.5–15s: He chooses to stay with her rather than send her away. Small reaction only.",
+    "end_state": "Beauty and Bagwis face each other beside shed; her bag on, his hands free. Important tension replaces a travel montage.",
+    "notes": "Dialogue timings are provisional; never compress performance. Proposed full scene requires review before reference creation or generation."
+  },
+  {
+    "clip": "16",
+    "title": "A choice to accompany her",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "Accepted Clip15 end-state composition, same path, light and costumes"
+    ],
+    "voice_order": [
+      "Bagwis",
+      "Beauty"
+    ],
+    "setup": "Continue the actual accepted positions of Beauty and Bagwis. No physical restraint. Bagwis opens up just enough to give useful advice; do not reveal his ancestry. Beauty’s crossbody bag remains on her shoulder.",
+    "action": "0–1s: Bagwis steps a little aside, allowing her the choice. 1–3s: He says: “Sasama ako.” 3–4s: Beauty quietly waits for more. 4–8.5s: Bagwis adds: “Kapag may tumawag sa ’yo, tingnan mo muna kung sino.” Natural pace, short pause at comma. 8.5–10s: Beauty gives one small acknowledging nod, then looks down the path. No walk montage, kiss, transformed eyes or extra line.",
+    "end_state": "Both choose to investigate together; cut directly to location. No claim that sight is a guaranteed test against an imitation.",
+    "notes": ""
+  },
+  {
+    "clip": "17",
+    "title": "Evidence at the old shed",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "NEW fishpond watch-shed threshold composition, Beauty RIGHT/Bagwis LEFT; empty shed interior, old lantern UNLIT, torn olive-green cuff and used gauze wrappers on bench; cracked bell above doorway, severed rope in coils on ground"
+    ],
+    "voice_order": [
+      "Beauty"
+    ],
+    "setup": "Dusk but faces readable. Match Beauty and Bagwis identities and costumes; Beauty’s crossbody bag worn. Moy and Ning are nearby just offscreen, not duplicated in doorway. Dry shallow channels outside, no deep-water stunt. Beauty stays outside threshold. Lantern off, green cuff and wrappers already on bench, no labels or legible writing.",
+    "action": "0–2s: Beauty notices the torn cuff and wrappers inside shed. 2–5s: She says: “Dito niya nilinis ’yung sugat.” 5–8s: She takes out her phone with left hand and frames a photograph of the bench; right hand remains clear of evidence. 8–10s: Bagwis studies the empty interior, quietly alert. No item is touched or taken.",
+    "end_state": "Beauty’s phone in left hand; both remain outside. Lantern unlit; evidence untouched.",
+    "notes": "New location/reference must be shown for approval. Bagwis should not infer whose cuff solely from color as a proven fact; Beauty’s line is her inference from combined clues."
+  },
+  {
+    "clip": "18",
+    "title": "Ning notices first",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "NEW same shed exterior with Moy LEFT and Ning RIGHT, cracked bell visible above doorway, rope severed and motionless on ground; maintain dusk lighting"
+    ],
+    "voice_order": [
+      "Moy",
+      "Ning"
+    ],
+    "setup": "Only Moy and Ning visible outside shed. Beauty and Bagwis just offscreen at threshold. Ning’s accepted curly hairstyle completely conceals any unusual ears; no cat anatomy. Moy has long hair tied back in top knot. Both hands start lowered and separate.",
+    "action": "0–2s: Ning turns her gaze toward bell before it moves. 2–3.5s: Moy asks softly: “Ano ’yon?” 3.5–4.5s: Ning replies: “Shh.” 4.5–7s: The bell sways once without the severed rope moving. 7–10s: Moy offers his open RIGHT hand beside Ning; Ning places her LEFT hand in it. One simple visible contact, no interlocking-finger closeup. Their concern is sincere; no joke or love confession.",
+    "end_state": "Moy and Ning hold adjacent hands, looking at bell. No creature reveal.",
+    "notes": "If hand contact distorts, return for a revised approved simpler two-shot; do not pretend a failed action succeeded."
+  },
+  {
+    "clip": "19",
+    "title": "The cut rope cannot ring it",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "NEW close composition of the SAME cracked bell above shed doorway; severed upper rope end visible and separate coiled lower rope on ground within composition; no people"
+    ],
+    "voice_order": [],
+    "setup": "Evidence insert, not a new location. Same bell proportions, crack, doorway and twilight as Clips17–18. Lantern deeper inside is still UNLIT. No people, human hands, animal body or new shadow.",
+    "action": "0–2s: Bell settles from previous small sway, rope visibly severed. 2–6s: It moves enough to ring TWO SHORT beats then ONE LONG beat, while loose lower rope remains completely motionless on ground. 6–8s: Bell vibration diminishes naturally; keep upper severed end visibly disconnected. 8–10s: A small scrape comes from the dark interior beyond doorway, shifting attention inward. No camera motion, no speech.",
+    "end_state": "Bell settling; rope still severed; lantern unlit. No one has pulled the rope.",
+    "notes": "Bell rhythm can be finalized as original edited sound if native timing fails. Keep actual visual motion review separate from sound claims."
+  },
+  {
+    "clip": "20",
+    "title": "Beauty hears her own voice",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "Accepted/reviewed shed-threshold Beauty/Bagwis composition; both OUTSIDE, Beauty RIGHT phone in left hand, Bagwis LEFT; empty interior and UNLIT lantern behind doorway"
+    ],
+    "voice_order": [
+      "Beauty"
+    ],
+    "setup": "Beauty and Bagwis stand outside shed. Beauty’s mouth stays CLOSED for the entire shot. @Audio1 conditions an unseen imitation of Beauty’s voice coming from INSIDE the empty shed, not the visible Beauty. Bagwis never speaks. No physical copy, extra face or creature. Both look toward dark doorway before turning slightly to each other.",
+    "action": "0–1s: Both listen to faint scrape inside. 1–6.5s: OFFSCREEN Beauty imitation says exactly: “Bagwis… sabihin mo kung bakit siya umuwi.” Familiar human voice, questioning tension, brief pause after Bagwis; no demonic filter, laugh or extra words. Visible Beauty listens with closed mouth. 6.5–8s: Bagwis stiffens subtly, eyes on doorway. 8–10s: Beauty turns her eyes toward him, realizing the message is addressed to him. No dialogue from visible characters.",
+    "end_state": "Beauty looking at Bagwis; he remains concerned with shed. Lantern still off. Exact borrowed voice creates a new question.",
+    "notes": "This uses the episode ending the user approved in the latest pitch, replacing the older draft line “Bagwis. Alam na niya.” Do not reveal the answer or future twist."
+  },
+  {
+    "clip": "21",
+    "title": "The question Bagwis cannot answer",
+    "duration_seconds": 10,
+    "reference_plan": [
+      "Actual accepted Clip20 ending reference, same Beauty/Bagwis positions and UNLIT lantern visible inside EMPTY shed"
+    ],
+    "voice_order": [
+      "Beauty"
+    ],
+    "setup": "Visible Beauty speaks now, with small natural lip movement; Bagwis listens and remains silent. Both outside doorway; no one enters shed. Phone stays in her left hand. Same dusk light and clothes. Interior lantern starts off.",
+    "action": "0–1s: Beauty searches Bagwis’s face. 1–4.5s: She asks: “Anong ibig niyang sabihin?” Unhurried, hurt and confused rather than shouting. 4.5–6s: Bagwis starts to meet her gaze but a small click comes from the empty shed. 6–8s: The old lantern inside switches on by itself; its warm light reveals an empty floor and a tall unexplained shadow on rear wall. No body appears; no character transforms. 8–10s: Both look toward it, Beauty mouth closed. Hold only long enough to read the contradiction, then end for dramatic fade in editing.",
+    "end_state": "Lantern lit, shed floor empty, unexplained shadow on rear wall; both leads still outside. Final mystery, no answer.",
+    "notes": "If combined light/shadow effect cannot read cleanly, split into a separately approved controlled insert rather than a paid blind reroll. ABANGAN and final dramatic fade added in editing, never generated text."
+  }
+]

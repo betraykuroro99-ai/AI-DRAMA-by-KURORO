@@ -1,0 +1,23 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, vertical 9:16, smooth real-time animation. Restrained dramatic expressions.
+
+Original Filipino romantic supernatural mystery. Match Tomas’s EXACT adult face, gray-streaked hair, mustache, olive-green shirt, brown trousers and sandals from @image1. Preserve the detailed painted nighttime garden, closed green gate, stone path, plants, mango tree and warm flashlight against cool moonlight.
+
+Camera looks DOWN from Beauty’s upstairs bedroom window. Tomas stands INSIDE the garden, looking up toward Beauty. Only Tomas is visible. Beauty remains completely OFFSCREEN upstairs. Do not introduce Bagwis, a creature or another person.
+
+Tomas’s anatomical LEFT forearm is bandaged and remains lowered, screen right. His uninjured RIGHT hand holds ONE flashlight, screen left. Never swap arms, duplicate hands or transfer the flashlight. Its beam points toward the upstairs exterior, not directly into the camera.
+
+@Audio1 is Beauty’s exact young adult female voice identity. @Audio2 is Tomas’s exact mature male voice identity. Generate NEW native Tagalog dialogue using these identities. Never repeat the neutral reference recordings. No separate dubbing or lipsync.
+
+0–1s: Immediately reveal Tomas below the window. He notices Beauty looking down. His mouth remains closed. One small, natural flashlight adjustment; no large arm gesture.
+
+1–4.2s: Beauty speaks OFFSCREEN from upstairs, quietly confused: “Pa…?? sino ’yung nasa pinto ko?” Deliver “Pa” as a startled question with rising intonation, followed by a brief pause before the rest. Natural conversational delivery. Tomas listens with his mouth closed. Beauty never appears.
+
+4.2–5s: Tomas’s gaze shifts briefly toward the roof above her window. His concern sharpens. No exaggerated gasp or frozen reaction.
+
+5–7.3s: Tomas looks back up and says firmly, with controlled urgency: “Huwag mong buksan.” Small natural lip and jaw movements. Do not shout or rush.
+
+7.3–10s: He closes his mouth and redirects the flashlight slightly toward the roof, following a faint scrape overhead. Keep the roof and source of the scrape outside the frame. End with Tomas watching above Beauty’s window. His bandaged left arm remains lowered throughout.
+
+Locked camera. No cuts, zooms, slow motion or repeated nodding. Quiet nighttime ambience, exact dialogue and one faint roof scrape only. No music, narration, extra voices or new knocks.
+
+Negative: photorealistic, 3D render, Pixar style, subtitles, captions, text, logos, watermark, duplicate characters, extra limbs, swapped hands, deformed fingers, face warping, morphing, flickering, exaggerated mouth movement, broad O mouth, teeth-baring, chewing, head bobbing, visible monster.

@@ -1,0 +1,16 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, detailed painterly realistic 2D Filipino provincial environments. Original Filipino romantic supernatural mystery. Portrait 9:16, 480p. Match established exact adult faces, hairstyles, clothing and environment references in every frame. Smooth ordinary real-time animation, no slow motion or stretched syllables. Small natural jaw and lip movements for visible speakers only, closed relaxed mouths while listening. Expressive but restrained reactions. Natural conversational Tagalog with breaths at punctuation and brief listening pauses. Do not race dialogue to fill a duration window. Reference images guide identity/layout, not guaranteed first-frame locks. One coherent scene, locked camera unless explicitly stated. No cuts or zooms.
+
+Negative: photorealistic, 3D render, Pixar style, captions, subtitles, readable text, logos, watermark, split screen, duplicate characters or props, extra limbs, swapped hands, deformed fingers, face warping, morphing, flicker, broad O mouths, teeth-baring, chewing, repeated nodding, head bobbing, invented dialogue, visible full monster, visible cat ears or tail. No music or narration. Native generated audio with reference voices, no separate dubbing or lipsync. Never recite the neutral voice recordings. Only the exact dialogue below; silent characters never articulate others' lines.
+
+@image1: Reviewed bakery Beauty/Ning composition; phone and glass-covered clue unchanged.
+@Audio1 is Ning’s existing exact5-second voice identity. Generate new Tagalog dialogue, never sample words.
+@Audio2 is Beauty’s existing exact5-second voice identity. Generate new Tagalog dialogue, never sample words.
+
+OPENING STATE:
+Only Beauty and Ning visible at bakery counter. Ning’s unusual hearing is a subtle clue, never transformed anatomy. Playback is editorially reused from accepted Clip06; do not make a fresh imitation voice here.
+
+TIMED ACTION — 10 seconds:
+0–1s: Ning focuses on the phone, stops smiling. 1–3s: Ning says: “Sandali. Lakasan mo.” 3–4s: Beauty makes ONE small volume tap on phone with right index finger. 4–7s: Both listen, lips closed; this interval is reserved for edited two-short-one-long bell excerpt from Clip06. 7–9s: Beauty asks: “Kampana?” 9–10s: Ning looks toward Moy outside the frame, seeking recognition.
+
+END STATE:
+Bell rhythm is now an audible clue for the group, not an explanatory voice-over.

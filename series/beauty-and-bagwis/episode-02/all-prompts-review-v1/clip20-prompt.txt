@@ -1,0 +1,15 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, detailed painterly realistic 2D Filipino provincial environments. Original Filipino romantic supernatural mystery. Portrait 9:16, 480p. Match established exact adult faces, hairstyles, clothing and environment references in every frame. Smooth ordinary real-time animation, no slow motion or stretched syllables. Small natural jaw and lip movements for visible speakers only, closed relaxed mouths while listening. Expressive but restrained reactions. Natural conversational Tagalog with breaths at punctuation and brief listening pauses. Do not race dialogue to fill a duration window. Reference images guide identity/layout, not guaranteed first-frame locks. One coherent scene, locked camera unless explicitly stated. No cuts or zooms.
+
+Negative: photorealistic, 3D render, Pixar style, captions, subtitles, readable text, logos, watermark, split screen, duplicate characters or props, extra limbs, swapped hands, deformed fingers, face warping, morphing, flicker, broad O mouths, teeth-baring, chewing, repeated nodding, head bobbing, invented dialogue, visible full monster, visible cat ears or tail. No music or narration. Native generated audio with reference voices, no separate dubbing or lipsync. Never recite the neutral voice recordings. Only the exact dialogue below; silent characters never articulate others' lines.
+
+@image1: Accepted/reviewed shed-threshold Beauty/Bagwis composition; both OUTSIDE, Beauty RIGHT phone in left hand, Bagwis LEFT; empty interior and UNLIT lantern behind doorway.
+@Audio1 is Beauty’s existing exact5-second voice identity. Generate new Tagalog dialogue, never sample words.
+
+OPENING STATE:
+Beauty and Bagwis stand outside shed. Beauty’s mouth stays CLOSED for the entire shot. @Audio1 conditions an unseen imitation of Beauty’s voice coming from INSIDE the empty shed, not the visible Beauty. Bagwis never speaks. No physical copy, extra face or creature. Both look toward dark doorway before turning slightly to each other.
+
+TIMED ACTION — 10 seconds:
+0–1s: Both listen to faint scrape inside. 1–6.5s: OFFSCREEN Beauty imitation says exactly: “Bagwis… sabihin mo kung bakit siya umuwi.” Familiar human voice, questioning tension, brief pause after Bagwis; no demonic filter, laugh or extra words. Visible Beauty listens with closed mouth. 6.5–8s: Bagwis stiffens subtly, eyes on doorway. 8–10s: Beauty turns her eyes toward him, realizing the message is addressed to him. No dialogue from visible characters.
+
+END STATE:
+Beauty looking at Bagwis; he remains concerned with shed. Lantern still off. Exact borrowed voice creates a new question.

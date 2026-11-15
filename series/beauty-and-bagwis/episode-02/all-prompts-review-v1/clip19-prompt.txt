@@ -1,0 +1,15 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, detailed painterly realistic 2D Filipino provincial environments. Original Filipino romantic supernatural mystery. Portrait 9:16, 480p. Match established exact adult faces, hairstyles, clothing and environment references in every frame. Smooth ordinary real-time animation, no slow motion or stretched syllables. Small natural jaw and lip movements for visible speakers only, closed relaxed mouths while listening. Expressive but restrained reactions. Natural conversational Tagalog with breaths at punctuation and brief listening pauses. Do not race dialogue to fill a duration window. Reference images guide identity/layout, not guaranteed first-frame locks. One coherent scene, locked camera unless explicitly stated. No cuts or zooms.
+
+Negative: photorealistic, 3D render, Pixar style, captions, subtitles, readable text, logos, watermark, split screen, duplicate characters or props, extra limbs, swapped hands, deformed fingers, face warping, morphing, flicker, broad O mouths, teeth-baring, chewing, repeated nodding, head bobbing, invented dialogue, visible full monster, visible cat ears or tail. No music or narration. Native generated audio with reference voices, no separate dubbing or lipsync. Never recite the neutral voice recordings. Only the exact dialogue below; silent characters never articulate others' lines.
+
+@image1: NEW close composition of the SAME cracked bell above shed doorway; severed upper rope end visible and separate coiled lower rope on ground within composition; no people.
+No voice references and NO SPEECH, narration or mimed talking.
+
+OPENING STATE:
+Evidence insert, not a new location. Same bell proportions, crack, doorway and twilight as Clips17–18. Lantern deeper inside is still UNLIT. No people, human hands, animal body or new shadow.
+
+TIMED ACTION — 10 seconds:
+0–2s: Bell settles from previous small sway, rope visibly severed. 2–6s: It moves enough to ring TWO SHORT beats then ONE LONG beat, while loose lower rope remains completely motionless on ground. 6–8s: Bell vibration diminishes naturally; keep upper severed end visibly disconnected. 8–10s: A small scrape comes from the dark interior beyond doorway, shifting attention inward. No camera motion, no speech.
+
+END STATE:
+Bell settling; rope still severed; lantern unlit. No one has pulled the rope.

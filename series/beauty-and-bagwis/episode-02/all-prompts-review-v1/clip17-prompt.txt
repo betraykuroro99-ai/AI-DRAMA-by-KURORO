@@ -1,0 +1,15 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, detailed painterly realistic 2D Filipino provincial environments. Original Filipino romantic supernatural mystery. Portrait 9:16, 480p. Match established exact adult faces, hairstyles, clothing and environment references in every frame. Smooth ordinary real-time animation, no slow motion or stretched syllables. Small natural jaw and lip movements for visible speakers only, closed relaxed mouths while listening. Expressive but restrained reactions. Natural conversational Tagalog with breaths at punctuation and brief listening pauses. Do not race dialogue to fill a duration window. Reference images guide identity/layout, not guaranteed first-frame locks. One coherent scene, locked camera unless explicitly stated. No cuts or zooms.
+
+Negative: photorealistic, 3D render, Pixar style, captions, subtitles, readable text, logos, watermark, split screen, duplicate characters or props, extra limbs, swapped hands, deformed fingers, face warping, morphing, flicker, broad O mouths, teeth-baring, chewing, repeated nodding, head bobbing, invented dialogue, visible full monster, visible cat ears or tail. No music or narration. Native generated audio with reference voices, no separate dubbing or lipsync. Never recite the neutral voice recordings. Only the exact dialogue below; silent characters never articulate others' lines.
+
+@image1: NEW fishpond watch-shed threshold composition, Beauty RIGHT/Bagwis LEFT; empty shed interior, old lantern UNLIT, torn olive-green cuff and used gauze wrappers on bench; cracked bell above doorway, severed rope in coils on ground.
+@Audio1 is Beauty’s existing exact5-second voice identity. Generate new Tagalog dialogue, never sample words.
+
+OPENING STATE:
+Dusk but faces readable. Match Beauty and Bagwis identities and costumes; Beauty’s crossbody bag worn. Moy and Ning are nearby just offscreen, not duplicated in doorway. Dry shallow channels outside, no deep-water stunt. Beauty stays outside threshold. Lantern off, green cuff and wrappers already on bench, no labels or legible writing.
+
+TIMED ACTION — 10 seconds:
+0–2s: Beauty notices the torn cuff and wrappers inside shed. 2–5s: She says: “Dito niya nilinis ’yung sugat.” 5–8s: She takes out her phone with left hand and frames a photograph of the bench; right hand remains clear of evidence. 8–10s: Bagwis studies the empty interior, quietly alert. No item is touched or taken.
+
+END STATE:
+Beauty’s phone in left hand; both remain outside. Lantern unlit; evidence untouched.

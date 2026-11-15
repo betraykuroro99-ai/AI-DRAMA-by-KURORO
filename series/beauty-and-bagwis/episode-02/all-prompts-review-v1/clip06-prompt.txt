@@ -1,0 +1,15 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, detailed painterly realistic 2D Filipino provincial environments. Original Filipino romantic supernatural mystery. Portrait 9:16, 480p. Match established exact adult faces, hairstyles, clothing and environment references in every frame. Smooth ordinary real-time animation, no slow motion or stretched syllables. Small natural jaw and lip movements for visible speakers only, closed relaxed mouths while listening. Expressive but restrained reactions. Natural conversational Tagalog with breaths at punctuation and brief listening pauses. Do not race dialogue to fill a duration window. Reference images guide identity/layout, not guaranteed first-frame locks. One coherent scene, locked camera unless explicitly stated. No cuts or zooms.
+
+Negative: photorealistic, 3D render, Pixar style, captions, subtitles, readable text, logos, watermark, split screen, duplicate characters or props, extra limbs, swapped hands, deformed fingers, face warping, morphing, flicker, broad O mouths, teeth-baring, chewing, repeated nodding, head bobbing, invented dialogue, visible full monster, visible cat ears or tail. No music or narration. Native generated audio with reference voices, no separate dubbing or lipsync. Never recite the neutral voice recordings. Only the exact dialogue below; silent characters never articulate others' lines.
+
+@image1: Accepted Clip05 actual last frame or reviewed matching bedroom composition; Beauty by bed, phone recording in left hand.
+@Audio1 is Tomas’s existing exact5-second voice identity. Generate new Tagalog dialogue, never sample words.
+
+OPENING STATE:
+Only Beauty visible. Unseen imitation speaks from behind the CLOSED door screen left in Tomas’s ordinary mature male voice. Real Tomas remains outside. Beauty does not speak or mouth any words. Phone is already recording; do not replay the start-recording tap.
+
+TIMED ACTION — 10 seconds:
+0–1s: Beauty steadies the phone toward the closed door. 1–4s: OFFSCREEN imitation says: “Anak. Papasukin mo ako.” Familiar tone, natural pause after Anak, no demonic filter. 4–5s: Beauty stays silent, making the choice not to answer. 5–8s: In the distant background, two short cracked bell rings followed by one longer ring. Beauty notices but keeps phone recording. 8–10s: A faint scrape behind the door; she holds her position, no additional speech.
+
+END STATE:
+Recording now contains the imitation AND the bell rhythm. Tendril remains near the door; Beauty safely back beside bed.

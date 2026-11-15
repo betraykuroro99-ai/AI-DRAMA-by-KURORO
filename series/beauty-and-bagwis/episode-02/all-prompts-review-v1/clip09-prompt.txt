@@ -1,0 +1,16 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, detailed painterly realistic 2D Filipino provincial environments. Original Filipino romantic supernatural mystery. Portrait 9:16, 480p. Match established exact adult faces, hairstyles, clothing and environment references in every frame. Smooth ordinary real-time animation, no slow motion or stretched syllables. Small natural jaw and lip movements for visible speakers only, closed relaxed mouths while listening. Expressive but restrained reactions. Natural conversational Tagalog with breaths at punctuation and brief listening pauses. Do not race dialogue to fill a duration window. Reference images guide identity/layout, not guaranteed first-frame locks. One coherent scene, locked camera unless explicitly stated. No cuts or zooms.
+
+Negative: photorealistic, 3D render, Pixar style, captions, subtitles, readable text, logos, watermark, split screen, duplicate characters or props, extra limbs, swapped hands, deformed fingers, face warping, morphing, flicker, broad O mouths, teeth-baring, chewing, repeated nodding, head bobbing, invented dialogue, visible full monster, visible cat ears or tail. No music or narration. Native generated audio with reference voices, no separate dubbing or lipsync. Never recite the neutral voice recordings. Only the exact dialogue below; silent characters never articulate others' lines.
+
+@image1: NEW combined doorway reference: Beauty INSIDE left side of composition, Tomas in lit hallway right; same bedroom fixtures and costumes.
+@Audio1 is Beauty’s existing exact5-second voice identity. Generate new Tagalog dialogue, never sample words.
+@Audio2 is Tomas’s existing exact5-second voice identity. Generate new Tagalog dialogue, never sample words.
+
+OPENING STATE:
+Beauty is now close enough to see Tomas through the door as it opens; phone stays lowered in LEFT hand. Tomas holds flashlight in RIGHT, bandaged LEFT arm stays relaxed. No tendril remains in threshold. Do not treat appearance or memory questions as proof of a universal creature weakness.
+
+TIMED ACTION — 10 seconds:
+0–2s: Beauty opens door only a little using her RIGHT hand, sees real Tomas in the illuminated hallway and steps back. 2–4.8s: Beauty says: “May gumaya sa boses mo.” Restrained fear, no rushed words. 4.8–5.5s: Tomas listens, mouth closed. 5.5–7.5s: He answers: “Narinig ko.” 7.5–10s: He steps just inside, leaving door open. Beauty turns her gaze to something on the threshold. No hug, phone transfer or additional speech.
+
+END STATE:
+Real Tomas just inside bedroom, open doorway behind; Beauty nearby with phone left, both looking toward threshold.

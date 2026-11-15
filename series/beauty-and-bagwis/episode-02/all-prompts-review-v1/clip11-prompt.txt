@@ -1,0 +1,16 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, detailed painterly realistic 2D Filipino provincial environments. Original Filipino romantic supernatural mystery. Portrait 9:16, 480p. Match established exact adult faces, hairstyles, clothing and environment references in every frame. Smooth ordinary real-time animation, no slow motion or stretched syllables. Small natural jaw and lip movements for visible speakers only, closed relaxed mouths while listening. Expressive but restrained reactions. Natural conversational Tagalog with breaths at punctuation and brief listening pauses. Do not race dialogue to fill a duration window. Reference images guide identity/layout, not guaranteed first-frame locks. One coherent scene, locked camera unless explicitly stated. No cuts or zooms.
+
+Negative: photorealistic, 3D render, Pixar style, captions, subtitles, readable text, logos, watermark, split screen, duplicate characters or props, extra limbs, swapped hands, deformed fingers, face warping, morphing, flicker, broad O mouths, teeth-baring, chewing, repeated nodding, head bobbing, invented dialogue, visible full monster, visible cat ears or tail. No music or narration. Native generated audio with reference voices, no separate dubbing or lipsync. Never recite the neutral voice recordings. Only the exact dialogue below; silent characters never articulate others' lines.
+
+@image1: NEW morning bakery counter composition: established Beauty and Ning, covered sliver on stiff card and phone already on counter; faint unfinished parol behind counter.
+@Audio1 is Beauty’s existing exact5-second voice identity. Generate new Tagalog dialogue, never sample words.
+@Audio2 is Ning’s existing exact5-second voice identity. Generate new Tagalog dialogue, never sample words.
+
+OPENING STATE:
+Morning, familiar provincial bakery. Beauty retains travel outfit for this immediate next-morning visit. Ning matches accepted Episode1 face, curly hair silhouette and clothes exactly; no visible cat ears/tail or redesign. Only these two visible. Phone and covered fragment already rest on counter; no carrying action. New morning light, no night beams.
+
+TIMED ACTION — 15 seconds:
+0–1s: Beauty looks toward the covered clue then Ning. 1–7.5s: Beauty says: “May gumaya sa boses ni Papa. Nasa labas siya, pero naririnig ko sa pinto.” Normal conversational delivery, sentence pause; no racing. 7.5–8.5s: Ning processes it. 8.5–10.5s: Ning says: “Na-record mo?” 10.5–12.5s: Beauty answers: “Pakinggan mo.” 12.5–15s: Beauty taps phone ONCE with right index finger. End ready for playback. No generated screen text or extra lines.
+
+END STATE:
+Phone playback starts at cut. Covered sliver remains undisturbed; no touching. Beauty and Ning focus on phone.
