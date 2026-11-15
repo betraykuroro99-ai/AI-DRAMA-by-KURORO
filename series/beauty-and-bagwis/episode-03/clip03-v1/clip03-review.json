@@ -1,0 +1,24 @@
+{
+  "status": "pending_user_review",
+  "raw_duration_seconds": 10.031,
+  "trimmed_duration_seconds": 7.3,
+  "recommended_version": "Trimmed, source0\u20137.30seconds",
+  "dialogue_detected": [
+    "Kaya nga ako nandoon kagabi.",
+    "Sinundan mo ako?",
+    "Pinabantayan ka ng papa mo."
+  ],
+  "raw_issue": "Local transcription detects extra phrase resembling Ayokong mawala around7.64\u20138.70s, from Beauty reference sample. Trimmed tail removes it.",
+  "edit": "No changes to intended dialogue timing, pitch or voice. End after Beauty reaction, before extra reference phrase.",
+  "voice_order": [
+    "Bagwis existing5s",
+    "Beauty approved C5s"
+  ],
+  "sampled_visual_review": "Both remain outside shed; single Beauty phone and bag, lit lantern, flat wall shadow and severed rope remain in samples. No obvious duplicated limbs/props in sampled frames.",
+  "actual_end_state": "Bagwis LEFT, Beauty RIGHT facing him outside shed; Beauty holds one phone in LEFT hand and wears tan bag. Lamp lit and wall shadow still inside; both react to revelation.",
+  "extra_take_cost_reserved_usd": 0.45,
+  "episode_reserved_total_usd": 1.58,
+  "cap_usd": 12,
+  "limits": "Full decode and local automated transcription plus sampled picture frames only. User should check pronunciation, performance and lip movement in motion.",
+  "next_action": "Wait for user review before Clip04 or any paid reroll."
+}
