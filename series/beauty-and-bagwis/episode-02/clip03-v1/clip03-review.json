@@ -1,0 +1,10 @@
+{
+  "status": "pending_user_review",
+  "technical": "10.031 seconds, 480x854, H.264/AAC; full decode passed",
+  "sampled_frame_review": "Beauty remains alone, bedroom door closed, no visible knocking gesture in sampled frames. She moves back and raises phone with both hands near ending. Face remains recognizable in samples.",
+  "actual_end_state": "Beauty beside bed, looking down toward raised phone held in front of torso; door closed left, window right with light beam; suitcase open on foreground table, tan bag on chair.",
+  "limitations": "No direct audio listening or full-motion review. User must check native speech, listener mouth behavior, phone handling and whether recording action reads correctly.",
+  "cost_reserved_usd": 0.45,
+  "episode_reserved_total_usd": 1.35,
+  "next_action": "Wait for Clip03 review and exact next prompt/reference approval. All-prompts pack is a proposal, not batch authorization."
+}

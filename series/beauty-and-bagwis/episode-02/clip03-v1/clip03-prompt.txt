@@ -1,0 +1,66 @@
+2D comic book illustration style, bold black ink outlines,
+flat cel shading, warm earthy color palette, vertical 9:16,
+smooth real-time animation. Restrained dramatic expressions.
+
+Match Beauty’s EXACT adult face, long wavy brown hair,
+dusty rose open overshirt, cream tee, blue jeans and sneakers
+from @image1. Preserve the established painted bedroom:
+closed wooden door SCREEN LEFT, bed behind Beauty,
+moonlit window SCREEN RIGHT. Open suitcase stays on the
+foreground table; tan bag stays on the foreground chair.
+
+Beauty stands between the door and window, initially looking
+toward the window. Phone in her anatomical LEFT hand,
+screen right when she faces the camera. Her RIGHT hand
+stays lowered, away from the door.
+
+Only Beauty is visible. Tomas and Bagwis remain outside
+and completely offscreen. No creature or silhouette appears.
+
+@Audio1 provides Tomas’s exact mature male voice identity.
+Use it for an unseen imitation speaking from BEHIND THE
+CLOSED BEDROOM DOOR, screen left—not from the window.
+Generate new native Tagalog audio. Never repeat the neutral
+reference sample. No separate dubbing or lipsync.
+
+0–1.2s:
+A short scrape sounds from behind the closed door.
+Beauty shifts her eyes toward it. Both hands remain still.
+She NEVER knocks, reaches for the latch or opens the door.
+
+1.2–3.6s:
+The unseen imitation says in Tomas’s familiar voice:
+“Huwag mong buksan.”
+Ordinary human delivery, quietly unsettling because it
+repeats the real Tomas’s warning. No demonic voice filter.
+Beauty listens with her mouth firmly relaxed closed.
+
+3.6–5s:
+Beauty understands that the warning has been repeated
+from inside the house. Her expression tightens subtly.
+She takes ONE small step away from the door toward the bed.
+No gasp, scream, exaggerated recoil or repeated head turn.
+
+5–8s:
+Beauty raises the phone already in her LEFT hand to
+waist height. With her RIGHT index finger, she makes ONE
+deliberate tap on its screen to start recording.
+Keep the screen angled toward her, unreadable to camera.
+Correct hand anatomy; no phone transfer or duplicate phone.
+
+8–10s:
+She holds the phone still, its microphone directed toward
+the closed door, and watches the door in silence.
+End with Beauty recording, safely away from the latch.
+The door remains shut throughout.
+
+Locked medium shot. No cuts, camera movement, zooms,
+slow motion or frozen holds. Natural blinks and breathing.
+Quiet room tone, one scrape and the exact spoken line only.
+No new knocks, music, narration or Beauty dialogue.
+
+Negative: photorealistic, 3D render, Pixar style, subtitles,
+captions, readable text, logos, watermark, duplicate people,
+extra limbs, deformed hands, swapped hands, face warping,
+morphing, flickering, mimed speech from Beauty, exaggerated
+expressions, visible monster, opening door, knocking gesture.
