@@ -1,0 +1,15 @@
+{
+  "status": "pending_user_review",
+  "technical": "10.031 seconds; H.264/AAC, 480x854; full file decode passed",
+  "sampled_frame_review": "Tomas remains the only visible person. Left forearm bandage stays screen right; flashlight remains in right hand screen left. No obvious face melting or duplicate limbs in sampled frames.",
+  "deviation": "Despite locked-camera instruction, the view reframes/pulls back near the ending to show more window and eaves. Check spatial continuity before accepting.",
+  "actual_end_state": "Tomas below window inside garden, left arm lowered and bandaged, right hand holding flashlight raised toward roof; window/eaves visible in foreground.",
+  "dialogue_requested": [
+    "Pa…?? sino ’yung nasa pinto ko?",
+    "Huwag mong buksan."
+  ],
+  "limitations": "Sampled-frame visual review and technical decode only. No direct listening/full playback; user must check voice delivery and exact dialogue.",
+  "cost_reserved_usd": 0.45,
+  "episode_reserved_total_usd": 0.9,
+  "next_action": "Wait for review. Show full next prompt and references before any further submission."
+}
