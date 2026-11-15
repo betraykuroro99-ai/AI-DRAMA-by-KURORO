@@ -1,0 +1,8 @@
+{
+  "status": "pending_user_review",
+  "checks": "H.264/AAC file decoded; 480x854 portrait; 10.031 seconds. Sampled 20 frames for character/room continuity. No obvious face melting or duplicate character in samples.",
+  "actual_end_state": "Beauty standing beside bed, body and gaze turned screen right toward window; door screen left closed; open suitcase on foreground table, tan bag on foreground chair. Bright flashlight beam sweeps through right window. Beauty holds lowered phone in left hand. No father visible.",
+  "limitations": "No direct listening or full motion review. User must verify exact Tagalog dialogue, voice identity, lip movement and hand continuity. No paid ASR requested.",
+  "cost_reserved_usd": 0.45,
+  "next_action": "Wait for user review; show full next prompt and references before any next submission."
+}
