@@ -1,0 +1,19 @@
+{
+  "episode": 3,
+  "title": "Ang Bantay",
+  "model": "Wan 3.0 Reference",
+  "format": "480x854 portrait 30fps",
+  "voice": "Beauty C; existing Bagwis, Tomas, Moy, Ning 5-second identities",
+  "scope": "User requested completion of the reviewed episode. No later-episode plot or fight scenes added.",
+  "sampled_observations": {
+    "05-07": "Beauty right and Bagwis left at path; faces, clothes and bag remain consistent in sampled frames.",
+    "08-09": "Moy topknot and Ning double buns, one bread roll; bakery arrival with three distinct adults.",
+    "10-12": "Beauty left and Tomas right; left forearm bandaged, hands distinct in sampled frames.",
+    "13-14": "Same seated room, positions and clothing.",
+    "16": "Three superficial scratches close on isolated left forearm; dressing spot persists; no fingers shown. Nonverbal insert muted to prevent unwanted generated audio.",
+    "17": "Two-shot returns; father looks afraid; daughter starts to rise toward him. No monster.",
+    "15": "Original take duplicated dressing and reached for uninjured arm; replaced with paid v2. Sampled repair frames retain a single left dressing, right arm bare and hands kept still."
+  },
+  "editing": "Original performance speed. Remove detected extra reference phrases. Keep all intended story dialogue. End with fade after complete final syllable, ABANGAN, black.",
+  "limits": "Sampled visuals and automated Tagalog transcription, not direct listening or every-frame validation. User listening review remains valuable."
+}
