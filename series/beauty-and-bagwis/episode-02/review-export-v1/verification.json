@@ -1,0 +1,12 @@
+{
+  "story_seconds": 149.53333333333336,
+  "export_seconds": 153.533,
+  "native_audio_speed": 1,
+  "resolution": "480x854",
+  "full_decode_passed": true,
+  "black_end_frame": true,
+  "final_local_transcript": "Automated small-model transcription no longer detects neutral sample phrases removed by editing; not a direct listening guarantee",
+  "reserved_video_usd": 10.14,
+  "takes_submitted": 21,
+  "review_limit": "Sampled visual frames and automated transcription; direct listening and full motion review remain with user"
+}
