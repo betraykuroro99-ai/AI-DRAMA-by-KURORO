@@ -1,0 +1,21 @@
+{
+  "batch": 1,
+  "episode": 4,
+  "review_pending": true,
+  "selected_takes": {
+    "01": 2,
+    "02": 1,
+    "03": 2,
+    "04": 1,
+    "05": 2
+  },
+  "unselected": "01v1,03v1,05v1: costume mixing or extra characters; retained.",
+  "observations": [
+    "Focused prompts use only visible cast and necessary props.",
+    "Selected sampled frames retain exact green short sleeves, bare intact forearm and gauze on table. Full-size forearm crops checked in all four back-room shots.",
+    "Selected Moy/Ning frames retain two characters, their hair and outfits; no added photo or visitor.",
+    "All expected turns detected by local ASR with phonetic uncertainty. Extra phrase in Clip04 raw tail removed.",
+    "Clip02 has a modest native push-in; other selected shots are steady."
+  ],
+  "limitations": "No direct listening or every-frame anatomy certification; batch delivered for user review."
+}
