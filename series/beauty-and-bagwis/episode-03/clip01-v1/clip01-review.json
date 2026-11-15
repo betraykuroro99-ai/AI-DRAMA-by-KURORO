@@ -1,0 +1,27 @@
+{
+  "status": "pending_user_review",
+  "duration_seconds": 10.031,
+  "format": "480x854 H.264/AAC native Wan audio",
+  "voice_order": [
+    "Bagwis existing5s",
+    "Beauty approved C5s"
+  ],
+  "automated_transcript": [
+    {
+      "start": 1.58,
+      "end": 3.22,
+      "text": " Huwag tayong pumasok."
+    },
+    {
+      "start": 4.38,
+      "end": 8.12,
+      "text": " Hindi ako papasok, pero sasagot ka."
+    }
+  ],
+  "sampled_visual_review": "Both remain outside threshold; flat humanlike wall shadow, lit lantern, severed rope, stable clothing and one Beauty phone in sampled frames. Bagwis/Beauty step back toward foreground. No full creature appears.",
+  "actual_end_state": "Bagwis LEFT slightly nearer foreground, Beauty RIGHT beside doorway, ONE phone lowered in LEFT hand and tan bag worn. Lantern remains lit. Both outside and facing each other; wall shadow remains in shed.",
+  "cost_reserved_usd": 0.45,
+  "remaining_cap_usd": 11.55,
+  "limitations": "Technical full-file decode, automated transcript and sampled frames only. User should check voice tone, lip movement and effect in motion.",
+  "next_action": "Stop for user review; no Clip02 or reroll submitted."
+}

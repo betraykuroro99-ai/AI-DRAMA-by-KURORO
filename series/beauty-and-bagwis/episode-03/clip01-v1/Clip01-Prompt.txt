@@ -1,0 +1,21 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, detailed painterly realistic2D Filipino provincial environments. Original Filipino romantic supernatural mystery, exact established ADULT character faces, hairstyles and clothes. Portrait9:16,480p. Ordinary real-time movement and natural conversational Tagalog, no slow motion or stretched syllables. Small natural lip/jaw movements only for the current visible speaker. Listeners keep relaxed closed mouths. Brief listening pauses; no head bobbing, repeated nods, broad O mouths or theatrical gasps. Locked camera, no cuts or zooms unless the timed action explicitly requires an editorial insert. Reference image guides identity/composition, not a guaranteed first-frame lock.
+
+No music, narrator or extra intelligible voices. Generate NEW native dialogue with the video using the supplied voice identities, no separate dubbing/lipsync. Reference audio supplies voice identity only; NEVER recite its words. Speak ONLY the exact timed dialogue below, once in order. Do not speak character names or labels. Negative: photorealistic,3D render,Pixar style, text, captions, subtitles, logos, watermark, split screen, duplicate people or props, extra limbs, incorrect hand ownership, extra fingers, face warping, morphing, flickering, static frozen animation, visible full monster, revealed cat ears/tail. These are directions, not a guarantee; actual footage must pass review.
+
+REFERENCE:
+@image1: R01. Use only the approved image or accepted ending reference with this local numbering.
+@Audio1 is Bagwis’s exact5-second voice identity (Existing Bagwis-Voice-Reference-5s.wav). Voice identity only, never sample words.
+@Audio2 is Beauty’s exact5-second voice identity (voice/Beauty-Approved-Reference-C-5s.wav — USER APPROVED C). Voice identity only, never sample words.
+
+OPENING STATE:
+Continue actual Episode2 ending: Bagwis LEFT Beauty RIGHT outside shed. ONE phone lowered in Beauty LEFT hand, tan bag on shoulder. Lit lantern and empty interior, cut rope stays cut.
+
+TIMED DIALOGUE — 10seconds:
+2.0–4.0s Bagwis says exactly: “Huwag tayong pumasok.”
+4.7–8.5s Beauty says exactly: “Hindi ako papasok. Pero sasagot ka.”
+
+ACTIONS AND SOUND:
+0–2s: shadow turns its head slightly while both adults remain still. Make contradiction clear, not a full monster. 4–4.7s Bagwis takes one step BACK from threshold; Beauty backs away by choice, never grabbed. 8.5–10s Beauty turns her eyes toward Bagwis, determined.
+
+END STATE:
+Both still outside, a safe step farther from doorway; phone left, lantern lit.
