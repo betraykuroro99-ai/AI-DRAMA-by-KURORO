@@ -1,0 +1,68 @@
+{
+  "duration": 48.099999999999994,
+  "entries": [
+    {
+      "id": "06",
+      "version": 1,
+      "start": 0,
+      "end": 8.3,
+      "filter": "",
+      "note": "Complete window exchange; trim spare tail.",
+      "source": "Beauty-and-Bagwis-E04-Clip06-Wan-v1.mp4",
+      "timeline_start": 0,
+      "timeline_end": 8.3,
+      "speed": 1.0
+    },
+    {
+      "id": "07",
+      "version": 1,
+      "start": 0.8,
+      "end": 10.9,
+      "filter": "",
+      "note": "Keep complete caring exchange and listening pause; trim idle head/tail.",
+      "source": "Beauty-and-Bagwis-E04-Clip07-Wan-v1.mp4",
+      "timeline_start": 8.3,
+      "timeline_end": 18.4,
+      "speed": 1.0
+    },
+    {
+      "id": "08",
+      "version": 1,
+      "start": 0,
+      "end": 10.0,
+      "filter": "",
+      "note": "Complete both intended lines; exclude repeated reference phrase beginning about 10.2s and unused changing-background tail.",
+      "source": "Beauty-and-Bagwis-E04-Clip08-Wan-v1.mp4",
+      "timeline_start": 18.4,
+      "timeline_end": 28.4,
+      "speed": 1.0
+    },
+    {
+      "id": "09",
+      "version": 1,
+      "start": 0,
+      "end": 8.4,
+      "filter": "",
+      "note": "Keep recognition and complete father response, including natural pause.",
+      "source": "Beauty-and-Bagwis-E04-Clip09-Wan-v1.mp4",
+      "timeline_start": 28.4,
+      "timeline_end": 36.8,
+      "speed": 1.0
+    },
+    {
+      "id": "10",
+      "version": 1,
+      "start": 0,
+      "end": 11.3,
+      "filter": "",
+      "note": "Keep complete emotional question and brief reaction; trim unused tail.",
+      "source": "Beauty-and-Bagwis-E04-Clip10-Wan-v1.mp4",
+      "timeline_start": 36.8,
+      "timeline_end": 48.099999999999994,
+      "speed": 1.0
+    }
+  ],
+  "audio_peak_gain": 1,
+  "review_method": "Full decode, sampled frames including forearm/wardrobe and automated Tagalog ASR; human listening review pending.",
+  "notes": "Only batch2, no final ABANGAN; all native dialogue, no speech speed changes."
+}

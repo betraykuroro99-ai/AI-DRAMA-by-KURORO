@@ -1,0 +1,81 @@
+{
+  "duration": 55.9,
+  "entries": [
+    {
+      "id": "01",
+      "version": 2,
+      "start": 0,
+      "end": 7.5,
+      "filter": "",
+      "note": "Preserve complete native performance; trim spare raw tail.",
+      "source": "Beauty-and-Bagwis-E04-Clip01-Wan-v2.mp4",
+      "timeline_start": 0,
+      "timeline_end": 7.5,
+      "speed": 1.0
+    },
+    {
+      "id": "02",
+      "version": 1,
+      "start": 0,
+      "end": 13.4,
+      "filter": "",
+      "note": "Preserve complete native performance; trim spare raw tail.",
+      "source": "Beauty-and-Bagwis-E04-Clip02-Wan-v1.mp4",
+      "timeline_start": 7.5,
+      "timeline_end": 20.9,
+      "speed": 1.0
+    },
+    {
+      "id": "03",
+      "version": 2,
+      "start": 0,
+      "end": 8.4,
+      "filter": "",
+      "note": "Preserve complete native performance; trim spare raw tail.",
+      "source": "Beauty-and-Bagwis-E04-Clip03-Wan-v2.mp4",
+      "timeline_start": 20.9,
+      "timeline_end": 29.299999999999997,
+      "speed": 1.0
+    },
+    {
+      "id": "04",
+      "version": 1,
+      "start": 0,
+      "end": 10.2,
+      "filter": "",
+      "note": "Remove stray generated phrase beginning around 10.6s; all intended lines finish by 9.64s.",
+      "source": "Beauty-and-Bagwis-E04-Clip04-Wan-v1.mp4",
+      "timeline_start": 29.299999999999997,
+      "timeline_end": 39.5,
+      "speed": 1.0
+    },
+    {
+      "id": "04A",
+      "version": 1,
+      "start": 0,
+      "end": 3.4,
+      "mute": true,
+      "filter": "",
+      "note": "User-requested staging repair: Beauty and Tomas walk from internal back room to visible service counter before Moy addresses Tomas. Nonverbal insert muted; tail after arrival excluded.",
+      "source": "Beauty-and-Bagwis-E04-Clip04A-Wan-v1.mp4",
+      "timeline_start": 39.5,
+      "timeline_end": 42.9,
+      "speed": 1.0
+    },
+    {
+      "id": "05",
+      "version": 2,
+      "start": 0,
+      "end": 13.0,
+      "filter": "",
+      "note": "Preserve complete native performance; trim spare raw tail.",
+      "source": "Beauty-and-Bagwis-E04-Clip05-Wan-v2.mp4",
+      "timeline_start": 42.9,
+      "timeline_end": 55.9,
+      "speed": 1.0
+    }
+  ],
+  "audio_peak_gain": 0.9726247459349994,
+  "review_method": "Full decode, sampled frames including forearm/wardrobe and automated Tagalog ASR; human listening review pending.",
+  "notes": "Only batch1, no final ABANGAN; all native dialogue, no speech speed changes."
+}

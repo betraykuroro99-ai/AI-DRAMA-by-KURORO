@@ -1,0 +1,14 @@
+{
+  "episode": 4,
+  "batch": 2,
+  "status": "pending_user_review",
+  "staging_fix": "04A inserted after Clip04 and before Clip05. Beauty and Tomas visibly walk from open internal doorway to the same counter. 0\u20133.4s selected; audio muted because no speech is scripted. Unused tail includes unwanted shoulder/voice artifacts and is not in preview.",
+  "observations": [
+    "06: Beauty and Ning together inside at closed side window, no exterior figure.",
+    "07: Moy and Ning at same counter, correct topknot/double buns and outfits, two actors only.",
+    "08: Bagwis and Beauty inside covered front service opening, correct reference identities, no rear-door opening. Two intended lines retained, reference phrase removed from tail.",
+    "09: Bagwis and Tomas standing in service area, distinct faces and costumes; olive-green short sleeves, bare intact forearm.",
+    "10: Beauty and Tomas remain STANDING beside bread counter, rather than returning to seated room; both exact dialogue and pauses detected by ASR. Sampled hands/forearm checked at larger size."
+  ],
+  "limits": "Full decode, sampled visuals and local automated Tagalog transcription; no claim of direct listening or every-frame perfection. User review requested before Batch3."
+}

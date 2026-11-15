@@ -1,0 +1,5 @@
+# Episode 4 — spatial continuity after user correction
+
+The private back room contains the seated table conversation. Beauty and Tomas leave through the INTERNAL doorway and stop inside the SERVICE AREA at the bread counter before Clip05. They do not leave the building through this internal door. Moy is on the customer side of that counter; Ning works behind/alongside it. Both can address Tomas standing beside the counter just off camera. The covered front service opening faces the street and is where Bagwis arrives. A separate side window faces the alley. The locked EXTERIOR rear entrance, where Sabel waits, is a different door and must not be opened before the planned threshold scene.
+
+Insert Clip04A after the complete Clip04 sentence and before Clip05. Keep only the steps necessary to establish arrival; no slow-motion walk or repeated standing action. Preserve dialogue and original raw takes. For Batch2, Beauty and Tomas remain in service area; do not return them to seated back-room composition. Each generated speaking take has only its two visible actors and no full-cast catalog.
