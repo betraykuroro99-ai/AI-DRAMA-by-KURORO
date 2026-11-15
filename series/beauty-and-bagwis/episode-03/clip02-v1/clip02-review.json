@@ -1,0 +1,23 @@
+{
+  "status": "pending_user_review",
+  "raw_duration_seconds": 15.023,
+  "trimmed_duration_seconds": 10.5,
+  "recommended_version": "Trimmed; source1.50\u201312.00seconds",
+  "trim_reason": "Automated transcript flags an extra name/address before scripted question; initial1.5s and unused final3s omitted. All intended dialogue remains at source speed.",
+  "dialogue_detected": [
+    "Bakit alam niya ang pangalan mo?",
+    "Hindi ko alam kung sino yon.",
+    "Pero alam mong may panganib sa bahay namin."
+  ],
+  "voice_order": [
+    "Beauty approved C",
+    "Bagwis existing reference"
+  ],
+  "sampled_visual_review": "Both adults remain outside shed. Lamp lit, flat shadow on rearwall, severed rope and single Beauty phone remain visible. No obvious duplicated limbs/props in sampled frames.",
+  "actual_end_state": "Bagwis LEFT, Beauty RIGHT facing him outside threshold. One phone lowered in Beauty LEFT hand, bag worn. Lamp lit and wall shadow inside shed. Trimmed/raw end frames retained separately.",
+  "cost_reserved_usd": 0.68,
+  "episode_reserved_total_usd": 1.13,
+  "cap_usd": 12,
+  "limitations": "Automated transcription, decode checks and sampled frames; user must check pronunciation, delivery, lip movements and continuity in motion. First question is delivered faster than planned speaking window. No speech speed adjustment made.",
+  "next_action": "Wait for user review; no Clip03 or paid reroll submitted."
+}
