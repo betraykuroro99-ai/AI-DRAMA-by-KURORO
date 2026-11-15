@@ -1,0 +1,13 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, vertical 9:16 frame, smooth animation. Match @image1’s exact character faces, hair, clothes, skin tones, proportions, environment and prop design. Preserve expressive eyes with controlled, natural reactions; dramatic scenes are restrained, not exaggerated comedy. No photorealistic or 3D faces.
+
+Use @image1 as the single SCENE reference.
+START EXACTLY FROM THE VISIBLE STATE:
+The REAL Tomas is ALREADY INSIDE private garden below upstairs camera, as pictured. Closed fence/gate is BEHIND him, public street farther beyond. LEFT forearm is bandaged; RIGHT hand already holds a LIT flashlight angled upward. Keep one father only. No Bagwis in this crop, no physical father behind bedroom door.
+
+NO VOICE REFERENCES. No speech, narration or mimed talking. Generate only the stated nonverbal cues.
+
+Negative: 3D render, Pixar style, photorealistic, new text overlays or letters, captions, subtitles, watermark, name labels, character sheet layout, multiple panels, split screen, duplicate characters, extra limbs, deformed hands, distorted face, morphing, flickering, static frame, blurry.
+
+Natural real-time movement and quiet scene sound only. No words, music or mouth articulation. Keep faces, anatomy and props stable.
+
+Tomas keeps looking toward roof and makes one small natural adjustment to the ALREADY RAISED right-hand flashlight beam. At most one ordinary step on the existing garden path. Do not lower and re-raise the light, switch hands, move bandage or make him speak. Keep his face recognizable and readable in warm practical light, cool moonlit garden unchanged. No monster eyes, giant shadow, wings, extra person or slow pan. This is the silent physical contradiction to the upstairs voice, not an explanatory speech. Keep closed fence behind him and end with attention on roof.

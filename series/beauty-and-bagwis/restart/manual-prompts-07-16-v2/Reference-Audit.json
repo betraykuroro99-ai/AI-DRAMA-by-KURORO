@@ -1,0 +1,62 @@
+[
+  {
+    "clip": 7,
+    "reference": "Clip-07-Bakery-Moy-Bagwis-Ning.png",
+    "visible_start_verified": "Exactly THREE principal people already visible: Bagwis LEFT holding the CLOSED rope-secured case by its visible carry handle; Moy CENTER in ochre overshirt/red tee with ONE top knot, coins in one palm and other hand empty; Ning RIGHT behind the counter with TWO curly buns, turquoise blouse/rust apron and paper bag. Bread tray already RESTS on counter. Beauty is OFFSCREEN. No motorcycle action, new vehicle, new tray or extra person.",
+    "critical_correction": "Removed motorcycle and visible Beauty; tray already on counter, Moy coins in palm."
+  },
+  {
+    "clip": 8,
+    "reference": "Clip-08-Market-Exit-Watcher.png",
+    "visible_start_verified": "Bagwis LEFT and Beauty RIGHT already STAND facing each other at market exit. Bagwis already holds the closed tan-cord-secured brown case OFF the ground, exactly as pictured. Beauty wears tan crossbody bag, hands free. The brown-bloused basket-carrying woman already stands in the BACKGROUND between them; she is not Ning. Do not invent a new observer.",
+    "critical_correction": "Observer already visible; case already held off ground."
+  },
+  {
+    "clip": 9,
+    "reference": "Clip-09-Homecoming-Open-Gate.png",
+    "visible_start_verified": "Tomas LEFT inside garden has his arms open in welcome; Beauty CENTER is ALREADY INSIDE the open gate facing him; Bagwis RIGHT is OUTSIDE on the public sidewalk holding the closed tied case. Keep the existing house, open gate angle and inside/outside positions. Tomas’s anatomical LEFT forearm is bandaged; RIGHT is unbandaged. Beauty’s tan bag is worn.",
+    "critical_correction": "Beauty already inside open gate; no repeated entry."
+  },
+  {
+    "clip": 10,
+    "reference": "Clip-10-Guarded-Gate-Conversation.png",
+    "visible_start_verified": "Start from the guarded gate image, NOT the earlier open-armed hug pose. Tomas LEFT and Beauty CENTER are already INSIDE garden; Bagwis RIGHT remains OUTSIDE, case in his existing hand. Gate is OPEN. Tomas’s arms are already lowered, LEFT forearm bandaged and RIGHT hand low/free. Do not reach through Beauty or invent a gate bar within reach of his hand.",
+    "critical_correction": "Arms already down; no anatomically impossible gate-bar reach."
+  },
+  {
+    "clip": 11,
+    "reference": "Clip-11-Dining-Bandaged-Left-Arm.png",
+    "visible_start_verified": "Tomas LEFT and Beauty RIGHT are ALREADY SEATED. Injured anatomical LEFT forearm rests palm-down on the white towel near table center with dressing fully around it. Uninjured RIGHT forearm/hand is separate on table left. Beauty’s hands rest near the gauze tray. Plates, water glasses, portrait and bag on chair already exist; do not add/remove them.",
+    "critical_correction": "Dressing starts fully around left forearm; only one outer flap loosened."
+  },
+  {
+    "clip": 12,
+    "reference": "Clip-12-Dining-Loosened-Dressing.png",
+    "visible_start_verified": "Both are already seated exactly as reference: Tomas LEFT looking down, Beauty RIGHT attentive. LEFT forearm dressing is ALREADY PARTLY LOOSENED with small non-graphic marks and a flap on towel; do not repeat wound unwrapping. RIGHT hand stays separate. Keep portrait behind Beauty/cabinet side, tableware and gauze positions.",
+    "critical_correction": "Dressing already loose; no repeated unwrapping."
+  },
+  {
+    "clip": 13,
+    "reference": "Clip-13-Bedroom-Photo-And-Phone.png",
+    "visible_start_verified": "Beauty is ALONE beside the bed, holding the REVERSE of a small printed photograph in one hand and her smartphone LOW in the other, exactly as reference. Reverse has existing faint dedication marks; do not replace it with a house/landscape image or invent a new child. Case already OPEN on bed, loose tan cord on cover; tan bag already OFF and on chair. Hallway door LEFT closed; glass window RIGHT closed, outer shutters open. No one outside visible.",
+    "critical_correction": "Photo reverse and phone already held; bag already off."
+  },
+  {
+    "clip": 14,
+    "reference": "Clip-14-Bagwis-Outside-Fence.png",
+    "visible_start_verified": "Camera is ALREADY upstairs looking DOWN through Beauty’s window toward street. ONLY Bagwis is visible, OUTSIDE the closed fence under streetlamp, hands initially down, eyes already lifted toward the window/roof. Fence lies in foreground BETWEEN camera/private garden and Bagwis/public sidewalk. Do not relocate him behind fence into garden. Beauty remains OFFSCREEN upstairs.",
+    "critical_correction": "Bagwis already outside fence and looking up; Beauty offscreen."
+  },
+  {
+    "clip": 15,
+    "reference": "Clip-15-Bedroom-Closed-Door.png",
+    "visible_start_verified": "Beauty is ALREADY standing on clear floor BETWEEN closed hallway door LEFT and window RIGHT, as shown, looking toward window. She holds phone low in the same hand visible in reference; other hand empty. Photo rests on bedside surface, notebook on bed, case open at bed foot, bag on chair. Do not repeat photo placement/unpacking or start her at a different window. Only Beauty visible; no physical Tomas in room.",
+    "critical_correction": "Beauty already between window/door; no impossible latch reach across room."
+  },
+  {
+    "clip": 16,
+    "reference": "Clip-16-Tomas-Inside-Garden.png",
+    "visible_start_verified": "The REAL Tomas is ALREADY INSIDE private garden below upstairs camera, as pictured. Closed fence/gate is BEHIND him, public street farther beyond. LEFT forearm is bandaged; RIGHT hand already holds a LIT flashlight angled upward. Keep one father only. No Bagwis in this crop, no physical father behind bedroom door.",
+    "critical_correction": "Flashlight already raised in right hand; no repeated raising."
+  }
+]

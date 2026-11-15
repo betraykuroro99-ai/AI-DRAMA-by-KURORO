@@ -1,0 +1,19 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, vertical 9:16 frame, smooth animation. Match @image1’s exact character faces, hair, clothes, skin tones, proportions, environment and prop design. Preserve expressive eyes with controlled, natural reactions; dramatic scenes are restrained, not exaggerated comedy. No photorealistic or 3D faces.
+
+Use @image1 as the single SCENE reference.
+START EXACTLY FROM THE VISIBLE STATE:
+Bagwis LEFT and Beauty RIGHT already STAND facing each other at market exit. Bagwis already holds the closed tan-cord-secured brown case OFF the ground, exactly as pictured. Beauty wears tan crossbody bag, hands free. The brown-bloused basket-carrying woman already stands in the BACKGROUND between them; she is not Ning. Do not invent a new observer.
+
+@Audio1 is Bagwis’s five-second reference voice identity.
+@Audio2 is Beauty’s five-second reference voice identity.
+
+Negative: 3D render, Pixar style, photorealistic, new text overlays or letters, captions, subtitles, watermark, name labels, character sheet layout, multiple panels, split screen, duplicate characters, extra limbs, deformed hands, distorted face, morphing, flickering, static frame, blurry.
+
+Generate the quoted NEW Tagalog dialogue and natural mouth movement together. Reference recordings provide voice identity only: never recite their sample words. Normal conversational pace, complete syllables, brief listening pauses, no rushed exchanges, stretched vowels or slow motion. Only the current speaker articulates; silent listeners keep relaxed closed lips. No broad repeated O mouths, teeth-baring, chewing, lip flapping, repeated nodding or added laughter. Quiet scene ambience; no music, narration, extra dialogue or intelligible background speech.
+
+0–3s: Bagwis asks naturally: "Saan tayo?"
+3–6s: Beauty replies: "Sa dulo. Kay Tomas."
+6–7.5s: Bagwis’s expression briefly tightens at the name. Small eye/hand tension, not a frozen shocked stare. Beauty notices.
+7.5–10.5s: Beauty asks: "Kilala mo si Papa?"
+10.5–13s: Bagwis chooses to accompany her: "Tara. Ihahatid kita."
+13–15s: They take one or two ordinary steps toward the lane. Keep the case in his existing hand, closed/tied and off ground; no dragging, fall or ownership swap. The already-visible background woman lowers her basket slightly and watches them, silent. End on purposeful departure. No long walking montage or supernatural reveal.

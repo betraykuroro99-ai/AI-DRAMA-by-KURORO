@@ -1,0 +1,118 @@
+{
+  "ALL-CORRECTED-PROMPTS-07-16.md": {
+    "bytes": 29045,
+    "sha256": "25398bb1a215d8c0b6090edeac40b0067050d64d6ea4152e1f952f4d53058fc9"
+  },
+  "Clip-Manifest.json": {
+    "bytes": 2237,
+    "sha256": "db5d9000307e0f21895d915e61aa9eab76fac4bbe8c17fd4fab92a8080bea0fd"
+  },
+  "README.md": {
+    "bytes": 1565,
+    "sha256": "44f215a4c638d7b91e2bda5f680d99780f376703ee43dfe6ea26fe2cdd4d31d5"
+  },
+  "Reference-Audit.json": {
+    "bytes": 5781,
+    "sha256": "f4ded3100f1be520e3f9199e23b541feb37226c691dd4dfd77b4c935898c0501"
+  },
+  "prompts/Clip-07-15s-Corrected-v2.txt": {
+    "bytes": 2710,
+    "sha256": "a0236aa371b1d46afe9e0eaba83d8904c04efbec6b1d9601f697693c209d6da4"
+  },
+  "prompts/Clip-08-15s-Corrected-v2.txt": {
+    "bytes": 2478,
+    "sha256": "36686b787aa20ed1f5ecb9fc7000e93edc19ef2be2e6eaa74d0e566b029a2c53"
+  },
+  "prompts/Clip-09-10s-Corrected-v2.txt": {
+    "bytes": 2512,
+    "sha256": "811c94e6da8a8fd84bc8fddf8fac2e38cd72b96a2c7602ba88a253cd292a4e9c"
+  },
+  "prompts/Clip-10-20s-Corrected-v2.txt": {
+    "bytes": 2851,
+    "sha256": "90d68e01c58535421d19a3c08707aef9250f2998ff86fffad3d854d89e83786b"
+  },
+  "prompts/Clip-11-15s-Corrected-v2.txt": {
+    "bytes": 2623,
+    "sha256": "6ad2c40ff127160bd6564c4e7f1c917d28ccc67be4c2fedd2266b014d0a1e336"
+  },
+  "prompts/Clip-12-15s-Corrected-v2.txt": {
+    "bytes": 2499,
+    "sha256": "2344603958edbc5b2a5dc9959da3316f543333527e98b99d937a899eeffed76b"
+  },
+  "prompts/Clip-13-10s-Corrected-v2.txt": {
+    "bytes": 2499,
+    "sha256": "6d420b9eb9278c3a3135d3315c37b2c268c3cea89723b11b93cd09593534447d"
+  },
+  "prompts/Clip-14-10s-Corrected-v2.txt": {
+    "bytes": 2545,
+    "sha256": "993f26f1659f9b9fd0e9bdcfdf180e8727923c0e6028732f1c33001bab61a2f9"
+  },
+  "prompts/Clip-15-10s-Corrected-v2.txt": {
+    "bytes": 2818,
+    "sha256": "533eb822083ec8392d7306654c27d8e08b7e5686e366853ae0d8ef222279c2c0"
+  },
+  "prompts/Clip-16-5s-Corrected-v2.txt": {
+    "bytes": 1899,
+    "sha256": "030e4edf7cecbeb078653b0f81905413c0612cbad6f751be4f67cf9f10f09164"
+  },
+  "references/Clip-07-Bakery-Moy-Bagwis-Ning.png": {
+    "bytes": 2662626,
+    "sha256": "c191a48d873a03faec7409a6ebdbfc2ccb1c3aea2af9be5ad1eb20c021a97e81"
+  },
+  "references/Clip-08-Market-Exit-Watcher.png": {
+    "bytes": 2114997,
+    "sha256": "40096bdeee6d705a3c8d2facc98b6f126c4f3058d2a337dde33c2aec5615b640"
+  },
+  "references/Clip-09-Homecoming-Open-Gate.png": {
+    "bytes": 3201710,
+    "sha256": "4861248d8e542a1e254bdb2decd21007e0c952ebe95d519aff6887c3b08f2e00"
+  },
+  "references/Clip-10-Guarded-Gate-Conversation.png": {
+    "bytes": 2832597,
+    "sha256": "2d858ad79e8d08eb26f8450a6af4ebe7be8c91c89f6e43bccca53968a5d16796"
+  },
+  "references/Clip-11-Dining-Bandaged-Left-Arm.png": {
+    "bytes": 2578999,
+    "sha256": "fe5e5c407ceb9af14ed21480436827e35f3e61439279a842807d9aef78d6f1d0"
+  },
+  "references/Clip-12-Dining-Loosened-Dressing.png": {
+    "bytes": 2444077,
+    "sha256": "81fd3b5052d705423c85a667080d9d4023616c5705f373b9e169527cdf5568a9"
+  },
+  "references/Clip-13-Bedroom-Photo-And-Phone.png": {
+    "bytes": 2234924,
+    "sha256": "0df53cffae9b279fce81eda5e6b16fc98134d5370f6a32ba06fc663320e3e2a1"
+  },
+  "references/Clip-14-Bagwis-Outside-Fence.png": {
+    "bytes": 2714398,
+    "sha256": "072a9591003c3c56f40da1eb312cda2c4c2966b404d113fe859ade0899561263"
+  },
+  "references/Clip-15-Bedroom-Closed-Door.png": {
+    "bytes": 2448152,
+    "sha256": "56efdcf17c864bc30149cbe51a7f68ede65975416b387e0b1f07db4ddc1533a7"
+  },
+  "references/Clip-16-Tomas-Inside-Garden.png": {
+    "bytes": 2870957,
+    "sha256": "d7ce50e084a2068beb5d4d459c395e02f5fe2d2f070fcfc24a5c4b2a3a002ca1"
+  },
+  "voices/Bagwis-Voice-Reference-5s.wav": {
+    "bytes": 240078,
+    "sha256": "f965d0e09d137b1d716bb424ec019437ee727a02df0b1510e0309bccc77b6e38"
+  },
+  "voices/Beauty-Voice-Reference-5s.wav": {
+    "bytes": 240078,
+    "sha256": "a4e72ded2fe0d165d8e0ea0b7a51418dc7162f654163702e6283992a21094383"
+  },
+  "voices/Moy-Voice-Reference-5s.wav": {
+    "bytes": 240078,
+    "sha256": "35796b64d308ce44c1fc2b78435502ec4f36d390901cabf78c0979a9f1fe86df"
+  },
+  "voices/Ning-Voice-Reference-5s.wav": {
+    "bytes": 240078,
+    "sha256": "3bf4c181e3b83946dd116389f40a29431ec1d77754ed3903249ffac0c6f3dc5d"
+  },
+  "voices/Tomas-Voice-Reference-5s.wav": {
+    "bytes": 240078,
+    "sha256": "a0a47853e201c4a193802264c464ea65efded12989295d0021c2f71f593242c6"
+  }
+}

@@ -1,0 +1,97 @@
+[
+  {
+    "clip": 7,
+    "seconds": 15,
+    "image1": "references/Clip-07-Bakery-Moy-Bagwis-Ning.png",
+    "voices": {
+      "Audio1": "Moy",
+      "Audio2": "Bagwis",
+      "Audio3": "Ning"
+    },
+    "prompt": "prompts/Clip-07-15s-Corrected-v2.txt"
+  },
+  {
+    "clip": 8,
+    "seconds": 15,
+    "image1": "references/Clip-08-Market-Exit-Watcher.png",
+    "voices": {
+      "Audio1": "Bagwis",
+      "Audio2": "Beauty"
+    },
+    "prompt": "prompts/Clip-08-15s-Corrected-v2.txt"
+  },
+  {
+    "clip": 9,
+    "seconds": 10,
+    "image1": "references/Clip-09-Homecoming-Open-Gate.png",
+    "voices": {
+      "Audio1": "Beauty",
+      "Audio2": "Tomas"
+    },
+    "prompt": "prompts/Clip-09-10s-Corrected-v2.txt"
+  },
+  {
+    "clip": 10,
+    "seconds": 20,
+    "image1": "references/Clip-10-Guarded-Gate-Conversation.png",
+    "voices": {
+      "Audio1": "Tomas",
+      "Audio2": "Bagwis",
+      "Audio3": "Beauty"
+    },
+    "prompt": "prompts/Clip-10-20s-Corrected-v2.txt"
+  },
+  {
+    "clip": 11,
+    "seconds": 15,
+    "image1": "references/Clip-11-Dining-Bandaged-Left-Arm.png",
+    "voices": {
+      "Audio1": "Beauty",
+      "Audio2": "Tomas"
+    },
+    "prompt": "prompts/Clip-11-15s-Corrected-v2.txt"
+  },
+  {
+    "clip": 12,
+    "seconds": 15,
+    "image1": "references/Clip-12-Dining-Loosened-Dressing.png",
+    "voices": {
+      "Audio1": "Beauty",
+      "Audio2": "Tomas"
+    },
+    "prompt": "prompts/Clip-12-15s-Corrected-v2.txt"
+  },
+  {
+    "clip": 13,
+    "seconds": 10,
+    "image1": "references/Clip-13-Bedroom-Photo-And-Phone.png",
+    "voices": {},
+    "prompt": "prompts/Clip-13-10s-Corrected-v2.txt"
+  },
+  {
+    "clip": 14,
+    "seconds": 10,
+    "image1": "references/Clip-14-Bagwis-Outside-Fence.png",
+    "voices": {
+      "Audio1": "Bagwis",
+      "Audio2": "Beauty"
+    },
+    "prompt": "prompts/Clip-14-10s-Corrected-v2.txt"
+  },
+  {
+    "clip": 15,
+    "seconds": 10,
+    "image1": "references/Clip-15-Bedroom-Closed-Door.png",
+    "voices": {
+      "Audio1": "Tomas"
+    },
+    "prompt": "prompts/Clip-15-10s-Corrected-v2.txt"
+  },
+  {
+    "clip": 16,
+    "seconds": 5,
+    "image1": "references/Clip-16-Tomas-Inside-Garden.png",
+    "voices": {},
+    "prompt": "prompts/Clip-16-5s-Corrected-v2.txt"
+  }
+]
