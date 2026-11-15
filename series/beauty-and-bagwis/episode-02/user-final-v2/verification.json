@@ -1,0 +1,14 @@
+{
+  "source_picture_seconds": 195,
+  "source_audio_seconds": 195.0244375,
+  "export_seconds": 199.4,
+  "audio_speed": 1,
+  "audio_gain": 1,
+  "audio_policy": "Full user audio including final supernatural voice, mutes and effects retained in order; AAC reencoded, not bit-identical",
+  "minimum_source_waveform_correlation": 0.9996834132360901,
+  "last25_seconds_waveform_correlation": 0.9999916598587819,
+  "full_decode_passed_both_versions": true,
+  "black_final_frame": true,
+  "new_generation_usd": 0,
+  "review_limit": "Sampled picture frames and automated waveform/decode checks, not full direct listening/playback"
+}
