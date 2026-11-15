@@ -1,0 +1,151 @@
+[
+  {
+    "clip": 6,
+    "file": "Clip-06-Bakery-Beauty-Ning.png",
+    "dimensions": [
+      940,
+      1674
+    ],
+    "sha256": "de64bdbd693b011bd11f813b6cd2d9621705bc4546db6a407a0b106b37948c18",
+    "voice_map": {
+      "Audio1": "Ning",
+      "Audio2": "Beauty"
+    },
+    "source_generated_image": "exec-07b0f51b-c3a1-429b-a05c-769b50b83643.png"
+  },
+  {
+    "clip": 7,
+    "file": "Clip-07-Bakery-Moy-Bagwis-Ning.png",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "sha256": "c191a48d873a03faec7409a6ebdbfc2ccb1c3aea2af9be5ad1eb20c021a97e81",
+    "voice_map": {
+      "Audio1": "Moy",
+      "Audio2": "Bagwis",
+      "Audio3": "Ning"
+    },
+    "source_generated_image": "exec-6371073c-181a-45cd-8ddc-aef60f588080.png"
+  },
+  {
+    "clip": 8,
+    "file": "Clip-08-Market-Exit-Watcher.png",
+    "dimensions": [
+      940,
+      1674
+    ],
+    "sha256": "40096bdeee6d705a3c8d2facc98b6f126c4f3058d2a337dde33c2aec5615b640",
+    "voice_map": {
+      "Audio1": "Bagwis",
+      "Audio2": "Beauty"
+    },
+    "source_generated_image": "exec-9df118bd-016c-4e97-81a7-671948041919.png"
+  },
+  {
+    "clip": 9,
+    "file": "Clip-09-Homecoming-Open-Gate.png",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "sha256": "4861248d8e542a1e254bdb2decd21007e0c952ebe95d519aff6887c3b08f2e00",
+    "voice_map": {
+      "Audio1": "Beauty",
+      "Audio2": "Tomas"
+    },
+    "source_generated_image": "exec-65527612-7efc-48f6-9164-f29409ce9ef4.png"
+  },
+  {
+    "clip": 10,
+    "file": "Clip-10-Guarded-Gate-Conversation.png",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "sha256": "2d858ad79e8d08eb26f8450a6af4ebe7be8c91c89f6e43bccca53968a5d16796",
+    "voice_map": {
+      "Audio1": "Tomas",
+      "Audio2": "Bagwis",
+      "Audio3": "Beauty"
+    },
+    "source_generated_image": "exec-b200b5e2-d78f-46d5-ac58-af3eb10098dc.png"
+  },
+  {
+    "clip": 11,
+    "file": "Clip-11-Dining-Bandaged-Left-Arm.png",
+    "dimensions": [
+      1086,
+      1448
+    ],
+    "sha256": "fe5e5c407ceb9af14ed21480436827e35f3e61439279a842807d9aef78d6f1d0",
+    "voice_map": {
+      "Audio1": "Beauty",
+      "Audio2": "Tomas"
+    },
+    "source_generated_image": "exec-71af2c70-9cb7-48b5-b34b-ac019c295c08.png"
+  },
+  {
+    "clip": 12,
+    "file": "Clip-12-Dining-Loosened-Dressing.png",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "sha256": "81fd3b5052d705423c85a667080d9d4023616c5705f373b9e169527cdf5568a9",
+    "voice_map": {
+      "Audio1": "Beauty",
+      "Audio2": "Tomas"
+    },
+    "source_generated_image": "exec-f877def8-7bc5-42bd-9608-8c1a9945cb70.png"
+  },
+  {
+    "clip": 13,
+    "file": "Clip-13-Bedroom-Photo-And-Phone.png",
+    "dimensions": [
+      1054,
+      1493
+    ],
+    "sha256": "0df53cffae9b279fce81eda5e6b16fc98134d5370f6a32ba06fc663320e3e2a1",
+    "voice_map": {},
+    "source_generated_image": "exec-1cf44cb3-d5f6-4d3b-9c7c-633a836f417d.png"
+  },
+  {
+    "clip": 14,
+    "file": "Clip-14-Bagwis-Outside-Fence.png",
+    "dimensions": [
+      1086,
+      1448
+    ],
+    "sha256": "072a9591003c3c56f40da1eb312cda2c4c2966b404d113fe859ade0899561263",
+    "voice_map": {
+      "Audio1": "Bagwis",
+      "Audio2": "Beauty"
+    },
+    "source_generated_image": "exec-dadd4eb4-aa3a-42aa-9f02-41bfee041bdf.png"
+  },
+  {
+    "clip": 15,
+    "file": "Clip-15-Bedroom-Closed-Door.png",
+    "dimensions": [
+      1054,
+      1493
+    ],
+    "sha256": "56efdcf17c864bc30149cbe51a7f68ede65975416b387e0b1f07db4ddc1533a7",
+    "voice_map": {
+      "Audio1": "Tomas"
+    },
+    "source_generated_image": "exec-65f21508-b8a8-4f56-a095-f113beb66086.png"
+  },
+  {
+    "clip": 16,
+    "file": "Clip-16-Tomas-Inside-Garden.png",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "sha256": "d7ce50e084a2068beb5d4d459c395e02f5fe2d2f070fcfc24a5c4b2a3a002ca1",
+    "voice_map": {},
+    "source_generated_image": "exec-cb1d3f9f-c0fc-4888-801c-cbdbd81b2017.png"
+  }
+]
