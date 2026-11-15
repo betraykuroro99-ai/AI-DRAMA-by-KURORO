@@ -1,0 +1,22 @@
+2D comic book illustration style, bold black ink outlines, flat cel shading, warm earthy color palette, detailed painterly realistic 2D Filipino provincial environments. Original Filipino romantic supernatural mystery. Portrait 9:16, 480p. Match established exact adult faces, hairstyles, clothing and environment references in every frame. Smooth ordinary real-time animation, no slow motion or stretched syllables. Small natural jaw and lip movements for visible speakers only, closed relaxed mouths while listening. Expressive but restrained reactions. Natural conversational Tagalog with breaths at punctuation and brief listening pauses. Do not race dialogue to fill a duration window. Reference images guide identity/layout, not guaranteed first-frame locks. One coherent scene, locked camera unless explicitly stated. No cuts or zooms.
+
+Negative: photorealistic, 3D render, Pixar style, captions, subtitles, readable text, logos, watermark, split screen, duplicate characters or props, extra limbs, swapped hands, deformed fingers, face warping, morphing, flicker, broad O mouths, teeth-baring, chewing, repeated nodding, head bobbing, invented dialogue, visible full monster, visible cat ears or tail. No music or narration. Native generated audio with reference voices, no separate dubbing or lipsync. Never recite the neutral voice recordings. Only the exact dialogue below; silent characters never articulate others' lines.
+
+@image1: NEW combined threshold reference matching Clip09 end; small curved black sliver on floor beside gray dust; inverted clear glass ALREADY covering it.
+@Audio1 is Beauty’s existing exact5-second voice identity. Generate new Tagalog dialogue, never sample words.
+@Audio2 is Tomas’s existing exact5-second voice identity. Generate new Tagalog dialogue, never sample words.
+
+OPENING STATE:
+Beauty and Tomas beside open doorway. A small curved black splinter is ALREADY covered by an inverted clear drinking glass on a stiff card. No one touches the sliver. Phone stays in Beauty’s left hand. Tomas’s left bandage and right-hand flashlight unchanged. Match faces and clothes.
+
+TIMED ACTION — 15 seconds:
+0–0.5s: Beauty glances from the covered fragment to Tomas’s bandage.
+0.5–6s: Beauty asks naturally: “Kung yero lang ’yung sugat mo, bakit ta kot ka rito?” Brief pause after “mo.” Tomas listens, mouth closed.
+6–6.5s: Tomas looks at the covered fragment, avoiding her eyes.
+6.5–10.5s: Beauty explains: “May naiwan sa pinto. Tinakpan ko ng baso.” Natural sentence pause. She glances toward the glass without touching it. Tomas remains silent.
+10.5–11s: Tomas looks back at Beauty.
+11–13.5s: Tomas replies quietly: “Hindi kita gustong ma damay.” Beauty listens with her mouth closed.
+13.5–15s: Beauty holds his gaze. Both mouths relax closed. Phone remains in Beauty’s LEFT hand. Flashlight remains only in Tomas’s RIGHT hand; his bandaged LEFT arm stays lowered. Glass and covered fragment remain untouched.
+
+END STATE:
+Covered clue remains safely on card. Beauty has challenged Tomas; he acknowledges danger without naming creature or culprit.

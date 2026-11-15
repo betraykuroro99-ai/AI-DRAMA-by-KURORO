@@ -1,0 +1,19 @@
+{
+  "duration_seconds": 15.023,
+  "model": "wan-3-0-reference-to-video",
+  "format": "480x854 portrait, native Tagalog audio",
+  "requested_pronunciation_cues": [
+    "ta kot",
+    "ma damay"
+  ],
+  "additional_reserved_usd": 0.68,
+  "episode_reserved_total_usd": 10.82,
+  "take_count_for_this_request": 1,
+  "raw_issues": [
+    "Extra unscripted phrase around4.1\u20135.3seconds detected by local transcription.",
+    "Beauty has duplicated phone prop in raw take."
+  ],
+  "optional_clean_edit": "Mutes only3.8\u20135.65seconds, uses same-time Beauty/Tomas upper-body coverage and a covered-fragment insert to exclude duplicated phone. No new TTS, lipsync, speed changes or paid rerolls.",
+  "verification": "Full clean-file decode and sampled frames; local small-model transcript contains intended three lines with no detected extra phrase. Direct listening, pronunciation and full motion remain for user review.",
+  "originals": "Previous Clip10 and full episode review export unchanged."
+}
