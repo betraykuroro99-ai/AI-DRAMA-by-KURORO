@@ -1,0 +1,17 @@
+{
+  "status": "pending_user_review",
+  "duration_seconds": 10.031,
+  "dialogue_detected": [
+    "Si Papa? Siya nga ang nagpalayas sa yo.",
+    "Pag-akyat mo, pinabalik niya ako.",
+    "Sa kanya ko itatanong."
+  ],
+  "speech_check": "Local automated transcript detects all3intended lines, no extra reference-sample phrases detected. No speech edits or speed changes.",
+  "sampled_visual_review": "Both outside shed, one Beauty phone and tan bag, lantern lit, wall shadow remains inside. Beauty turns toward path near ending; Bagwis begins to follow. No obvious duplicated limbs/props in sampled frames.",
+  "actual_end_state": "Beauty RIGHT turning toward exit path with phone still in LEFT hand and bag worn; Bagwis LEFT moving slightly toward foreground. Both remain outside shed.",
+  "cost_reserved_usd": 0.45,
+  "episode_reserved_total_usd": 2.03,
+  "cap_usd": 12,
+  "limitations": "Full file decode, local transcription and sampled picture frames only. User should review native pronunciation, performance and motion.",
+  "next_action": "Stop for user review before Clip05 or paid reroll."
+}
