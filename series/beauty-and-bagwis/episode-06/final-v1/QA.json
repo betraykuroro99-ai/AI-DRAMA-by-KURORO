@@ -1,0 +1,24 @@
+{
+  "runtime_seconds": 192.458333,
+  "format": "480x854 portrait,24fps,H.264/AAC",
+  "full_decode": "Passed after final native-audio continuity remux, both exports",
+  "files": {
+    "Beauty-and-Bagwis-E06-Ang-Unang-Kasinungalingan.mp4": {
+      "duration": "192.458333",
+      "size": "22472043"
+    },
+    "Beauty-and-Bagwis-E06-Small.mp4": {
+      "duration": "192.458333",
+      "size": "17961257"
+    }
+  },
+  "visual_review": "Source sampled frames and final hook, faces, close-up crops, shadow insert, new Sabel question, moving watermark and ABANGAN reviewed",
+  "speech_review": "Local automated Tagalog ASR, not human phonetic certification",
+  "native_generated_dialogue": true,
+  "separate_dubbing_or_lipsync": false,
+  "speed_changes": false,
+  "reserved_generation_usd": 18.25,
+  "approved_ceiling_usd": 20,
+  "billing_note": "Includes two rejected requests at quote amounts conservatively; not independently verified invoice",
+  "editing": "FFmpeg cloud edit, not CapCut"
+}
