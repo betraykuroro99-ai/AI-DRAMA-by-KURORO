@@ -1,0 +1,39 @@
+{
+  "duration": 170.39999999999998,
+  "entries": [
+    {
+      "source": "Beauty-and-Bagwis-E03-Pronunciation-Preview-v1.mp4",
+      "start": 0,
+      "end": 104.6,
+      "timeline_start": 0,
+      "timeline_end": 104.6,
+      "speed": 1,
+      "crop": "none"
+    },
+    {
+      "source": "Beauty-and-Bagwis-E03-Clip12-Continuity-Repair-v1.mp4",
+      "start": 1.8,
+      "end": 12.8,
+      "timeline_start": 104.6,
+      "timeline_end": 115.6,
+      "speed": 1,
+      "crop": "crop=240:427:240:140,scale=480:854,setsar=1"
+    },
+    {
+      "source": "Beauty-and-Bagwis-E03-Pronunciation-Preview-v1.mp4",
+      "start": 110.2,
+      "end": 165.0,
+      "timeline_start": 115.6,
+      "timeline_end": 170.39999999999998,
+      "speed": 1,
+      "crop": "none"
+    }
+  ],
+  "audio_gain": 0.9896770172791994,
+  "approved_pronunciation_source": "Beauty-and-Bagwis-E03-Pronunciation-Preview-v1.mp4",
+  "user_pronunciation_approval": "Tinulungan is ok",
+  "user_continuity_authorization": "Oo fix episode 3",
+  "new_reply": "Siya ang nag-uwi sa akin. Wala akong malay noon. Nung pinabalik ko siya pagkatapos mong umakyat, saka ko nalaman.",
+  "removals": "Extra spoken Tomas label at start of new take excluded; original short ambiguous response replaced.",
+  "preserved": "Approved pronunciation, original remaining scenes, bare healed forearm, shadow cleanup, moving watermark, full ABANGAN fade."
+}
