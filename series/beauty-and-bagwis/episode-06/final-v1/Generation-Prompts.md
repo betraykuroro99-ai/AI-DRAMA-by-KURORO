@@ -401,4 +401,3 @@ Submission status: generated_pending_qa. Reference image: sabel.png. Voice: Sabe
 0–1s Sabel listens, concerned. 1–4s she asks naturally in Tagalog, uneasy but clearly audible: “Ano pa ang hindi mo sinabi?” 4–10s her mouth relaxes closed, worried gaze toward Tomas offscreen. No additional words, no greetings, no voice sample sentences, no narration. Mild lip/jaw movement, no broad O mouth, no repetitive nods.
 
 Negative: subtitles, readable text, music, cuts, new people, changed clothes,3D, photographic face, morphing, face warp, extra limbs, speaking the reference recording.
-
