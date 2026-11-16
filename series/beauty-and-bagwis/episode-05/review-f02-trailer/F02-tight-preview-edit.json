@@ -1,0 +1,27 @@
+{
+  "source": "Beauty-and-Bagwis-E05-F02-Flash-Trailer-Take.mp4",
+  "source_spans_seconds": [
+    [
+      0,
+      1.45
+    ],
+    [
+      2.75,
+      3.65
+    ],
+    [
+      3.9,
+      4.8
+    ],
+    [
+      5.0,
+      5.75
+    ],
+    [
+      7.4,
+      8.1
+    ]
+  ],
+  "method": "Remove idle spans; ordinary speed, no optical-flow or generated new action",
+  "purpose": "Pacing preview only; not a continuity-correct final"
+}
