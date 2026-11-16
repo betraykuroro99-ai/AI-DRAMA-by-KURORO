@@ -1,0 +1,22 @@
+{
+  "episode": 4,
+  "status": "Completed review cut; user listening review pending",
+  "model": "Wan 3.0 Reference, native Tagalog audio",
+  "format": "Portrait 480x854,30fps",
+  "voice": "Beauty C; existing Bagwis,Tomas,Moy,Ning; Sabel existing candidate used throughout",
+  "cost_reserved_usd": 13.88,
+  "cap_usd": 15,
+  "changes": [
+    "Counter-arrival staging repair is retained before Moy addresses Tomas.",
+    "Only visible cast and necessary props appear in focused prompts, removing initial costume/cast mixing.",
+    "Selected Clip12 v2 retains both plural amin occurrences; selected Clip15 v2 has clean complete warning and silent ending.",
+    "Clip10 combines new corrected tinulungan first sentence with cleaner original remaining sentences; each native audio remains with its own picture.",
+    "Extra reference phrases removed from Clips04,08,11 and other unused raw tails.",
+    "Silent action clips04A,14,16 muted; no added music or dialogue dubbing.",
+    "Historical evidence photo is a stable local insert based on existing parent reference, not a model-generated changing photograph.",
+    "Tomas has bare intact forearms throughout selected scenes; full-frame and detailed sampled crops checked.",
+    "Ending uses motivated father/daughter closer crops and a fade after complete final syllable, then ABANGAN/final black."
+  ],
+  "canon_note": "Episode3 name/rescue gap was not an intentional clue. Proposed unconscious-rescue clarification remains unrendered; a separate free pronunciation-only Episode3 preview does not add that plot explanation.",
+  "limitations": "Local automated Tagalog transcription and sampled visuals do not establish perfect pronunciation, acting or every-frame anatomy. Final user watch/listen recommended before posting."
+}

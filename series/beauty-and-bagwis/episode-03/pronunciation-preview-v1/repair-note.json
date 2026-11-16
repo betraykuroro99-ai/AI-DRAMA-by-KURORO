@@ -1,0 +1,21 @@
+{
+  "status": "Preview for listening review, not an approved canon rewrite",
+  "target_phrase": "Tinulungan ka niya",
+  "target_seconds": [
+    110.20000000000002,
+    111.56000000000002
+  ],
+  "clean_word_source": "Beauty-and-Bagwis-E04-Clip10-Wan-v2.mp4",
+  "source_native_prefix_seconds": [
+    1.86,
+    2.78
+  ],
+  "retained_niya_seconds": [
+    111.20000000000002,
+    111.56000000000002
+  ],
+  "audio_gain": 0.8674336075782776,
+  "video": "Original healed-forearm v2 video stream copied unchanged",
+  "other_dialogue": "Retained; proposed unconscious-rescue clarification NOT rendered",
+  "new_venice_charge": 0
+}
