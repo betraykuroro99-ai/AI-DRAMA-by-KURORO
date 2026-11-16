@@ -12,7 +12,7 @@ The fight opens Episode 5 as a memory. Young Tomas and Bagwis’s father are att
 - Portrait **9:16**, **480p**. Seedance 2.5 Flash R2V remains the selected generation model; verify actual controls/quotes on the platform used.
 - Cinematic trailer-style action: urgent ordinary real-time movement, connected attack/response/counter, meaningful changes of angle, forceful impacts. No slow motion, prolonged wind-up, repeated attack at cuts or held victory poses.
 - No combat dialogue, narration, music, captions or watermark baked into generated action. Keep native material-specific action sounds. Narration, NOON and Kuro Dorama watermark can be added in editing. Later conversation stays Tagalog.
-- Intended action footage approximately **35–45 seconds**, subject to readable movement and editing. Do not stretch it to one minute. The first 3–5 seconds are the hook; the rest of the memory can resume after a short present-day exchange without replaying the hook.
+- Intended action footage approximately **25–35 seconds**, subject to readable movement and editing. Do not stretch it to one minute. The first 3–5 seconds are the hook; the rest of the memory can resume after a short present-day exchange without replaying the hook.
 
 ## References and their exact roles
 
