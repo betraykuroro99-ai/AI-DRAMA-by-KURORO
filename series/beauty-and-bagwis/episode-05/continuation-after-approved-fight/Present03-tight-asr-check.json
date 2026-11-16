@@ -1,0 +1,15 @@
+{
+  "method": "Local automated ASR, not direct listening",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 2.3,
+      "text": " Bakit ngayon ko lang na ririnig do?"
+    },
+    {
+      "start": 3.3,
+      "end": 5.3,
+      "text": " Wala siyang ikinuwento sa akin."
+    }
+  ]
+}

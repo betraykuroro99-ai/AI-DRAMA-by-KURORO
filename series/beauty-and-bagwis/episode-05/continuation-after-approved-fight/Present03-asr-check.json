@@ -1,0 +1,20 @@
+{
+  "method": "Local automated ASR, not direct listening",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 2.5,
+      "text": " Magandang umaga."
+    },
+    {
+      "start": 3.5,
+      "end": 5.5,
+      "text": " Bakit ngayong kulang naririnig to?"
+    },
+    {
+      "start": 6.5,
+      "end": 8.5,
+      "text": " Wala siyang ikinuwento sa akin?"
+    }
+  ]
+}

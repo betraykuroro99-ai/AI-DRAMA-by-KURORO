@@ -1,0 +1,26 @@
+{
+  "status": "Work in progress, not full episode; includes pending Bagwis take",
+  "segments": [
+    {
+      "file": "Beauty-and-Bagwis-E05-User-Fight-Water-Exit-Fixed.mp4",
+      "start": 0,
+      "end": 33.62502
+    },
+    {
+      "file": "Beauty-and-Bagwis-E05-Present01-Beauty-Question-Tight.mp4",
+      "start": 33.62502,
+      "end": 41.691687
+    },
+    {
+      "file": "Beauty-and-Bagwis-E05-Present02-Tomas-Reply.mp4",
+      "start": 41.691687,
+      "end": 51.691687
+    },
+    {
+      "file": "Beauty-and-Bagwis-E05-Present03-Bagwis-Reaction-Tight.mp4",
+      "start": 51.691687,
+      "end": 57.891687000000005
+    }
+  ],
+  "duration_seconds": 57.891687000000005
+}

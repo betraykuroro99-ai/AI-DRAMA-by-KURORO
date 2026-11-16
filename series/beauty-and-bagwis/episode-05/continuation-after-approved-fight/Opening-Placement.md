@@ -1,0 +1,3 @@
+# Episode5 opening placement
+
+Start with approved33.625second repaired fight as MEMORY. Add small NOON in editing during the first2seconds, not generated text. Do not change fight into current-night event, and do not replay it later. Hard cut after supported escape to present-day warm bakery. Then: Present01 Beauty question (tight8.05s), Present02 Tomas reply (full10.031s), Present03 Bagwis reaction (pending actual output). Current sequence approximately one minute, not a final full episode. No second explanatory fight montage; story proceeds through family admissions and present threat. Final episode remains to be completed with meaningful scenes rather than slower speech/filler.
