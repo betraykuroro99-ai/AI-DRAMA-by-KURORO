@@ -1,0 +1,25 @@
+{
+  "method": "Local automated ASR, not direct listening",
+  "segments": [
+    {
+      "start": 0.85,
+      "end": 3.85,
+      "text": " may nawala sa barrio pagkatapos ng gabing yun."
+    },
+    {
+      "start": 4.85,
+      "end": 6.85,
+      "text": " Pamilia mo ang sinisi nila"
+    },
+    {
+      "start": 7.85,
+      "end": 9.85,
+      "text": " at naniwala ako"
+    },
+    {
+      "start": 11.85,
+      "end": 13.85,
+      "text": " kahit iniligta sa kunang papa mo."
+    }
+  ]
+}
