@@ -1,0 +1,10 @@
+{
+  "source_cut_frame": 491,
+  "source_cut_seconds": 20.458333333333332,
+  "insert_source_in": 0.125,
+  "insert_source_out": 3.75,
+  "insert_seconds": 3.625,
+  "final_insert_out": 24.083333333333332,
+  "audio": "Original audio retained; insert +6dB, short join fades, no music/new TTS",
+  "review": "Full final/standalone decode passed; no direct continuous playback/listening claim"
+}
