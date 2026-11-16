@@ -1,0 +1,20 @@
+{
+  "method": "Local automated ASR, not direct listening",
+  "segments": [
+    {
+      "start": 0.98,
+      "end": 4.32,
+      "text": " akala ko, pinoprotektahan kita."
+    },
+    {
+      "start": 4.98,
+      "end": 7.7,
+      "text": " Pero may mga pinaniwalaan na kuno'on"
+    },
+    {
+      "start": 7.84,
+      "end": 10.02,
+      "text": " na hindi kuman lang siniguro."
+    }
+  ]
+}
