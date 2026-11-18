@@ -1,0 +1,82 @@
+{
+  "episode": 8,
+  "runtime_seconds": 151.375,
+  "video": "480x854 portrait, 24 fps, H.264/AAC",
+  "full_export_decode": {
+    "Beauty-and-Bagwis-E08-Ang-Katotohanan-ni-Bagwis.mp4": {
+      "passed": true,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 480,
+            "height": 854,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "151.375000",
+          "size": "16462228"
+        }
+      },
+      "sha256": "0a9c2eb435c02d8620ea4a852de5df6854911772336293427ee7b95734b4fef1"
+    },
+    "Beauty-and-Bagwis-E08-Small.mp4": {
+      "passed": true,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 480,
+            "height": 854,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "151.381000",
+          "size": "14112239"
+        }
+      },
+      "sha256": "d47f871014572c539bf993ba3df3e66a6c3c67ae5406cbbb9e611d9a792e2fae"
+    }
+  },
+  "review": "Actual source contact sheets and selected rendered frames reviewed; local automated Tagalog word timestamps used to trim unwanted extra speech. This is not certification of every phoneme, accent or animation frame.",
+  "native_generated_audio": true,
+  "separate_tts_or_lipsync": false,
+  "speed_changes": false,
+  "budget_cap_usd": 20,
+  "quoted_reserved_usd": 16.04,
+  "paid_takes": 24,
+  "selected_takes": 22,
+  "repairs": [
+    "D10R2: restore both exact questions; discard unrelated voice-reference tail in edit",
+    "D05R2: clearer humila in witness testimony, fifteen-second source"
+  ],
+  "edits": [
+    "Trim unused lead-ins and invented tails from D02, D10R2, D14, D16 and D19",
+    "Retain natural dialogue speed and sentence pauses",
+    "Reframe to exclude incidental forearm detail and unstable hands",
+    "Fixed ELENA reporting-person insert over continuous native dialogue",
+    "Single Seedance strike, clear contact then persistent post damage",
+    "Moving translucent Kuro Dorama watermark and dramatic fade to ABANGAN"
+  ],
+  "limitations": [
+    "Small native animation and pronunciation variation can remain",
+    "D10R2 has a background variation within the bakery; a tight Beauty close-up reduces its prominence",
+    "No new full fight is resolved in this episode; the physical threat carries into Episode 9"
+  ],
+  "final_cut_asr_check": "Completed: intended dialogue order retained; unrelated greetings/reference-sample tails removed. ASR is approximate, not phonetic certification.",
+  "final_sampled_frame_review": "Reviewed whole-episode contact sheet plus exact evidence, revelation, impact and ABANGAN frames."
+}
